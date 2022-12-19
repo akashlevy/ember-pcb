@@ -8,7 +8,6 @@
 * [x] Akash layout checklist
 * [ ] Luke layout checklist
 * [x] Upload GRBR and get full quote
-* [x] Get PO
 
 ## Questions/Tentative
 
@@ -19,6 +18,6 @@
 
 ## Wishlist
 
-* [ ] Labels on bottom pins (EASY)
+* [x] Labels on bottom pins (EASY)
 * [ ] Options for SPI input available directly on board
 * [ ] Header pins to enable pin remapping in case of problem
