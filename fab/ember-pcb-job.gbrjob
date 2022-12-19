@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.9-0)"
     },
-    "CreationDate": "2022-12-19T14:05:18-05:00"
+    "CreationDate": "2022-12-19T15:36:07-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -17,8 +17,8 @@
       "X": 119.353,
       "Y": 100.049
     },
-    "LayerNumber": 12,
-    "BoardThickness": 1.621,
+    "LayerNumber": 6,
+    "BoardThickness": 0.7915,
     "Finish": "Immersion gold",
     "ImpedanceControlled": true
   },
@@ -28,7 +28,9 @@
       "PadToPad": 0.1016,
       "PadToTrack": 0.1016,
       "TrackToTrack": 0.1016,
-      "MinLineWidth": 0.1016
+      "MinLineWidth": 0.1016,
+      "TrackToRegion": 0.254,
+      "RegionToRegion": 0.254
     },
     {
       "Layers": "Inner",
@@ -36,8 +38,8 @@
       "PadToTrack": 0.0,
       "TrackToTrack": 0.1016,
       "MinLineWidth": 0.1016,
-      "TrackToRegion": 0.1016,
-      "RegionToRegion": 0.1016
+      "TrackToRegion": 0.254,
+      "RegionToRegion": 0.254
     }
   ],
   "FilesAttributes": [
@@ -67,38 +69,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ember-pcb-In5_Cu.gbr",
-      "FileFunction": "Copper,L6,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ember-pcb-In6_Cu.gbr",
-      "FileFunction": "Copper,L7,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ember-pcb-In7_Cu.gbr",
-      "FileFunction": "Copper,L8,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ember-pcb-In8_Cu.gbr",
-      "FileFunction": "Copper,L9,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ember-pcb-In9_Cu.gbr",
-      "FileFunction": "Copper,L10,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "ember-pcb-In10_Cu.gbr",
-      "FileFunction": "Copper,L11,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "ember-pcb-B_Cu.gbr",
-      "FileFunction": "Copper,L12,Bot",
+      "FileFunction": "Copper,L6,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -220,92 +192,8 @@
       "Material": "FR4",
       "DielectricConstant": "3.63",
       "LossTangent": "0.02",
-      "Name": "In4.Cu/In5.Cu",
-      "Notes": "Type: dielectric layer 5 (from In4.Cu to In5.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In5.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.1016,
-      "Material": "FR4",
-      "DielectricConstant": "3.84",
-      "LossTangent": "0.02",
-      "Name": "In5.Cu/In6.Cu",
-      "Notes": "Type: dielectric layer 6 (from In5.Cu to In6.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In6.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.1701,
-      "Material": "FR4",
-      "DielectricConstant": "3.63",
-      "LossTangent": "0.02",
-      "Name": "In6.Cu/In7.Cu",
-      "Notes": "Type: dielectric layer 7 (from In6.Cu to In7.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In7.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.1016,
-      "Material": "FR4",
-      "DielectricConstant": "3.84",
-      "LossTangent": "0.02",
-      "Name": "In7.Cu/In8.Cu",
-      "Notes": "Type: dielectric layer 8 (from In7.Cu to In8.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In8.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.163,
-      "Material": "FR4",
-      "DielectricConstant": "3.63",
-      "LossTangent": "0.02",
-      "Name": "In8.Cu/In9.Cu",
-      "Notes": "Type: dielectric layer 9 (from In8.Cu to In9.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In9.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.1016,
-      "Material": "FR4",
-      "DielectricConstant": "3.84",
-      "LossTangent": "0.02",
-      "Name": "In9.Cu/In10.Cu",
-      "Notes": "Type: dielectric layer 10 (from In9.Cu to In10.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.0178,
-      "Name": "In10.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.085,
-      "Material": "FR4",
-      "DielectricConstant": "3.63",
-      "LossTangent": "0.02",
-      "Name": "In10.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 11 (from In10.Cu to B.Cu)"
+      "Name": "In4.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 5 (from In4.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
