@@ -1,16 +1,14 @@
 # TODO
 
 ## Must Do
-* [ ] Merge "fixes" branch
-* [ ] Review/sanity check with Robert
-* [ ] Akash schematic checklist
-* [ ] Better DFM check
-* [ ] Luke schematic checklist
-* [ ] Akash layout checklist
+* [x] Merge "fixes" branch
+* [x] Akash schematic checklist
+* [x] Better DFM check
+* [x] Luke schematic checklist
+* [x] Akash layout checklist
 * [ ] Luke layout checklist
-* [ ] Upload GRBR and get full quote
-* [ ] Get PO
-* [ ] Supply the PGA sockets (Luke)
+* [x] Upload GRBR and get full quote
+* [x] Get PO
 
 ## Questions/Tentative
 
