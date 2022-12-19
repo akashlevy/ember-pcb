@@ -2,28 +2,29 @@
 
 ## General
 
-* [ ] [Schematic review](schematic-checklist.md) complete and signed off, including pin swaps done during layout
-* [ ] Layout DRC 100% clean
+* [x] [Schematic review](schematic-checklist.md) complete and signed off, including pin swaps done during layout
+* [x] Layout DRC 100% clean
 
 ## Decoupling
 
-* [ ] Decoupling caps as close to power pins as possible
-* [ ] Low inductance mounting used for decoupling (prefer ViP if available, otherwise "[]8" shaped side vias
+* [x] Decoupling caps as close to power pins as possible
+  * [x] Huge planes, can solder on decoupling caps onto power pins on socket after the fact as well
+* [x] Low inductance mounting used for decoupling (prefer ViP if available, otherwise "[]8" shaped side vias (N/A)
 
 ## DFM / yield enhancement
 
-* [ ] All design rules within manufacturer's capability
-* [ ] Minimize use of vias/traces that push fab limits
-* [ ] Controlled impedance specified in fab notes if applicable
-* [ ] Confirm impedance calculations include soldermask, or mask removed from RF traces
-* [ ] Stackup verified with manufacturer and specified in fab notes
-* [ ] Board finish specified in fab notes
-* [ ] If panelizing, add panel location indicators for identifying location-specific reflow issues
-* [ ] (recommended) Layer number markers specified to ensure correct assembly
-* [ ] Fiducials present (on both sides of board) if targeting automated assembly
-* [ ] Fiducial pattern asymmetric to detect rotated or flipped boards
-* [ ] Soldermask/copper clearance on fiducials respected
-* [ ] Panelization specified if required
+* [x] All design rules within manufacturer's capability (N/A)
+* [x] Minimize use of vias/traces that push fab limits
+* [x] Controlled impedance specified in fab notes if applicable (N/A)
+* [x] Confirm impedance calculations include soldermask, or mask removed from RF traces (N/A)
+* [x] Stackup verified with manufacturer and specified in fab notes
+* [x] Board finish specified in fab notes
+* [x] If panelizing, add panel location indicators for identifying location-specific reflow issues (N/A)
+* [x] (recommended) Layer number markers specified to ensure correct assembly
+* [x] Fiducials present (on both sides of board) if targeting automated assembly
+* [x] Fiducial pattern asymmetric to detect rotated or flipped boards
+* [x] Soldermask/copper clearance on fiducials respected
+* [x] Panelization specified if required (N/A)
 
 ## Footprints
 
@@ -42,69 +43,74 @@
 
 ## High-speed signals
 
-* [ ] Sufficient clearance to potential aggressors
-* [ ] Length matched if required
-* [ ] Minimize crossing reference plane splits/slots or changing layers, use caps/stitching vias if unavoidable
-* [ ] Confirm fab can do copper to edge of PCB for edge launch connectors
-* [ ] Double-check pad width on connectors and add plane cutouts if needed to minimize impedance discontinuities
+* [x] Sufficient clearance to potential aggressors
+* [x] Length matched if required
+  * [x] See reports/ember-pcb.nets.xlsx for statistics on signal net length from FPGA
+* [x] Minimize crossing reference plane splits/slots or changing layers, use caps/stitching vias if unavoidable
+* [x] Confirm fab can do copper to edge of PCB for edge launch connectors
+* [x] Double-check pad width on connectors and add plane cutouts if needed to minimize impedance discontinuities (N/A)
 
 ## Power
-* [ ] Minimal slots in planes from via antipads
-* [ ] Sufficient width for planes/traces for required current
+* [x] Minimal slots in planes from via antipads
+* [x] Sufficient width for planes/traces for required current
 
 ## Sensitive analog
-* [ ] Guard ring / EMI cages provided if needed
-* [ ] Physically separated from high current SMPS or other noise sources
-* [ ] Consider microphone effect on MLCCs if near strong sound sources
+* [x] Guard ring / EMI cages provided if needed (N/A)
+* [x] Physically separated from high current SMPS or other noise sources (N/A)
+* [x] Consider microphone effect on MLCCs if near strong sound sources (N/A)
 
 ## Mechanical
-* [ ] Confirm all connectors to other systems comply with the appropriate mechanical standard (connector orientation, key position, etc)
-* [ ] LEDs, buttons, and other UI elements on outward-facing side of board
-* [ ] Keep-outs around PCB perimeter, card guides, panelization mouse-bites, etc respected
-* [ ] Stress-sensitive components (MLCC) sufficiently clear from V-score or mouse bite locations, and oriented to reduce
+* [x] Confirm all connectors to other systems comply with the appropriate mechanical standard (connector orientation, key position, etc)
+  * [x] Confirm FMC orientation is correct (see Xilinx FMC female adapter photo in docs vs. 3D view of board)
+  * [x] Confirm PGA orientation is correct
+* [x] LEDs, buttons, and other UI elements on outward-facing side of board
+* [x] Keep-outs around PCB perimeter, card guides, panelization mouse-bites, etc respected
+* [x] Stress-sensitive components (MLCC) sufficiently clear from V-score or mouse bite locations, and oriented to reduce (N/A)
 bending stress
-* [ ] Clearance around large ICs for heatsinks/fans if required
-* [ ] Clearance around pluggable connectors for mating cable/connector
-* [ ] Clearance around mounting holes for screws
-* [ ] Plane keepouts and clearance provided for shielded connectors, magnetics, etc
-* [ ] Confirm PCB dimensions and mounting hole size/placement against enclosure or card rack design
-* [ ] Verify mounting hole connection/isolation
-* [ ] Components not physically overlapping/colliding
-* [ ] Clearance provided around solder-in test points for probe tips
+* [x] Clearance around large ICs for heatsinks/fans if required (N/A)
+* [x] Clearance around pluggable connectors for mating cable/connector
+* [x] Clearance around mounting holes for screws
+* [x] Plane keepouts and clearance provided for shielded connectors, magnetics, etc (N/A)
+* [x] Confirm PCB dimensions and mounting hole size/placement against enclosure or card rack design
+* [x] Verify mounting hole connection/isolation
+  * [x] Grounded
+* [x] Components not physically overlapping/colliding
+* [x] Clearance provided around solder-in test points for probe tips
 
 ## Thermal
 
-* [ ] Thermal reliefs used for plane connections (unless via is used for heatsinking)
-* [ ] Solid connections used to planes if heatsinking
-* [ ] Ensure thermal balance on SMT chip components to minimize risk of tombstoning
+* [x] Thermal reliefs used for plane connections (unless via is used for heatsinking)
+* [x] Solid connections used to planes if heatsinking
+  * [x] Used for regulators
+* [x] Ensure thermal balance on SMT chip components to minimize risk of tombstoning
 
 ## Solder paste
 
-* [ ] No uncapped vias in pads (except low-power QFNs where some voiding is acceptable)
-* [ ] QFN paste prints segmented
-* [ ] Small pads 100% size, larger pads reduced to avoid excessive solder volume
-* [ ] No paste apertures on card edge connectors or test points
+* [z] No uncapped vias in pads (except low-power QFNs where some voiding is acceptable)
+* [x] QFN paste prints segmented (N/A)
+* [x] Small pads 100% size, larger pads reduced to avoid excessive solder volume
+* [x] No paste apertures on card edge connectors or test points
 
 ## Solder mask
 
-* [ ] Confirm SMD vs NSMD pad geometry
-* [ ] Adequate clearance around pads (typ. 50 um)
+* [x] Confirm SMD vs NSMD pad geometry
+* [x] Adequate clearance around pads (typ. 50 um)
 
 ## Silkscreen
 
-* [ ] Text size within fab limits
-* [ ] Text not overlapping drills or component pads
-* [ ] Text removed entirely in, or moved outside of, high component/via density areas
-* [ ] Traceability markings (rev, date, name, etc) provided
-* [ ] Silkscreen box provided for writing/sticking serial number
-* [ ] Text mirrored properly on bottom layer
-* [ ] Test points labeled if space permits
+* [x] Text size within fab limits
+* [x] Text not overlapping drills or component pads
+* [x] Text removed entirely in, or moved outside of, high component/via density areas
+* [x] Traceability markings (rev, date, name, etc) provided
+* [x] Silkscreen box provided for writing/sticking serial number (N/A)
+* [x] Text mirrored properly on bottom layer
+* [x] Test points labeled if space permits
 
 ## Flex specific
-* [ ] Components oriented to reduce bending forces
-* [ ] Teardrops on all wire-to-pad connections
+* [x] Components oriented to reduce bending forces (N/A)
+* [x] Teardrops on all wire-to-pad connections (N/A)
 
 ## CAM production
-* [ ] KiCAD specific: rerun DRC and zone fills before exporting CAM files to ensure proper results
-* [ ] Export gerber/drill files at the same time to ensure consistency
-* [ ] Visually verify final CAM files to ensure no obvious misalignments
+* [x] KiCAD specific: rerun DRC and zone fills before exporting CAM files to ensure proper results
+* [x] Export gerber/drill files at the same time to ensure consistency
+* [x] Visually verify final CAM files to ensure no obvious misalignments

@@ -6,8 +6,6 @@
 off as invalid.
 * [x] Verify pin numbers of all schematic symbols against datasheet or external interface specification document (if not yet board proven).
   * [x] Confirm FMC pins are done correctly
-  * [x] Confirm FMC orientation is correct (see Xilinx FMC female adapter photo in docs vs. 3D view of board)
-  * [x] Confirm PGA orientation is correct
   * [x] Confirm EMBER pins are oriented correctly
   * [x] Confirm EMBER pins are mapped correctly to package
   * [x] Confirm EMBER pins are mapped correctly to socket
