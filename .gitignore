@@ -3,4 +3,5 @@ fp-info-cache
 ~*.xlsx
 *.kicad_sch-bak
 _autosave-*
+orders
 #auto_saved_files#
