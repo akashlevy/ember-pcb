@@ -6,7 +6,7 @@
 * [x] Better DFM check
 * [x] Luke schematic checklist
 * [x] Akash layout checklist
-* [ ] Luke layout checklist
+* [x] Luke layout checklist
 * [x] Upload GRBR and get full quote
 
 ## Questions/Tentative

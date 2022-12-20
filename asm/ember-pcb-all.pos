@@ -1,0 +1,37 @@
+### Module positions - created on Tuesday, December 20, 2022 at 01:48:08 AM ###
+### Printed by Pcbnew version (6.0.9-0)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                  PosX       PosY       Rot  Side
+J1        Samtec_ASP-134602-01  Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical      -81.9450   -93.5550    0.0000  bottom
+C1        22uF                  CP_EIA-3528-21_Kemet-B                                97.9700  -129.9750  -90.0000  top
+C2        100nF                 C_1210_3225Metric                                    104.9550  -130.1500  -90.0000  top
+C3        22uF                  CP_EIA-3528-21_Kemet-B                               111.9400  -130.1500  -90.0000  top
+C4        10uF                  CP_EIA-3528-12_Kemet-T                               118.9250  -130.1500  -90.0000  top
+C5        100nF                 C_1210_3225Metric                                    126.1400  -130.1500  -90.0000  top
+C6        22uF                  CP_EIA-3528-21_Kemet-B                                97.9650  -136.0950   90.0000  top
+C7        100nF                 C_1210_3225Metric                                    104.9550  -136.0950   90.0000  top
+C8        22uF                  CP_EIA-3528-21_Kemet-B                               111.9400  -136.0950   90.0000  top
+C9        10uF                  CP_EIA-3528-12_Kemet-T                               118.9250  -136.0950   90.0000  top
+C10       100nF                 C_1210_3225Metric                                    126.1400  -136.0950   90.0000  top
+D1        LED                   LED_0603_1608Metric                                   79.9927  -125.3050    0.0000  top
+FB1       FerriteBead           LairdTech_28C0236-0JW-10                             137.1650  -132.7100    0.0000  top
+FB2       FerriteBead           LairdTech_28C0236-0JW-10                             137.1650  -141.6000    0.0000  top
+FID1      Fiducial              Fiducial_1mm_Mask3mm                                  72.4200   -59.2650    0.0000  top
+FID2      Fiducial              Fiducial_1mm_Mask3mm                                 185.4500   -59.2650    0.0000  top
+FID3      Fiducial              Fiducial_1mm_Mask3mm                                  72.4200  -138.6400    0.0000  top
+J2        Conn_Coaxial_Power    SMA_Molex_73251-2200_Horizontal                      111.7650  -143.7200  180.0000  top
+J3        Conn_02x12_Odd_Even   PinHeader_2x12_P2.54mm_Vertical                      153.0600  -142.4550   90.0000  top
+J4        Conn_01x07            PinHeader_1x07_P2.54mm_Vertical                      184.1800   -73.8650    0.0000  top
+J5        Conn_Coaxial_Power    SMA_Molex_73251-2200_Horizontal                       99.0650  -143.7200  180.0000  top
+R1        1k                    R_0603_1608Metric                                     83.3577  -125.3050    0.0000  top
+R2        100k                  R_0603_1608Metric                                    174.0200  -118.3200  -90.0000  top
+R3        100k                  R_0603_1608Metric                                    175.9250  -118.3200  -90.0000  top
+SW1       SW_SP3T               SW_SP3T_PCM13                                         82.5850  -133.5550    0.0000  top
+SW2       SW_SP3T               SW_SP3T_PCM13                                         82.5850  -141.6000    0.0000  top
+SW3       SW_DIP_x02            SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm   179.7350  -110.7000    0.0000  top
+U1        EMBER_Macro           ARIES_441-PRS21001-12                                137.1900   -92.9200    0.0000  top
+U2        LP5912-0.9DRV         WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias        91.4750  -130.3950    0.0000  top
+U3        LP5912-1.1DRV         WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias        91.4750  -134.8400    0.0000  top
+U4        LP5912-2.5DRV         WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias        91.4750  -139.2850    0.0000  top
+## End

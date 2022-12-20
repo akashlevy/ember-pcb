@@ -1,56 +1,56 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*%
-%TF.CreationDate,2022-12-19T16:35:08-05:00*%
-%TF.ProjectId,ember-pcb,656d6265-722d-4706-9362-2e6b69636164,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Copper,L3,Inr*%
-%TF.FilePolarity,Positive*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*
+G04 #@! TF.CreationDate,2022-12-20T12:29:30-05:00*
+G04 #@! TF.ProjectId,ember-pcb,656d6265-722d-4706-9362-2e6b69636164,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L3,Inr*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-19 16:35:08*
+G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-20 12:29:30*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%TA.AperFunction,NonConductor*%
+G04 #@! TA.AperFunction,NonConductor*
 %ADD10C,0.200000*%
-%TD*%
+G04 #@! TD*
 %ADD11C,0.150000*%
-%TA.AperFunction,NonConductor*%
+G04 #@! TA.AperFunction,NonConductor*
 %ADD12C,0.150000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD13C,5.000000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD14R,1.700000X1.700000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD15O,1.700000X1.700000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD16C,2.000000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD17C,2.250000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD18C,0.500000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD19R,1.368000X1.368000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD20C,1.368000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD21C,0.800000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD22C,0.508000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD23C,0.457200*%
-%TD*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X85120000Y-48470000D02*
@@ -79,1014 +79,1014 @@ X85659761Y-51240238D01*
 X85564523Y-51335476D01*
 X85469285Y-51383095D01*
 D13*
-%TO.N,GND*%
-%TO.C,H1*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,H1*
 X72420000Y-51010000D03*
-%TD*%
+G04 #@! TD*
 D14*
-%TO.N,/core_pwr*%
-%TO.C,J3*%
+G04 #@! TO.N,/core_pwr*
+G04 #@! TO.C,J3*
 X153060000Y-142455000D03*
 D15*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X153060000Y-139915000D03*
-%TO.N,/core_pwr*%
+G04 #@! TO.N,/core_pwr*
 X155600000Y-142455000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X155600000Y-139915000D03*
-%TO.N,/core_pwr*%
+G04 #@! TO.N,/core_pwr*
 X158140000Y-142455000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X158140000Y-139915000D03*
-%TO.N,/core_pwr*%
+G04 #@! TO.N,/core_pwr*
 X160680000Y-142455000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160680000Y-139915000D03*
-%TO.N,unconnected-(J3-Pad9)*%
+G04 #@! TO.N,unconnected-(J3-Pad9)*
 X163220000Y-142455000D03*
-%TO.N,unconnected-(J3-Pad10)*%
+G04 #@! TO.N,unconnected-(J3-Pad10)*
 X163220000Y-139915000D03*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X165760000Y-142455000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X165760000Y-139915000D03*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X168300000Y-142455000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X168300000Y-139915000D03*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X170840000Y-142455000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X170840000Y-139915000D03*
-%TO.N,unconnected-(J3-Pad17)*%
+G04 #@! TO.N,unconnected-(J3-Pad17)*
 X173380000Y-142455000D03*
-%TO.N,unconnected-(J3-Pad18)*%
+G04 #@! TO.N,unconnected-(J3-Pad18)*
 X173380000Y-139915000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X175920000Y-142455000D03*
 X175920000Y-139915000D03*
 X178460000Y-142455000D03*
 X178460000Y-139915000D03*
 X181000000Y-142455000D03*
 X181000000Y-139915000D03*
-%TD*%
+G04 #@! TD*
 D16*
-%TO.N,Net-(C1-Pad1)*%
-%TO.C,FB1*%
+G04 #@! TO.N,Net-(C1-Pad1)*
+G04 #@! TO.C,FB1*
 X137165000Y-132710000D03*
-%TO.N,/core_pwr*%
+G04 #@! TO.N,/core_pwr*
 X142245000Y-132710000D03*
-%TD*%
+G04 #@! TD*
 D14*
-%TO.N,/wl_source_pin*%
-%TO.C,J4*%
+G04 #@! TO.N,/wl_source_pin*
+G04 #@! TO.C,J4*
 X184180000Y-73865000D03*
 D15*
-%TO.N,/bl_source_pin*%
+G04 #@! TO.N,/bl_source_pin*
 X184180000Y-76405000D03*
-%TO.N,/sl_source_pin*%
+G04 #@! TO.N,/sl_source_pin*
 X184180000Y-78945000D03*
-%TO.N,/iref_test*%
+G04 #@! TO.N,/iref_test*
 X184180000Y-81485000D03*
-%TO.N,/vdd_test*%
+G04 #@! TO.N,/vdd_test*
 X184180000Y-84025000D03*
-%TO.N,unconnected-(J4-Pad6)*%
+G04 #@! TO.N,unconnected-(J4-Pad6)*
 X184180000Y-86565000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X184180000Y-89105000D03*
-%TD*%
+G04 #@! TD*
 D16*
-%TO.N,Net-(C6-Pad1)*%
-%TO.C,FB2*%
+G04 #@! TO.N,Net-(C6-Pad1)*
+G04 #@! TO.C,FB2*
 X137165000Y-141600000D03*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X142245000Y-141600000D03*
-%TD*%
+G04 #@! TD*
 D17*
-%TO.N,GND*%
-%TO.C,J5*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,J5*
 X99065000Y-143720000D03*
-%TO.N,Net-(J5-Pad2)*%
+G04 #@! TO.N,Net-(J5-Pad2)*
 X101605000Y-146260000D03*
 X96525000Y-141180000D03*
 X96525000Y-146260000D03*
 X101605000Y-141180000D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.N,GND*%
-%TO.C,U4*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,U4*
 X91475000Y-139835000D03*
 X91475000Y-138735000D03*
-%TD*%
+G04 #@! TD*
 D17*
-%TO.N,GND*%
-%TO.C,J2*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,J2*
 X111765000Y-143720000D03*
-%TO.N,Net-(J2-Pad2)*%
+G04 #@! TO.N,Net-(J2-Pad2)*
 X114305000Y-141180000D03*
 X114305000Y-146260000D03*
 X109225000Y-141180000D03*
 X109225000Y-146260000D03*
-%TD*%
+G04 #@! TD*
 D19*
-%TO.N,GND*%
-%TO.C,U1*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,U1*
 X111790000Y-118320000D03*
 D20*
-%TO.N,/di_36*%
+G04 #@! TO.N,/di_36*
 X114330000Y-118320000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X116870000Y-118320000D03*
-%TO.N,/iref_test*%
+G04 #@! TO.N,/iref_test*
 X119410000Y-118320000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X121950000Y-118320000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X124490000Y-118320000D03*
-%TO.N,/di_47*%
+G04 #@! TO.N,/di_47*
 X127030000Y-118320000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X129570000Y-118320000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X132110000Y-118320000D03*
 X134650000Y-118320000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X137190000Y-118320000D03*
-%TO.N,/read_ref_4*%
+G04 #@! TO.N,/read_ref_4*
 X139730000Y-118320000D03*
-%TO.N,/rram_addr_0*%
+G04 #@! TO.N,/rram_addr_0*
 X142270000Y-118320000D03*
-%TO.N,/rram_addr_2*%
+G04 #@! TO.N,/rram_addr_2*
 X144810000Y-118320000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X147350000Y-118320000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X149890000Y-118320000D03*
-%TO.N,/rram_addr_10*%
+G04 #@! TO.N,/rram_addr_10*
 X152430000Y-118320000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X154970000Y-118320000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X157510000Y-118320000D03*
 X160050000Y-118320000D03*
-%TO.N,unconnected-(U1-PadA21)*%
+G04 #@! TO.N,unconnected-(U1-PadA21)*
 X162590000Y-118320000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-115780000D03*
-%TO.N,/di_34*%
+G04 #@! TO.N,/di_34*
 X114330000Y-115780000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X116870000Y-115780000D03*
 X119410000Y-115780000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X121950000Y-115780000D03*
-%TO.N,/vdd_test*%
+G04 #@! TO.N,/vdd_test*
 X124490000Y-115780000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X127030000Y-115780000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X129570000Y-115780000D03*
-%TO.N,/sa_en*%
+G04 #@! TO.N,/sa_en*
 X132110000Y-115780000D03*
-%TO.N,/read_ref_1*%
+G04 #@! TO.N,/read_ref_1*
 X134650000Y-115780000D03*
-%TO.N,/read_ref_2*%
+G04 #@! TO.N,/read_ref_2*
 X137190000Y-115780000D03*
-%TO.N,/rram_addr_1*%
+G04 #@! TO.N,/rram_addr_1*
 X139730000Y-115780000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X142270000Y-115780000D03*
-%TO.N,/rram_addr_6*%
+G04 #@! TO.N,/rram_addr_6*
 X144810000Y-115780000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X147350000Y-115780000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X149890000Y-115780000D03*
 X152430000Y-115780000D03*
-%TO.N,/sl_en*%
+G04 #@! TO.N,/sl_en*
 X154970000Y-115780000D03*
-%TO.N,/read_dac_config_0*%
+G04 #@! TO.N,/read_dac_config_0*
 X157510000Y-115780000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160050000Y-115780000D03*
-%TO.N,unconnected-(U1-PadB21)*%
+G04 #@! TO.N,unconnected-(U1-PadB21)*
 X162590000Y-115780000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-113240000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X114330000Y-113240000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X116870000Y-113240000D03*
-%TO.N,/di_37*%
+G04 #@! TO.N,/di_37*
 X119410000Y-113240000D03*
-%TO.N,/di_39*%
+G04 #@! TO.N,/di_39*
 X121950000Y-113240000D03*
-%TO.N,/di_41*%
+G04 #@! TO.N,/di_41*
 X124490000Y-113240000D03*
-%TO.N,/di_42*%
+G04 #@! TO.N,/di_42*
 X127030000Y-113240000D03*
-%TO.N,/di_44*%
+G04 #@! TO.N,/di_44*
 X129570000Y-113240000D03*
-%TO.N,/di_45*%
+G04 #@! TO.N,/di_45*
 X132110000Y-113240000D03*
-%TO.N,/set_rst*%
+G04 #@! TO.N,/set_rst*
 X134650000Y-113240000D03*
-%TO.N,/read_ref_5*%
+G04 #@! TO.N,/read_ref_5*
 X137190000Y-113240000D03*
-%TO.N,/rram_addr_4*%
+G04 #@! TO.N,/rram_addr_4*
 X139730000Y-113240000D03*
-%TO.N,/rram_addr_5*%
+G04 #@! TO.N,/rram_addr_5*
 X142270000Y-113240000D03*
-%TO.N,/rram_addr_8*%
+G04 #@! TO.N,/rram_addr_8*
 X144810000Y-113240000D03*
-%TO.N,/rram_addr_11*%
+G04 #@! TO.N,/rram_addr_11*
 X147350000Y-113240000D03*
-%TO.N,/rram_addr_13*%
+G04 #@! TO.N,/rram_addr_13*
 X149890000Y-113240000D03*
-%TO.N,/rram_addr_15*%
+G04 #@! TO.N,/rram_addr_15*
 X152430000Y-113240000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X154970000Y-113240000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X157510000Y-113240000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160050000Y-113240000D03*
-%TO.N,unconnected-(U1-PadC21)*%
+G04 #@! TO.N,unconnected-(U1-PadC21)*
 X162590000Y-113240000D03*
-%TO.N,/di_27*%
+G04 #@! TO.N,/di_27*
 X111790000Y-110700000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X114330000Y-110700000D03*
-%TO.N,/di_32*%
+G04 #@! TO.N,/di_32*
 X116870000Y-110700000D03*
-%TO.N,/di_33*%
+G04 #@! TO.N,/di_33*
 X119410000Y-110700000D03*
-%TO.N,/di_35*%
+G04 #@! TO.N,/di_35*
 X121950000Y-110700000D03*
-%TO.N,/di_38*%
+G04 #@! TO.N,/di_38*
 X124490000Y-110700000D03*
-%TO.N,/di_40*%
+G04 #@! TO.N,/di_40*
 X127030000Y-110700000D03*
-%TO.N,/di_43*%
+G04 #@! TO.N,/di_43*
 X129570000Y-110700000D03*
-%TO.N,/di_46*%
+G04 #@! TO.N,/di_46*
 X132110000Y-110700000D03*
-%TO.N,/read_ref_0*%
+G04 #@! TO.N,/read_ref_0*
 X134650000Y-110700000D03*
-%TO.N,/read_ref_3*%
+G04 #@! TO.N,/read_ref_3*
 X137190000Y-110700000D03*
-%TO.N,/rram_addr_3*%
+G04 #@! TO.N,/rram_addr_3*
 X139730000Y-110700000D03*
-%TO.N,/rram_addr_7*%
+G04 #@! TO.N,/rram_addr_7*
 X142270000Y-110700000D03*
-%TO.N,/rram_addr_9*%
+G04 #@! TO.N,/rram_addr_9*
 X144810000Y-110700000D03*
-%TO.N,/rram_addr_12*%
+G04 #@! TO.N,/rram_addr_12*
 X147350000Y-110700000D03*
-%TO.N,/rram_addr_14*%
+G04 #@! TO.N,/rram_addr_14*
 X149890000Y-110700000D03*
-%TO.N,/we*%
+G04 #@! TO.N,/we*
 X152430000Y-110700000D03*
-%TO.N,/read_dac_config_2*%
+G04 #@! TO.N,/read_dac_config_2*
 X154970000Y-110700000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X157510000Y-110700000D03*
 X160050000Y-110700000D03*
-%TO.N,unconnected-(U1-PadD21)*%
+G04 #@! TO.N,unconnected-(U1-PadD21)*
 X162590000Y-110700000D03*
-%TO.N,/di_23*%
+G04 #@! TO.N,/di_23*
 X111790000Y-108160000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X114330000Y-108160000D03*
-%TO.N,/di_30*%
+G04 #@! TO.N,/di_30*
 X116870000Y-108160000D03*
-%TO.N,/di_31*%
+G04 #@! TO.N,/di_31*
 X119410000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE5)*%
+G04 #@! TO.N,unconnected-(U1-PadE5)*
 X121950000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE6)*%
+G04 #@! TO.N,unconnected-(U1-PadE6)*
 X124490000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE7)*%
+G04 #@! TO.N,unconnected-(U1-PadE7)*
 X127030000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE8)*%
+G04 #@! TO.N,unconnected-(U1-PadE8)*
 X129570000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE9)*%
+G04 #@! TO.N,unconnected-(U1-PadE9)*
 X132110000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE10)*%
+G04 #@! TO.N,unconnected-(U1-PadE10)*
 X134650000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE11)*%
+G04 #@! TO.N,unconnected-(U1-PadE11)*
 X137190000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE12)*%
+G04 #@! TO.N,unconnected-(U1-PadE12)*
 X139730000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE13)*%
+G04 #@! TO.N,unconnected-(U1-PadE13)*
 X142270000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE14)*%
+G04 #@! TO.N,unconnected-(U1-PadE14)*
 X144810000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE15)*%
+G04 #@! TO.N,unconnected-(U1-PadE15)*
 X147350000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE16)*%
+G04 #@! TO.N,unconnected-(U1-PadE16)*
 X149890000Y-108160000D03*
-%TO.N,/read_dac_config_1*%
+G04 #@! TO.N,/read_dac_config_1*
 X152430000Y-108160000D03*
-%TO.N,/wl_dac_config_0*%
+G04 #@! TO.N,/wl_dac_config_0*
 X154970000Y-108160000D03*
-%TO.N,/wl_dac_config_3*%
+G04 #@! TO.N,/wl_dac_config_3*
 X157510000Y-108160000D03*
-%TO.N,/wl_dac_config_5*%
+G04 #@! TO.N,/wl_dac_config_5*
 X160050000Y-108160000D03*
-%TO.N,unconnected-(U1-PadE21)*%
+G04 #@! TO.N,unconnected-(U1-PadE21)*
 X162590000Y-108160000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-105620000D03*
-%TO.N,/di_25*%
+G04 #@! TO.N,/di_25*
 X114330000Y-105620000D03*
-%TO.N,/di_28*%
+G04 #@! TO.N,/di_28*
 X116870000Y-105620000D03*
-%TO.N,/di_29*%
+G04 #@! TO.N,/di_29*
 X119410000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF5)*%
+G04 #@! TO.N,unconnected-(U1-PadF5)*
 X121950000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF6)*%
+G04 #@! TO.N,unconnected-(U1-PadF6)*
 X124490000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF7)*%
+G04 #@! TO.N,unconnected-(U1-PadF7)*
 X127030000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF8)*%
+G04 #@! TO.N,unconnected-(U1-PadF8)*
 X129570000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF9)*%
+G04 #@! TO.N,unconnected-(U1-PadF9)*
 X132110000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF10)*%
+G04 #@! TO.N,unconnected-(U1-PadF10)*
 X134650000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF11)*%
+G04 #@! TO.N,unconnected-(U1-PadF11)*
 X137190000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF12)*%
+G04 #@! TO.N,unconnected-(U1-PadF12)*
 X139730000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF13)*%
+G04 #@! TO.N,unconnected-(U1-PadF13)*
 X142270000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF14)*%
+G04 #@! TO.N,unconnected-(U1-PadF14)*
 X144810000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF15)*%
+G04 #@! TO.N,unconnected-(U1-PadF15)*
 X147350000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF16)*%
+G04 #@! TO.N,unconnected-(U1-PadF16)*
 X149890000Y-105620000D03*
-%TO.N,/read_dac_config_3*%
+G04 #@! TO.N,/read_dac_config_3*
 X152430000Y-105620000D03*
-%TO.N,/wl_dac_config_2*%
+G04 #@! TO.N,/wl_dac_config_2*
 X154970000Y-105620000D03*
-%TO.N,/wl_dac_config_7*%
+G04 #@! TO.N,/wl_dac_config_7*
 X157510000Y-105620000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160050000Y-105620000D03*
-%TO.N,unconnected-(U1-PadF21)*%
+G04 #@! TO.N,unconnected-(U1-PadF21)*
 X162590000Y-105620000D03*
-%TO.N,/di_18*%
+G04 #@! TO.N,/di_18*
 X111790000Y-103080000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X114330000Y-103080000D03*
-%TO.N,/di_24*%
+G04 #@! TO.N,/di_24*
 X116870000Y-103080000D03*
-%TO.N,/di_26*%
+G04 #@! TO.N,/di_26*
 X119410000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG5)*%
+G04 #@! TO.N,unconnected-(U1-PadG5)*
 X121950000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG6)*%
+G04 #@! TO.N,unconnected-(U1-PadG6)*
 X124490000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG7)*%
+G04 #@! TO.N,unconnected-(U1-PadG7)*
 X127030000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG8)*%
+G04 #@! TO.N,unconnected-(U1-PadG8)*
 X129570000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG9)*%
+G04 #@! TO.N,unconnected-(U1-PadG9)*
 X132110000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG10)*%
+G04 #@! TO.N,unconnected-(U1-PadG10)*
 X134650000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG11)*%
+G04 #@! TO.N,unconnected-(U1-PadG11)*
 X137190000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG12)*%
+G04 #@! TO.N,unconnected-(U1-PadG12)*
 X139730000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG13)*%
+G04 #@! TO.N,unconnected-(U1-PadG13)*
 X142270000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG14)*%
+G04 #@! TO.N,unconnected-(U1-PadG14)*
 X144810000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG15)*%
+G04 #@! TO.N,unconnected-(U1-PadG15)*
 X147350000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG16)*%
+G04 #@! TO.N,unconnected-(U1-PadG16)*
 X149890000Y-103080000D03*
-%TO.N,/wl_dac_config_1*%
+G04 #@! TO.N,/wl_dac_config_1*
 X152430000Y-103080000D03*
-%TO.N,/wl_dac_config_4*%
+G04 #@! TO.N,/wl_dac_config_4*
 X154970000Y-103080000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X157510000Y-103080000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X160050000Y-103080000D03*
-%TO.N,unconnected-(U1-PadG21)*%
+G04 #@! TO.N,unconnected-(U1-PadG21)*
 X162590000Y-103080000D03*
-%TO.N,/di_16*%
+G04 #@! TO.N,/di_16*
 X111790000Y-100540000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X114330000Y-100540000D03*
-%TO.N,/di_21*%
+G04 #@! TO.N,/di_21*
 X116870000Y-100540000D03*
-%TO.N,/di_22*%
+G04 #@! TO.N,/di_22*
 X119410000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH5)*%
+G04 #@! TO.N,unconnected-(U1-PadH5)*
 X121950000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH6)*%
+G04 #@! TO.N,unconnected-(U1-PadH6)*
 X124490000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH7)*%
+G04 #@! TO.N,unconnected-(U1-PadH7)*
 X127030000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH8)*%
+G04 #@! TO.N,unconnected-(U1-PadH8)*
 X129570000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH9)*%
+G04 #@! TO.N,unconnected-(U1-PadH9)*
 X132110000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH10)*%
+G04 #@! TO.N,unconnected-(U1-PadH10)*
 X134650000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH11)*%
+G04 #@! TO.N,unconnected-(U1-PadH11)*
 X137190000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH12)*%
+G04 #@! TO.N,unconnected-(U1-PadH12)*
 X139730000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH13)*%
+G04 #@! TO.N,unconnected-(U1-PadH13)*
 X142270000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH14)*%
+G04 #@! TO.N,unconnected-(U1-PadH14)*
 X144810000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH15)*%
+G04 #@! TO.N,unconnected-(U1-PadH15)*
 X147350000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH16)*%
+G04 #@! TO.N,unconnected-(U1-PadH16)*
 X149890000Y-100540000D03*
-%TO.N,/wl_dac_config_6*%
+G04 #@! TO.N,/wl_dac_config_6*
 X152430000Y-100540000D03*
-%TO.N,/wl_dac_en*%
+G04 #@! TO.N,/wl_dac_en*
 X154970000Y-100540000D03*
-%TO.N,/wl_source_pin*%
+G04 #@! TO.N,/wl_source_pin*
 X157510000Y-100540000D03*
-%TO.N,/sa_do_2*%
+G04 #@! TO.N,/sa_do_2*
 X160050000Y-100540000D03*
-%TO.N,unconnected-(U1-PadH21)*%
+G04 #@! TO.N,unconnected-(U1-PadH21)*
 X162590000Y-100540000D03*
-%TO.N,/di_14*%
+G04 #@! TO.N,/di_14*
 X111790000Y-98000000D03*
-%TO.N,/di_17*%
+G04 #@! TO.N,/di_17*
 X114330000Y-98000000D03*
-%TO.N,/di_20*%
+G04 #@! TO.N,/di_20*
 X116870000Y-98000000D03*
-%TO.N,/di_19*%
+G04 #@! TO.N,/di_19*
 X119410000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ5)*%
+G04 #@! TO.N,unconnected-(U1-PadJ5)*
 X121950000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ6)*%
+G04 #@! TO.N,unconnected-(U1-PadJ6)*
 X124490000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ7)*%
+G04 #@! TO.N,unconnected-(U1-PadJ7)*
 X127030000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ8)*%
+G04 #@! TO.N,unconnected-(U1-PadJ8)*
 X129570000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ9)*%
+G04 #@! TO.N,unconnected-(U1-PadJ9)*
 X132110000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ10)*%
+G04 #@! TO.N,unconnected-(U1-PadJ10)*
 X134650000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ11)*%
+G04 #@! TO.N,unconnected-(U1-PadJ11)*
 X137190000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ12)*%
+G04 #@! TO.N,unconnected-(U1-PadJ12)*
 X139730000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ13)*%
+G04 #@! TO.N,unconnected-(U1-PadJ13)*
 X142270000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ14)*%
+G04 #@! TO.N,unconnected-(U1-PadJ14)*
 X144810000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ15)*%
+G04 #@! TO.N,unconnected-(U1-PadJ15)*
 X147350000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ16)*%
+G04 #@! TO.N,unconnected-(U1-PadJ16)*
 X149890000Y-98000000D03*
-%TO.N,/bleed_en*%
+G04 #@! TO.N,/bleed_en*
 X152430000Y-98000000D03*
-%TO.N,/wl_en*%
+G04 #@! TO.N,/wl_en*
 X154970000Y-98000000D03*
-%TO.N,/sa_do_0*%
+G04 #@! TO.N,/sa_do_0*
 X157510000Y-98000000D03*
-%TO.N,/sa_do_4*%
+G04 #@! TO.N,/sa_do_4*
 X160050000Y-98000000D03*
-%TO.N,unconnected-(U1-PadJ21)*%
+G04 #@! TO.N,unconnected-(U1-PadJ21)*
 X162590000Y-98000000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X111790000Y-95460000D03*
-%TO.N,/di_12*%
+G04 #@! TO.N,/di_12*
 X114330000Y-95460000D03*
-%TO.N,/di_15*%
+G04 #@! TO.N,/di_15*
 X116870000Y-95460000D03*
-%TO.N,/di_13*%
+G04 #@! TO.N,/di_13*
 X119410000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK5)*%
+G04 #@! TO.N,unconnected-(U1-PadK5)*
 X121950000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK6)*%
+G04 #@! TO.N,unconnected-(U1-PadK6)*
 X124490000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK7)*%
+G04 #@! TO.N,unconnected-(U1-PadK7)*
 X127030000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK8)*%
+G04 #@! TO.N,unconnected-(U1-PadK8)*
 X129570000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK9)*%
+G04 #@! TO.N,unconnected-(U1-PadK9)*
 X132110000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK10)*%
+G04 #@! TO.N,unconnected-(U1-PadK10)*
 X134650000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK11)*%
+G04 #@! TO.N,unconnected-(U1-PadK11)*
 X137190000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK12)*%
+G04 #@! TO.N,unconnected-(U1-PadK12)*
 X139730000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK13)*%
+G04 #@! TO.N,unconnected-(U1-PadK13)*
 X142270000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK14)*%
+G04 #@! TO.N,unconnected-(U1-PadK14)*
 X144810000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK15)*%
+G04 #@! TO.N,unconnected-(U1-PadK15)*
 X147350000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK16)*%
+G04 #@! TO.N,unconnected-(U1-PadK16)*
 X149890000Y-95460000D03*
-%TO.N,/sa_do_3*%
+G04 #@! TO.N,/sa_do_3*
 X152430000Y-95460000D03*
-%TO.N,/sa_do_1*%
+G04 #@! TO.N,/sa_do_1*
 X154970000Y-95460000D03*
-%TO.N,/sa_do_5*%
+G04 #@! TO.N,/sa_do_5*
 X157510000Y-95460000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160050000Y-95460000D03*
-%TO.N,unconnected-(U1-PadK21)*%
+G04 #@! TO.N,unconnected-(U1-PadK21)*
 X162590000Y-95460000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X111790000Y-92920000D03*
-%TO.N,/di_11*%
+G04 #@! TO.N,/di_11*
 X114330000Y-92920000D03*
-%TO.N,/di_9*%
+G04 #@! TO.N,/di_9*
 X116870000Y-92920000D03*
-%TO.N,/di_10*%
+G04 #@! TO.N,/di_10*
 X119410000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL5)*%
+G04 #@! TO.N,unconnected-(U1-PadL5)*
 X121950000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL6)*%
+G04 #@! TO.N,unconnected-(U1-PadL6)*
 X124490000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL7)*%
+G04 #@! TO.N,unconnected-(U1-PadL7)*
 X127030000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL8)*%
+G04 #@! TO.N,unconnected-(U1-PadL8)*
 X129570000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL9)*%
+G04 #@! TO.N,unconnected-(U1-PadL9)*
 X132110000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL10)*%
+G04 #@! TO.N,unconnected-(U1-PadL10)*
 X134650000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL11)*%
+G04 #@! TO.N,unconnected-(U1-PadL11)*
 X137190000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL12)*%
+G04 #@! TO.N,unconnected-(U1-PadL12)*
 X139730000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL13)*%
+G04 #@! TO.N,unconnected-(U1-PadL13)*
 X142270000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL14)*%
+G04 #@! TO.N,unconnected-(U1-PadL14)*
 X144810000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL15)*%
+G04 #@! TO.N,unconnected-(U1-PadL15)*
 X147350000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL16)*%
+G04 #@! TO.N,unconnected-(U1-PadL16)*
 X149890000Y-92920000D03*
-%TO.N,/sa_do_7*%
+G04 #@! TO.N,/sa_do_7*
 X152430000Y-92920000D03*
-%TO.N,/sa_do_8*%
+G04 #@! TO.N,/sa_do_8*
 X154970000Y-92920000D03*
-%TO.N,/sa_do_6*%
+G04 #@! TO.N,/sa_do_6*
 X157510000Y-92920000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X160050000Y-92920000D03*
-%TO.N,unconnected-(U1-PadL21)*%
+G04 #@! TO.N,unconnected-(U1-PadL21)*
 X162590000Y-92920000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-90380000D03*
-%TO.N,/di_7*%
+G04 #@! TO.N,/di_7*
 X114330000Y-90380000D03*
-%TO.N,/di_5*%
+G04 #@! TO.N,/di_5*
 X116870000Y-90380000D03*
-%TO.N,/di_6*%
+G04 #@! TO.N,/di_6*
 X119410000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM5)*%
+G04 #@! TO.N,unconnected-(U1-PadM5)*
 X121950000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM6)*%
+G04 #@! TO.N,unconnected-(U1-PadM6)*
 X124490000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM7)*%
+G04 #@! TO.N,unconnected-(U1-PadM7)*
 X127030000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM8)*%
+G04 #@! TO.N,unconnected-(U1-PadM8)*
 X129570000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM9)*%
+G04 #@! TO.N,unconnected-(U1-PadM9)*
 X132110000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM10)*%
+G04 #@! TO.N,unconnected-(U1-PadM10)*
 X134650000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM11)*%
+G04 #@! TO.N,unconnected-(U1-PadM11)*
 X137190000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM12)*%
+G04 #@! TO.N,unconnected-(U1-PadM12)*
 X139730000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM13)*%
+G04 #@! TO.N,unconnected-(U1-PadM13)*
 X142270000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM14)*%
+G04 #@! TO.N,unconnected-(U1-PadM14)*
 X144810000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM15)*%
+G04 #@! TO.N,unconnected-(U1-PadM15)*
 X147350000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM16)*%
+G04 #@! TO.N,unconnected-(U1-PadM16)*
 X149890000Y-90380000D03*
-%TO.N,/sa_do_11*%
+G04 #@! TO.N,/sa_do_11*
 X152430000Y-90380000D03*
-%TO.N,/sa_do_12*%
+G04 #@! TO.N,/sa_do_12*
 X154970000Y-90380000D03*
-%TO.N,/sa_do_9*%
+G04 #@! TO.N,/sa_do_9*
 X157510000Y-90380000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X160050000Y-90380000D03*
-%TO.N,unconnected-(U1-PadM21)*%
+G04 #@! TO.N,unconnected-(U1-PadM21)*
 X162590000Y-90380000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-87840000D03*
-%TO.N,/di_8*%
+G04 #@! TO.N,/di_8*
 X114330000Y-87840000D03*
-%TO.N,/di_4*%
+G04 #@! TO.N,/di_4*
 X116870000Y-87840000D03*
-%TO.N,/di_2*%
+G04 #@! TO.N,/di_2*
 X119410000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN5)*%
+G04 #@! TO.N,unconnected-(U1-PadN5)*
 X121950000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN6)*%
+G04 #@! TO.N,unconnected-(U1-PadN6)*
 X124490000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN7)*%
+G04 #@! TO.N,unconnected-(U1-PadN7)*
 X127030000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN8)*%
+G04 #@! TO.N,unconnected-(U1-PadN8)*
 X129570000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN9)*%
+G04 #@! TO.N,unconnected-(U1-PadN9)*
 X132110000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN10)*%
+G04 #@! TO.N,unconnected-(U1-PadN10)*
 X134650000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN11)*%
+G04 #@! TO.N,unconnected-(U1-PadN11)*
 X137190000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN12)*%
+G04 #@! TO.N,unconnected-(U1-PadN12)*
 X139730000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN13)*%
+G04 #@! TO.N,unconnected-(U1-PadN13)*
 X142270000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN14)*%
+G04 #@! TO.N,unconnected-(U1-PadN14)*
 X144810000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN15)*%
+G04 #@! TO.N,unconnected-(U1-PadN15)*
 X147350000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN16)*%
+G04 #@! TO.N,unconnected-(U1-PadN16)*
 X149890000Y-87840000D03*
-%TO.N,/sa_do_14*%
+G04 #@! TO.N,/sa_do_14*
 X152430000Y-87840000D03*
-%TO.N,/sa_do_13*%
+G04 #@! TO.N,/sa_do_13*
 X154970000Y-87840000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X157510000Y-87840000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X160050000Y-87840000D03*
-%TO.N,unconnected-(U1-PadN21)*%
+G04 #@! TO.N,unconnected-(U1-PadN21)*
 X162590000Y-87840000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X111790000Y-85300000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X114330000Y-85300000D03*
-%TO.N,/di_0*%
+G04 #@! TO.N,/di_0*
 X116870000Y-85300000D03*
-%TO.N,/clamp_ref_5*%
+G04 #@! TO.N,/clamp_ref_5*
 X119410000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP5)*%
+G04 #@! TO.N,unconnected-(U1-PadP5)*
 X121950000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP6)*%
+G04 #@! TO.N,unconnected-(U1-PadP6)*
 X124490000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP7)*%
+G04 #@! TO.N,unconnected-(U1-PadP7)*
 X127030000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP8)*%
+G04 #@! TO.N,unconnected-(U1-PadP8)*
 X129570000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP9)*%
+G04 #@! TO.N,unconnected-(U1-PadP9)*
 X132110000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP10)*%
+G04 #@! TO.N,unconnected-(U1-PadP10)*
 X134650000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP11)*%
+G04 #@! TO.N,unconnected-(U1-PadP11)*
 X137190000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP12)*%
+G04 #@! TO.N,unconnected-(U1-PadP12)*
 X139730000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP13)*%
+G04 #@! TO.N,unconnected-(U1-PadP13)*
 X142270000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP14)*%
+G04 #@! TO.N,unconnected-(U1-PadP14)*
 X144810000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP15)*%
+G04 #@! TO.N,unconnected-(U1-PadP15)*
 X147350000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP16)*%
+G04 #@! TO.N,unconnected-(U1-PadP16)*
 X149890000Y-85300000D03*
-%TO.N,/sa_do_18*%
+G04 #@! TO.N,/sa_do_18*
 X152430000Y-85300000D03*
-%TO.N,/sa_do_16*%
+G04 #@! TO.N,/sa_do_16*
 X154970000Y-85300000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X157510000Y-85300000D03*
-%TO.N,/sa_do_10*%
+G04 #@! TO.N,/sa_do_10*
 X160050000Y-85300000D03*
-%TO.N,unconnected-(U1-PadP21)*%
+G04 #@! TO.N,unconnected-(U1-PadP21)*
 X162590000Y-85300000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X111790000Y-82760000D03*
-%TO.N,/di_3*%
+G04 #@! TO.N,/di_3*
 X114330000Y-82760000D03*
-%TO.N,/rst_n*%
+G04 #@! TO.N,/rst_n*
 X116870000Y-82760000D03*
-%TO.N,/clamp_ref_3*%
+G04 #@! TO.N,/clamp_ref_3*
 X119410000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR5)*%
+G04 #@! TO.N,unconnected-(U1-PadR5)*
 X121950000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR6)*%
+G04 #@! TO.N,unconnected-(U1-PadR6)*
 X124490000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR7)*%
+G04 #@! TO.N,unconnected-(U1-PadR7)*
 X127030000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR8)*%
+G04 #@! TO.N,unconnected-(U1-PadR8)*
 X129570000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR9)*%
+G04 #@! TO.N,unconnected-(U1-PadR9)*
 X132110000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR10)*%
+G04 #@! TO.N,unconnected-(U1-PadR10)*
 X134650000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR11)*%
+G04 #@! TO.N,unconnected-(U1-PadR11)*
 X137190000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR12)*%
+G04 #@! TO.N,unconnected-(U1-PadR12)*
 X139730000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR13)*%
+G04 #@! TO.N,unconnected-(U1-PadR13)*
 X142270000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR14)*%
+G04 #@! TO.N,unconnected-(U1-PadR14)*
 X144810000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR15)*%
+G04 #@! TO.N,unconnected-(U1-PadR15)*
 X147350000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR16)*%
+G04 #@! TO.N,unconnected-(U1-PadR16)*
 X149890000Y-82760000D03*
-%TO.N,/sa_do_21*%
+G04 #@! TO.N,/sa_do_21*
 X152430000Y-82760000D03*
-%TO.N,/sa_do_20*%
+G04 #@! TO.N,/sa_do_20*
 X154970000Y-82760000D03*
-%TO.N,/sa_do_17*%
+G04 #@! TO.N,/sa_do_17*
 X157510000Y-82760000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X160050000Y-82760000D03*
-%TO.N,unconnected-(U1-PadR21)*%
+G04 #@! TO.N,unconnected-(U1-PadR21)*
 X162590000Y-82760000D03*
-%TO.N,/di_1*%
+G04 #@! TO.N,/di_1*
 X111790000Y-80220000D03*
-%TO.N,/bl_en*%
+G04 #@! TO.N,/bl_en*
 X114330000Y-80220000D03*
-%TO.N,/clamp_ref_4*%
+G04 #@! TO.N,/clamp_ref_4*
 X116870000Y-80220000D03*
-%TO.N,/clamp_ref_1*%
+G04 #@! TO.N,/clamp_ref_1*
 X119410000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS5)*%
+G04 #@! TO.N,unconnected-(U1-PadS5)*
 X121950000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS6)*%
+G04 #@! TO.N,unconnected-(U1-PadS6)*
 X124490000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS7)*%
+G04 #@! TO.N,unconnected-(U1-PadS7)*
 X127030000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS8)*%
+G04 #@! TO.N,unconnected-(U1-PadS8)*
 X129570000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS9)*%
+G04 #@! TO.N,unconnected-(U1-PadS9)*
 X132110000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS10)*%
+G04 #@! TO.N,unconnected-(U1-PadS10)*
 X134650000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS11)*%
+G04 #@! TO.N,unconnected-(U1-PadS11)*
 X137190000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS12)*%
+G04 #@! TO.N,unconnected-(U1-PadS12)*
 X139730000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS13)*%
+G04 #@! TO.N,unconnected-(U1-PadS13)*
 X142270000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS14)*%
+G04 #@! TO.N,unconnected-(U1-PadS14)*
 X144810000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS15)*%
+G04 #@! TO.N,unconnected-(U1-PadS15)*
 X147350000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS16)*%
+G04 #@! TO.N,unconnected-(U1-PadS16)*
 X149890000Y-80220000D03*
-%TO.N,/sa_do_23*%
+G04 #@! TO.N,/sa_do_23*
 X152430000Y-80220000D03*
-%TO.N,/sa_do_22*%
+G04 #@! TO.N,/sa_do_22*
 X154970000Y-80220000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X157510000Y-80220000D03*
-%TO.N,/sa_do_15*%
+G04 #@! TO.N,/sa_do_15*
 X160050000Y-80220000D03*
-%TO.N,unconnected-(U1-PadS21)*%
+G04 #@! TO.N,unconnected-(U1-PadS21)*
 X162590000Y-80220000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X111790000Y-77680000D03*
 X114330000Y-77680000D03*
-%TO.N,/clamp_ref_2*%
+G04 #@! TO.N,/clamp_ref_2*
 X116870000Y-77680000D03*
-%TO.N,/bsl_dac_en*%
+G04 #@! TO.N,/bsl_dac_en*
 X119410000Y-77680000D03*
-%TO.N,/bsl_dac_config_4*%
+G04 #@! TO.N,/bsl_dac_config_4*
 X121950000Y-77680000D03*
-%TO.N,/bsl_dac_config_2*%
+G04 #@! TO.N,/bsl_dac_config_2*
 X124490000Y-77680000D03*
-%TO.N,/bsl_dac_config_0*%
+G04 #@! TO.N,/bsl_dac_config_0*
 X127030000Y-77680000D03*
-%TO.N,/mclk_pause*%
+G04 #@! TO.N,/mclk_pause*
 X129570000Y-77680000D03*
-%TO.N,/mosi*%
+G04 #@! TO.N,/mosi*
 X132110000Y-77680000D03*
-%TO.N,/heartbeat*%
+G04 #@! TO.N,/heartbeat*
 X134650000Y-77680000D03*
-%TO.N,/sa_do_45*%
+G04 #@! TO.N,/sa_do_45*
 X137190000Y-77680000D03*
-%TO.N,/sa_do_39*%
+G04 #@! TO.N,/sa_do_39*
 X139730000Y-77680000D03*
-%TO.N,/sa_do_36*%
+G04 #@! TO.N,/sa_do_36*
 X142270000Y-77680000D03*
-%TO.N,/sa_do_32*%
+G04 #@! TO.N,/sa_do_32*
 X144810000Y-77680000D03*
-%TO.N,/sa_do_29*%
+G04 #@! TO.N,/sa_do_29*
 X147350000Y-77680000D03*
-%TO.N,/sa_do_27*%
+G04 #@! TO.N,/sa_do_27*
 X149890000Y-77680000D03*
-%TO.N,/sa_do_25*%
+G04 #@! TO.N,/sa_do_25*
 X152430000Y-77680000D03*
-%TO.N,/sa_do_24*%
+G04 #@! TO.N,/sa_do_24*
 X154970000Y-77680000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X157510000Y-77680000D03*
-%TO.N,/sa_do_19*%
+G04 #@! TO.N,/sa_do_19*
 X160050000Y-77680000D03*
-%TO.N,unconnected-(U1-PadT21)*%
+G04 #@! TO.N,unconnected-(U1-PadT21)*
 X162590000Y-77680000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X111790000Y-75140000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X114330000Y-75140000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X116870000Y-75140000D03*
-%TO.N,/read_dac_en*%
+G04 #@! TO.N,/read_dac_en*
 X119410000Y-75140000D03*
-%TO.N,/bsl_dac_config_3*%
+G04 #@! TO.N,/bsl_dac_config_3*
 X121950000Y-75140000D03*
-%TO.N,/bsl_dac_config_1*%
+G04 #@! TO.N,/bsl_dac_config_1*
 X124490000Y-75140000D03*
-%TO.N,/aclk*%
+G04 #@! TO.N,/aclk*
 X127030000Y-75140000D03*
-%TO.N,/sclk*%
+G04 #@! TO.N,/sclk*
 X129570000Y-75140000D03*
-%TO.N,/sc*%
+G04 #@! TO.N,/sc*
 X132110000Y-75140000D03*
-%TO.N,/man*%
+G04 #@! TO.N,/man*
 X134650000Y-75140000D03*
-%TO.N,/sa_do_43*%
+G04 #@! TO.N,/sa_do_43*
 X137190000Y-75140000D03*
-%TO.N,/sa_do_38*%
+G04 #@! TO.N,/sa_do_38*
 X139730000Y-75140000D03*
-%TO.N,/sa_do_37*%
+G04 #@! TO.N,/sa_do_37*
 X142270000Y-75140000D03*
-%TO.N,/sa_do_34*%
+G04 #@! TO.N,/sa_do_34*
 X144810000Y-75140000D03*
-%TO.N,/sa_do_33*%
+G04 #@! TO.N,/sa_do_33*
 X147350000Y-75140000D03*
-%TO.N,/sa_do_30*%
+G04 #@! TO.N,/sa_do_30*
 X149890000Y-75140000D03*
-%TO.N,/sa_do_28*%
+G04 #@! TO.N,/sa_do_28*
 X152430000Y-75140000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X154970000Y-75140000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X157510000Y-75140000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X160050000Y-75140000D03*
-%TO.N,unconnected-(U1-PadU21)*%
+G04 #@! TO.N,unconnected-(U1-PadU21)*
 X162590000Y-75140000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X111790000Y-72600000D03*
-%TO.N,/clamp_ref_0*%
+G04 #@! TO.N,/clamp_ref_0*
 X114330000Y-72600000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X116870000Y-72600000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X119410000Y-72600000D03*
 X121950000Y-72600000D03*
-%TO.N,/sl_source_pin*%
+G04 #@! TO.N,/sl_source_pin*
 X124490000Y-72600000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X127030000Y-72600000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X129570000Y-72600000D03*
-%TO.N,/miso*%
+G04 #@! TO.N,/miso*
 X132110000Y-72600000D03*
-%TO.N,/sa_rdy*%
+G04 #@! TO.N,/sa_rdy*
 X134650000Y-72600000D03*
-%TO.N,/sa_do_47*%
+G04 #@! TO.N,/sa_do_47*
 X137190000Y-72600000D03*
-%TO.N,/sa_do_41*%
+G04 #@! TO.N,/sa_do_41*
 X139730000Y-72600000D03*
-%TO.N,/sa_do_42*%
+G04 #@! TO.N,/sa_do_42*
 X142270000Y-72600000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X144810000Y-72600000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X147350000Y-72600000D03*
 X149890000Y-72600000D03*
-%TO.N,/sa_do_31*%
+G04 #@! TO.N,/sa_do_31*
 X152430000Y-72600000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X154970000Y-72600000D03*
-%TO.N,/sa_do_26*%
+G04 #@! TO.N,/sa_do_26*
 X157510000Y-72600000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X160050000Y-72600000D03*
-%TO.N,unconnected-(U1-PadV21)*%
+G04 #@! TO.N,unconnected-(U1-PadV21)*
 X162590000Y-72600000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X111790000Y-70060000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X114330000Y-70060000D03*
-%TO.N,/bl_source_pin*%
+G04 #@! TO.N,/bl_source_pin*
 X116870000Y-70060000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X119410000Y-70060000D03*
 X121950000Y-70060000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X124490000Y-70060000D03*
-%TO.N,/sa_clk*%
+G04 #@! TO.N,/sa_clk*
 X127030000Y-70060000D03*
-%TO.N,/byp*%
+G04 #@! TO.N,/byp*
 X129570000Y-70060000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X132110000Y-70060000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X134650000Y-70060000D03*
 X137190000Y-70060000D03*
-%TO.N,/sa_do_46*%
+G04 #@! TO.N,/sa_do_46*
 X139730000Y-70060000D03*
-%TO.N,/sa_do_44*%
+G04 #@! TO.N,/sa_do_44*
 X142270000Y-70060000D03*
-%TO.N,/sa_do_40*%
+G04 #@! TO.N,/sa_do_40*
 X144810000Y-70060000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X147350000Y-70060000D03*
-%TO.N,/sa_do_35*%
+G04 #@! TO.N,/sa_do_35*
 X149890000Y-70060000D03*
-%TO.N,/core_pwr_o*%
+G04 #@! TO.N,/core_pwr_o*
 X152430000Y-70060000D03*
 X154970000Y-70060000D03*
-%TO.N,/io_pwr_o*%
+G04 #@! TO.N,/io_pwr_o*
 X157510000Y-70060000D03*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X160050000Y-70060000D03*
-%TO.N,unconnected-(U1-PadW21)*%
+G04 #@! TO.N,unconnected-(U1-PadW21)*
 X162590000Y-70060000D03*
-%TO.N,unconnected-(U1-PadX1)*%
+G04 #@! TO.N,unconnected-(U1-PadX1)*
 X111790000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX2)*%
+G04 #@! TO.N,unconnected-(U1-PadX2)*
 X114330000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX3)*%
+G04 #@! TO.N,unconnected-(U1-PadX3)*
 X116870000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX4)*%
+G04 #@! TO.N,unconnected-(U1-PadX4)*
 X119410000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX5)*%
+G04 #@! TO.N,unconnected-(U1-PadX5)*
 X121950000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX6)*%
+G04 #@! TO.N,unconnected-(U1-PadX6)*
 X124490000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX7)*%
+G04 #@! TO.N,unconnected-(U1-PadX7)*
 X127030000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX8)*%
+G04 #@! TO.N,unconnected-(U1-PadX8)*
 X129570000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX9)*%
+G04 #@! TO.N,unconnected-(U1-PadX9)*
 X132110000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX10)*%
+G04 #@! TO.N,unconnected-(U1-PadX10)*
 X134650000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX11)*%
+G04 #@! TO.N,unconnected-(U1-PadX11)*
 X137190000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX12)*%
+G04 #@! TO.N,unconnected-(U1-PadX12)*
 X139730000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX13)*%
+G04 #@! TO.N,unconnected-(U1-PadX13)*
 X142270000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX14)*%
+G04 #@! TO.N,unconnected-(U1-PadX14)*
 X144810000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX15)*%
+G04 #@! TO.N,unconnected-(U1-PadX15)*
 X147350000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX16)*%
+G04 #@! TO.N,unconnected-(U1-PadX16)*
 X149890000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX17)*%
+G04 #@! TO.N,unconnected-(U1-PadX17)*
 X152430000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX18)*%
+G04 #@! TO.N,unconnected-(U1-PadX18)*
 X154970000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX19)*%
+G04 #@! TO.N,unconnected-(U1-PadX19)*
 X157510000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX20)*%
+G04 #@! TO.N,unconnected-(U1-PadX20)*
 X160050000Y-67520000D03*
-%TO.N,unconnected-(U1-PadX21)*%
+G04 #@! TO.N,unconnected-(U1-PadX21)*
 X162590000Y-67520000D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.N,GND*%
-%TO.C,U2*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,U2*
 X91475000Y-129845000D03*
 X91475000Y-130945000D03*
-%TD*%
+G04 #@! TD*
 D13*
-%TO.N,GND*%
-%TO.C,H2*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,H2*
 X185450000Y-51010000D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.N,GND*%
-%TO.C,U3*%
+G04 #@! TO.N,GND*
+G04 #@! TO.C,U3*
 X91475000Y-134290000D03*
 X91475000Y-135390000D03*
-%TD*%
+G04 #@! TD*
 D21*
-%TO.N,Net-(J1-PadD1)*%
+G04 #@! TO.N,Net-(J1-PadD1)*
 X85755000Y-125305000D03*
-%TO.N,Net-(J2-Pad2)*%
+G04 #@! TO.N,Net-(J2-Pad2)*
 X76235000Y-135460000D03*
 D22*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X87025000Y-94825000D03*
 X76865000Y-110065000D03*
 X83215000Y-82125000D03*
@@ -1279,7 +1279,7 @@ X81945000Y-110065000D03*
 X83215000Y-93555000D03*
 X84485000Y-118955000D03*
 D21*
-%TO.N,+3.3V*%
+G04 #@! TO.N,+3.3V*
 X93380000Y-141557500D03*
 D22*
 X80675000Y-71965000D03*
@@ -1292,366 +1292,366 @@ X80675000Y-74505000D03*
 D21*
 X81950000Y-138000000D03*
 D22*
-%TO.N,/sclk*%
+G04 #@! TO.N,/sclk*
 X101122000Y-68917000D03*
 X88295000Y-84665000D03*
-%TO.N,/sc*%
+G04 #@! TO.N,/sc*
 X81945000Y-77045000D03*
 D23*
-%TO.N,/mosi*%
+G04 #@! TO.N,/mosi*
 X151160000Y-79839000D03*
 X151160000Y-77723575D03*
 D22*
 X81945000Y-82125000D03*
-%TO.N,/read_dac_config_1*%
+G04 #@! TO.N,/read_dac_config_1*
 X79405000Y-101175000D03*
-%TO.N,/rst_n*%
+G04 #@! TO.N,/rst_n*
 X80675000Y-87205000D03*
-%TO.N,/read_dac_config_0*%
+G04 #@! TO.N,/read_dac_config_0*
 X80675000Y-110065000D03*
 D21*
-%TO.N,/byp*%
+G04 #@! TO.N,/byp*
 X179100000Y-104350000D03*
-%TO.N,/man*%
+G04 #@! TO.N,/man*
 X177830000Y-104350000D03*
 D22*
-%TO.N,/di_42*%
+G04 #@! TO.N,/di_42*
 X80675000Y-108795000D03*
-%TO.N,/clamp_ref_1*%
+G04 #@! TO.N,/clamp_ref_1*
 X87025000Y-85935000D03*
-%TO.N,/clamp_ref_2*%
+G04 #@! TO.N,/clamp_ref_2*
 X85755000Y-84665000D03*
-%TO.N,/clamp_ref_3*%
+G04 #@! TO.N,/clamp_ref_3*
 X83215000Y-87205000D03*
-%TO.N,/clamp_ref_4*%
+G04 #@! TO.N,/clamp_ref_4*
 X84485000Y-85935000D03*
-%TO.N,/wl_dac_config_0*%
+G04 #@! TO.N,/wl_dac_config_0*
 X80675000Y-101175000D03*
-%TO.N,/di_47*%
+G04 #@! TO.N,/di_47*
 X81945000Y-116415000D03*
-%TO.N,/di_21*%
+G04 #@! TO.N,/di_21*
 X80675000Y-97365000D03*
-%TO.N,/rram_addr_0*%
+G04 #@! TO.N,/rram_addr_0*
 X83215000Y-113875000D03*
-%TO.N,/di_8*%
+G04 #@! TO.N,/di_8*
 X80675000Y-89745000D03*
-%TO.N,/di_36*%
+G04 #@! TO.N,/di_36*
 X81945000Y-117685000D03*
-%TO.N,/rram_addr_2*%
+G04 #@! TO.N,/rram_addr_2*
 X81945000Y-112605000D03*
-%TO.N,/sa_en*%
+G04 #@! TO.N,/sa_en*
 X81945000Y-111335000D03*
-%TO.N,/di_44*%
+G04 #@! TO.N,/di_44*
 X81945000Y-108795000D03*
-%TO.N,/di_43*%
+G04 #@! TO.N,/di_43*
 X81945000Y-104985000D03*
-%TO.N,/di_22*%
+G04 #@! TO.N,/di_22*
 X81945000Y-97365000D03*
-%TO.N,/rram_addr_6*%
+G04 #@! TO.N,/rram_addr_6*
 X87025000Y-111335000D03*
-%TO.N,/di_14*%
+G04 #@! TO.N,/di_14*
 X81945000Y-96095000D03*
-%TO.N,/di_4*%
+G04 #@! TO.N,/di_4*
 X81945000Y-89745000D03*
-%TO.N,/di_37*%
+G04 #@! TO.N,/di_37*
 X83215000Y-110065000D03*
-%TO.N,/di_39*%
+G04 #@! TO.N,/di_39*
 X85755000Y-110065000D03*
-%TO.N,/sa_do_13*%
+G04 #@! TO.N,/sa_do_13*
 X81945000Y-88475000D03*
-%TO.N,/sa_do_36*%
+G04 #@! TO.N,/sa_do_36*
 X81945000Y-80855000D03*
-%TO.N,/miso*%
+G04 #@! TO.N,/miso*
 X81945000Y-74505000D03*
-%TO.N,/sa_do_41*%
+G04 #@! TO.N,/sa_do_41*
 X81945000Y-73235000D03*
-%TO.N,/set_rst*%
+G04 #@! TO.N,/set_rst*
 X87025000Y-108795000D03*
-%TO.N,/read_ref_5*%
+G04 #@! TO.N,/read_ref_5*
 X79405000Y-107525000D03*
-%TO.N,/rram_addr_4*%
+G04 #@! TO.N,/rram_addr_4*
 X81945000Y-107525000D03*
-%TO.N,/rram_addr_5*%
+G04 #@! TO.N,/rram_addr_5*
 X83215000Y-107525000D03*
-%TO.N,/read_ref_4*%
+G04 #@! TO.N,/read_ref_4*
 X83215000Y-115145000D03*
-%TO.N,/rram_addr_11*%
+G04 #@! TO.N,/rram_addr_11*
 X85755000Y-107525000D03*
-%TO.N,/read_ref_1*%
+G04 #@! TO.N,/read_ref_1*
 X83215000Y-111335000D03*
-%TO.N,/rram_addr_15*%
+G04 #@! TO.N,/rram_addr_15*
 X88295000Y-107525000D03*
-%TO.N,/di_27*%
+G04 #@! TO.N,/di_27*
 X79405000Y-106255000D03*
-%TO.N,/di_32*%
+G04 #@! TO.N,/di_32*
 X80675000Y-106255000D03*
-%TO.N,/di_33*%
+G04 #@! TO.N,/di_33*
 X83215000Y-106255000D03*
-%TO.N,/di_35*%
+G04 #@! TO.N,/di_35*
 X85755000Y-106255000D03*
 X117908985Y-111103985D03*
-%TO.N,/di_38*%
+G04 #@! TO.N,/di_38*
 X118140000Y-106001000D03*
 X90835000Y-106128000D03*
-%TO.N,/di_40*%
+G04 #@! TO.N,/di_40*
 X80675000Y-104985000D03*
 X125760000Y-108287000D03*
-%TO.N,/rram_addr_3*%
+G04 #@! TO.N,/rram_addr_3*
 X83215000Y-103715000D03*
-%TO.N,/di_46*%
+G04 #@! TO.N,/di_46*
 X130840000Y-108287000D03*
 X84485000Y-104985000D03*
-%TO.N,/read_ref_0*%
+G04 #@! TO.N,/read_ref_0*
 X87025000Y-104985000D03*
-%TO.N,/read_ref_3*%
+G04 #@! TO.N,/read_ref_3*
 X81945000Y-103715000D03*
 X135920000Y-108287000D03*
-%TO.N,/di_23*%
+G04 #@! TO.N,/di_23*
 X113060000Y-105620000D03*
 X83215000Y-102445000D03*
-%TO.N,/rram_addr_7*%
+G04 #@! TO.N,/rram_addr_7*
 X84485000Y-103715000D03*
-%TO.N,/rram_addr_9*%
+G04 #@! TO.N,/rram_addr_9*
 X85755000Y-103715000D03*
-%TO.N,/di_26*%
+G04 #@! TO.N,/di_26*
 X83215000Y-98635000D03*
-%TO.N,/di_0*%
+G04 #@! TO.N,/di_0*
 X83215000Y-88475000D03*
-%TO.N,/we*%
+G04 #@! TO.N,/we*
 X79405000Y-102445000D03*
-%TO.N,/read_dac_config_2*%
+G04 #@! TO.N,/read_dac_config_2*
 X80675000Y-102445000D03*
-%TO.N,/bsl_dac_config_2*%
+G04 #@! TO.N,/bsl_dac_config_2*
 X110266000Y-77934000D03*
 X108869000Y-81109000D03*
 X83215000Y-83395000D03*
-%TO.N,/sa_do_32*%
+G04 #@! TO.N,/sa_do_32*
 X83215000Y-80855000D03*
-%TO.N,/sa_do_19*%
+G04 #@! TO.N,/sa_do_19*
 X83215000Y-79585000D03*
-%TO.N,/sa_do_43*%
+G04 #@! TO.N,/sa_do_43*
 X83215000Y-77045000D03*
-%TO.N,/sa_do_30*%
+G04 #@! TO.N,/sa_do_30*
 X83215000Y-75775000D03*
-%TO.N,/wl_dac_config_3*%
+G04 #@! TO.N,/wl_dac_config_3*
 X81945000Y-101175000D03*
-%TO.N,/wl_dac_config_5*%
+G04 #@! TO.N,/wl_dac_config_5*
 X84485000Y-101175000D03*
-%TO.N,/di_25*%
+G04 #@! TO.N,/di_25*
 X112806000Y-103461000D03*
 X87025000Y-101175000D03*
 X90835000Y-102953000D03*
-%TO.N,/di_28*%
+G04 #@! TO.N,/di_28*
 X118140000Y-103080000D03*
 X81945000Y-99905000D03*
-%TO.N,/di_29*%
+G04 #@! TO.N,/di_29*
 X115600000Y-103080000D03*
 X83215000Y-99905000D03*
-%TO.N,/sa_do_42*%
+G04 #@! TO.N,/sa_do_42*
 X83215000Y-73235000D03*
-%TO.N,/wl_dac_config_2*%
+G04 #@! TO.N,/wl_dac_config_2*
 X85755000Y-99905000D03*
-%TO.N,/sa_do_44*%
+G04 #@! TO.N,/sa_do_44*
 X83215000Y-71965000D03*
-%TO.N,/di_18*%
+G04 #@! TO.N,/di_18*
 X88295000Y-99905000D03*
-%TO.N,/di_24*%
+G04 #@! TO.N,/di_24*
 X80675000Y-98635000D03*
-%TO.N,/rram_addr_10*%
+G04 #@! TO.N,/rram_addr_10*
 X84485000Y-112605000D03*
-%TO.N,/read_ref_2*%
+G04 #@! TO.N,/read_ref_2*
 X84485000Y-111335000D03*
-%TO.N,/di_45*%
+G04 #@! TO.N,/di_45*
 X84485000Y-108795000D03*
-%TO.N,/di_16*%
+G04 #@! TO.N,/di_16*
 X79405000Y-97365000D03*
-%TO.N,/rram_addr_8*%
+G04 #@! TO.N,/rram_addr_8*
 X84485000Y-107525000D03*
-%TO.N,/read_dac_config_3*%
+G04 #@! TO.N,/read_dac_config_3*
 X84485000Y-99905000D03*
-%TO.N,/wl_dac_config_6*%
+G04 #@! TO.N,/wl_dac_config_6*
 X84485000Y-97365000D03*
-%TO.N,/wl_dac_en*%
+G04 #@! TO.N,/wl_dac_en*
 X87025000Y-97365000D03*
-%TO.N,/sa_do_2*%
+G04 #@! TO.N,/sa_do_2*
 X79405000Y-96095000D03*
-%TO.N,/di_2*%
+G04 #@! TO.N,/di_2*
 X84485000Y-89745000D03*
-%TO.N,/di_17*%
+G04 #@! TO.N,/di_17*
 X83215000Y-96095000D03*
-%TO.N,/di_20*%
+G04 #@! TO.N,/di_20*
 X84485000Y-96095000D03*
-%TO.N,/di_19*%
+G04 #@! TO.N,/di_19*
 X85755000Y-96095000D03*
-%TO.N,/bleed_en*%
+G04 #@! TO.N,/bleed_en*
 X87025000Y-96095000D03*
 X90835000Y-97873000D03*
-%TO.N,/wl_en*%
+G04 #@! TO.N,/wl_en*
 X90835000Y-95968000D03*
-%TO.N,/sa_do_0*%
+G04 #@! TO.N,/sa_do_0*
 X80675000Y-94825000D03*
-%TO.N,/sa_do_4*%
+G04 #@! TO.N,/sa_do_4*
 X83215000Y-94825000D03*
-%TO.N,/di_12*%
+G04 #@! TO.N,/di_12*
 X85755000Y-94825000D03*
-%TO.N,/di_15*%
+G04 #@! TO.N,/di_15*
 X88295000Y-94825000D03*
-%TO.N,/di_13*%
+G04 #@! TO.N,/di_13*
 X123220000Y-92832849D03*
 X80675000Y-93555000D03*
-%TO.N,/sa_do_3*%
+G04 #@! TO.N,/sa_do_3*
 X81945000Y-93555000D03*
-%TO.N,/sa_do_1*%
+G04 #@! TO.N,/sa_do_1*
 X84485000Y-93555000D03*
-%TO.N,/clamp_ref_5*%
+G04 #@! TO.N,/clamp_ref_5*
 X84485000Y-88475000D03*
-%TO.N,/di_11*%
+G04 #@! TO.N,/di_11*
 X79405000Y-92285000D03*
 X112985600Y-88676400D03*
-%TO.N,/di_9*%
+G04 #@! TO.N,/di_9*
 X81945000Y-92285000D03*
-%TO.N,/di_10*%
+G04 #@! TO.N,/di_10*
 X83215000Y-92285000D03*
-%TO.N,/sa_do_7*%
+G04 #@! TO.N,/sa_do_7*
 X84485000Y-92285000D03*
-%TO.N,/sa_do_10*%
+G04 #@! TO.N,/sa_do_10*
 X84485000Y-78315000D03*
-%TO.N,/sa_do_6*%
+G04 #@! TO.N,/sa_do_6*
 X87025000Y-92285000D03*
-%TO.N,/di_7*%
+G04 #@! TO.N,/di_7*
 X90835000Y-92158000D03*
-%TO.N,/di_5*%
+G04 #@! TO.N,/di_5*
 X120680000Y-87840000D03*
 X79405000Y-91015000D03*
-%TO.N,/di_6*%
+G04 #@! TO.N,/di_6*
 X80675000Y-91015000D03*
-%TO.N,/sa_do_11*%
+G04 #@! TO.N,/sa_do_11*
 X83215000Y-91015000D03*
-%TO.N,/sa_do_12*%
+G04 #@! TO.N,/sa_do_12*
 X85755000Y-91015000D03*
-%TO.N,/sa_do_9*%
+G04 #@! TO.N,/sa_do_9*
 X88295000Y-91015000D03*
-%TO.N,/sa_do_38*%
+G04 #@! TO.N,/sa_do_38*
 X84485000Y-77045000D03*
-%TO.N,/sa_rdy*%
+G04 #@! TO.N,/sa_rdy*
 X84485000Y-74505000D03*
-%TO.N,/sa_do_31*%
+G04 #@! TO.N,/sa_do_31*
 X84485000Y-73235000D03*
-%TO.N,/rram_addr_1*%
+G04 #@! TO.N,/rram_addr_1*
 X85755000Y-111335000D03*
-%TO.N,/di_30*%
+G04 #@! TO.N,/di_30*
 X85755000Y-102445000D03*
 X120680000Y-105707151D03*
-%TO.N,/wl_dac_config_1*%
+G04 #@! TO.N,/wl_dac_config_1*
 X85755000Y-98635000D03*
-%TO.N,/sa_do_18*%
+G04 #@! TO.N,/sa_do_18*
 X85755000Y-88475000D03*
-%TO.N,/sa_do_16*%
+G04 #@! TO.N,/sa_do_16*
 X90835000Y-88983000D03*
 X87025000Y-88475000D03*
-%TO.N,/sa_do_8*%
+G04 #@! TO.N,/sa_do_8*
 X85755000Y-92285000D03*
-%TO.N,/di_3*%
+G04 #@! TO.N,/di_3*
 X79405000Y-87205000D03*
-%TO.N,/sa_do_21*%
+G04 #@! TO.N,/sa_do_21*
 X85755000Y-87205000D03*
-%TO.N,/sa_do_20*%
+G04 #@! TO.N,/sa_do_20*
 X90835000Y-87078000D03*
-%TO.N,/sa_do_17*%
+G04 #@! TO.N,/sa_do_17*
 X79405000Y-85935000D03*
-%TO.N,/di_1*%
+G04 #@! TO.N,/di_1*
 X80675000Y-85935000D03*
-%TO.N,/bl_en*%
+G04 #@! TO.N,/bl_en*
 X81945000Y-85935000D03*
-%TO.N,/sa_do_23*%
+G04 #@! TO.N,/sa_do_23*
 X81945000Y-84665000D03*
 X156367000Y-81236000D03*
-%TO.N,/sa_do_22*%
+G04 #@! TO.N,/sa_do_22*
 X83215000Y-84665000D03*
-%TO.N,/sa_do_15*%
+G04 #@! TO.N,/sa_do_15*
 X84485000Y-84665000D03*
-%TO.N,/bsl_dac_en*%
+G04 #@! TO.N,/bsl_dac_en*
 X87025000Y-84665000D03*
 X109758000Y-83014000D03*
-%TO.N,/bsl_dac_config_4*%
+G04 #@! TO.N,/bsl_dac_config_4*
 X120680000Y-75140000D03*
 X87025000Y-78315000D03*
-%TO.N,/sa_do_27*%
+G04 #@! TO.N,/sa_do_27*
 X85755000Y-80855000D03*
-%TO.N,/bsl_dac_config_0*%
+G04 #@! TO.N,/bsl_dac_config_0*
 X85755000Y-83395000D03*
-%TO.N,/sa_do_45*%
+G04 #@! TO.N,/sa_do_45*
 X84485000Y-82125000D03*
-%TO.N,/sa_do_39*%
+G04 #@! TO.N,/sa_do_39*
 X87025000Y-82125000D03*
-%TO.N,/read_dac_en*%
+G04 #@! TO.N,/read_dac_en*
 X85755000Y-79585000D03*
-%TO.N,/sa_do_37*%
+G04 #@! TO.N,/sa_do_37*
 X85755000Y-77045000D03*
-%TO.N,/sa_do_29*%
+G04 #@! TO.N,/sa_do_29*
 X84485000Y-80855000D03*
-%TO.N,/sa_do_28*%
+G04 #@! TO.N,/sa_do_28*
 X85755000Y-75775000D03*
-%TO.N,/sa_do_26*%
+G04 #@! TO.N,/sa_do_26*
 X85755000Y-73235000D03*
-%TO.N,/sa_do_24*%
+G04 #@! TO.N,/sa_do_24*
 X90835000Y-80601000D03*
-%TO.N,/sa_do_40*%
+G04 #@! TO.N,/sa_do_40*
 X85755000Y-71965000D03*
-%TO.N,/di_34*%
+G04 #@! TO.N,/di_34*
 X87025000Y-112605000D03*
-%TO.N,/bsl_dac_config_3*%
+G04 #@! TO.N,/bsl_dac_config_3*
 X88295000Y-79585000D03*
-%TO.N,/bsl_dac_config_1*%
+G04 #@! TO.N,/bsl_dac_config_1*
 X81945000Y-78315000D03*
-%TO.N,/aclk*%
+G04 #@! TO.N,/aclk*
 X96101182Y-70381818D03*
-%TO.N,/rram_addr_13*%
+G04 #@! TO.N,/rram_addr_13*
 X87025000Y-107525000D03*
-%TO.N,/rram_addr_12*%
+G04 #@! TO.N,/rram_addr_12*
 X87025000Y-103715000D03*
-%TO.N,/wl_dac_config_7*%
+G04 #@! TO.N,/wl_dac_config_7*
 X87025000Y-99905000D03*
-%TO.N,/sa_do_5*%
+G04 #@! TO.N,/sa_do_5*
 X87025000Y-93555000D03*
-%TO.N,/sa_do_14*%
+G04 #@! TO.N,/sa_do_14*
 X87025000Y-89745000D03*
-%TO.N,/sa_do_25*%
+G04 #@! TO.N,/sa_do_25*
 X87025000Y-80855000D03*
-%TO.N,/sa_do_34*%
+G04 #@! TO.N,/sa_do_34*
 X87025000Y-77045000D03*
-%TO.N,/sa_do_47*%
+G04 #@! TO.N,/sa_do_47*
 X87025000Y-74505000D03*
-%TO.N,/sa_do_46*%
+G04 #@! TO.N,/sa_do_46*
 X87025000Y-73235000D03*
-%TO.N,/sl_en*%
+G04 #@! TO.N,/sl_en*
 X88295000Y-111335000D03*
-%TO.N,/di_41*%
+G04 #@! TO.N,/di_41*
 X88295000Y-110065000D03*
-%TO.N,/rram_addr_14*%
+G04 #@! TO.N,/rram_addr_14*
 X88295000Y-103715000D03*
-%TO.N,/di_31*%
+G04 #@! TO.N,/di_31*
 X88295000Y-102445000D03*
 X123220000Y-105620000D03*
-%TO.N,/wl_dac_config_4*%
+G04 #@! TO.N,/wl_dac_config_4*
 X90835000Y-99778000D03*
-%TO.N,/mclk_pause*%
+G04 #@! TO.N,/mclk_pause*
 X88295000Y-83395000D03*
-%TO.N,/sa_do_33*%
+G04 #@! TO.N,/sa_do_33*
 X88295000Y-77045000D03*
-%TO.N,/clamp_ref_0*%
+G04 #@! TO.N,/clamp_ref_0*
 X88295000Y-75775000D03*
-%TO.N,/sa_do_35*%
+G04 #@! TO.N,/sa_do_35*
 X88295000Y-71965000D03*
 D21*
-%TO.N,/heartbeat*%
+G04 #@! TO.N,/heartbeat*
 X172750000Y-85935000D03*
 D22*
-%TO.N,/sa_clk*%
+G04 #@! TO.N,/sa_clk*
 X88295000Y-73235000D03*
-%TD*%
-%TA.AperFunction,Conductor*%
-%TO.N,GND*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+G04 #@! TO.N,GND*
 G36*
 X70772503Y-48280502D02*
 G01*
@@ -59680,6 +59680,6 @@ X69595500Y-48260500D01*
 X70704382Y-48260500D01*
 X70772503Y-48280502D01*
 G37*
-%TD.AperFunction*%
-%TD*%
+G04 #@! TD.AperFunction*
+G04 #@! TD*
 M02*
