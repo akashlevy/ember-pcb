@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*%
-%TF.CreationDate,2022-12-19T14:05:16-05:00*%
-%TF.ProjectId,ember-pcb,656d6265-722d-4706-9362-2e6b69636164,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Copper,L1,Top*%
-%TF.FilePolarity,Positive*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*
+G04 #@! TF.CreationDate,2022-12-22T20:55:44-05:00*
+G04 #@! TF.ProjectId,ember-pcb,656d6265-722d-4706-9362-2e6b69636164,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-19 14:05:16*
+G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-22 20:55:44*
 %MOMM*%
 %LPD*%
 G01*
@@ -29,106 +29,100 @@ G04 Aperture macros list*
 20,1,$1+$1,$6,$7,$8,$9,0*
 20,1,$1+$1,$8,$9,$2,$3,0*%
 G04 Aperture macros list end*
-%TA.AperFunction,NonConductor*%
+G04 #@! TA.AperFunction,NonConductor*
 %ADD10C,0.200000*%
-%TD*%
+G04 #@! TD*
 %ADD11C,0.150000*%
-%TA.AperFunction,NonConductor*%
+G04 #@! TA.AperFunction,NonConductor*
 %ADD12C,0.150000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
-%ADD13C,1.000000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
-%ADD14RoundRect,0.200000X-0.275000X0.200000X-0.275000X-0.200000X0.275000X-0.200000X0.275000X0.200000X0*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
+%ADD13RoundRect,0.200000X-0.275000X0.200000X-0.275000X-0.200000X0.275000X-0.200000X0.275000X0.200000X0*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
+%ADD14C,1.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD15R,1.000000X0.800000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD16R,0.700000X1.500000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD17C,5.000000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD18RoundRect,0.250000X0.925000X-0.412500X0.925000X0.412500X-0.925000X0.412500X-0.925000X-0.412500X0*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD19R,1.700000X1.700000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD20O,1.700000X1.700000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD21C,2.000000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD22RoundRect,0.250000X-0.925000X0.412500X-0.925000X-0.412500X0.925000X-0.412500X0.925000X0.412500X0*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD23C,2.250000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD24RoundRect,0.200000X-0.200000X-0.275000X0.200000X-0.275000X0.200000X0.275000X-0.200000X0.275000X0*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD25RoundRect,0.250000X-1.100000X0.325000X-1.100000X-0.325000X1.100000X-0.325000X1.100000X0.325000X0*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD26RoundRect,0.093750X-0.093750X-0.106250X0.093750X-0.106250X0.093750X0.106250X-0.093750X0.106250X0*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD27R,1.000000X1.600000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD28C,0.500000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD29RoundRect,0.250000X1.100000X-0.325000X1.100000X0.325000X-1.100000X0.325000X-1.100000X-0.325000X0*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD30RoundRect,0.218750X-0.218750X-0.256250X0.218750X-0.256250X0.218750X0.256250X-0.218750X0.256250X0*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD31R,1.368000X1.368000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD32C,1.368000*%
-%TD*%
-%TA.AperFunction,SMDPad,CuDef*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
 %ADD33R,1.500000X1.100000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD34C,0.800000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD35C,0.508000*%
-%TD*%
-%TA.AperFunction,ViaPad*%
-%ADD36C,0.457200*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD37C,0.762000*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD38C,0.250000*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD39C,1.016000*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD40C,0.508000*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD41C,0.381000*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD42C,0.101600*%
-%TD*%
-%TA.AperFunction,Conductor*%
-%ADD43C,1.270000*%
-%TD*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD36C,0.762000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD37C,0.250000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD38C,1.016000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD39C,0.508000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD40C,0.381000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD41C,0.101600*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X83850000Y-48470000D02*
@@ -154,1744 +148,1785 @@ X84770714Y-51097380D01*
 X84485000Y-52097380D02*
 X84485000Y-51097380D01*
 D13*
-%TO.P,FID3,*%
-%TO.N,*%
-X72420000Y-138640000D03*
-%TD*%
-%TO.P,FID2,*%
-%TO.N,*%
-X185450000Y-59265000D03*
-%TD*%
-%TO.P,FID1,*%
-%TO.N,*%
-X72420000Y-59265000D03*
-%TD*%
-D14*
-%TO.P,R2,1*%
-%TO.N,/man*%
+G04 #@! TO.P,R2,1*
+G04 #@! TO.N,/man*
 X174020000Y-117495000D03*
-%TO.P,R2,2*%
-%TO.N,GND*%
+G04 #@! TO.P,R2,2*
+G04 #@! TO.N,GND*
 X174020000Y-119145000D03*
-%TD*%
+G04 #@! TD*
+D14*
+G04 #@! TO.P,FID1,*
+G04 #@! TO.N,*
+X72420000Y-59265000D03*
+G04 #@! TD*
 D15*
-%TO.P,SW2,*%
-%TO.N,*%
+G04 #@! TO.P,SW3,*
+G04 #@! TO.N,*
 X87735000Y-143030000D03*
 X77435000Y-143030000D03*
 X87735000Y-140820000D03*
 X77435000Y-140820000D03*
 D16*
-%TO.P,SW2,1,1*%
-%TO.N,Net-(J5-Pad2)*%
+G04 #@! TO.P,SW3,1,1*
+G04 #@! TO.N,Net-(J6-Pad2)*
 X79585000Y-140170000D03*
-%TO.P,SW2,2,2*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,SW3,2,2*
+G04 #@! TO.N,+3.3V*
 X81085000Y-140170000D03*
-%TO.P,SW2,3,3*%
-%TO.N,Net-(C6-Pad1)*%
+G04 #@! TO.P,SW3,3,3*
+G04 #@! TO.N,Net-(C6-Pad1)*
 X84085000Y-140170000D03*
-%TO.P,SW2,4,4*%
-%TO.N,Net-(SW2-Pad4)*%
+G04 #@! TO.P,SW3,4,4*
+G04 #@! TO.N,Net-(SW3-Pad4)*
 X85585000Y-140170000D03*
-%TD*%
-D13*
-%TO.P,TP1,1,1*%
-%TO.N,/heartbeat*%
+G04 #@! TD*
+D14*
+G04 #@! TO.P,TP1,1,1*
+G04 #@! TO.N,/heartbeat*
 X175290000Y-88475000D03*
-%TD*%
+G04 #@! TD*
 D17*
-%TO.P,H1,1,1*%
-%TO.N,GND*%
+G04 #@! TO.P,H1,1,1*
+G04 #@! TO.N,GND*
 X72420000Y-51010000D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.P,C8,1*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,C8,1*
+G04 #@! TO.N,/io_pwr*
 X111940000Y-137632500D03*
-%TO.P,C8,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C8,2*
+G04 #@! TO.N,GND*
 X111940000Y-134557500D03*
-%TD*%
+G04 #@! TD*
 D19*
-%TO.P,J3,1,Pin_1*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,J4,1,Pin_1*
+G04 #@! TO.N,/core_pwr*
 X153060000Y-142455000D03*
 D20*
-%TO.P,J3,2,Pin_2*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,J4,2,Pin_2*
+G04 #@! TO.N,/vdd_fsm*
 X153060000Y-139915000D03*
-%TO.P,J3,3,Pin_3*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,J4,3,Pin_3*
+G04 #@! TO.N,/core_pwr*
 X155600000Y-142455000D03*
-%TO.P,J3,4,Pin_4*%
-%TO.N,/vdd*%
+G04 #@! TO.P,J4,4,Pin_4*
+G04 #@! TO.N,/vdd*
 X155600000Y-139915000D03*
-%TO.P,J3,5,Pin_5*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,J4,5,Pin_5*
+G04 #@! TO.N,/core_pwr*
 X158140000Y-142455000D03*
-%TO.P,J3,6,Pin_6*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,J4,6,Pin_6*
+G04 #@! TO.N,/vdd_dac*
 X158140000Y-139915000D03*
-%TO.P,J3,7,Pin_7*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,J4,7,Pin_7*
+G04 #@! TO.N,/core_pwr*
 X160680000Y-142455000D03*
-%TO.P,J3,8,Pin_8*%
-%TO.N,/vsa*%
+G04 #@! TO.P,J4,8,Pin_8*
+G04 #@! TO.N,/vsa*
 X160680000Y-139915000D03*
-%TO.P,J3,9,Pin_9*%
-%TO.N,unconnected-(J3-Pad9)*%
+G04 #@! TO.P,J4,9,Pin_9*
+G04 #@! TO.N,unconnected-(J4-Pad9)*
 X163220000Y-142455000D03*
-%TO.P,J3,10,Pin_10*%
-%TO.N,unconnected-(J3-Pad10)*%
+G04 #@! TO.P,J4,10,Pin_10*
+G04 #@! TO.N,unconnected-(J4-Pad10)*
 X163220000Y-139915000D03*
-%TO.P,J3,11,Pin_11*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,J4,11,Pin_11*
+G04 #@! TO.N,/io_pwr*
 X165760000Y-142455000D03*
-%TO.P,J3,12,Pin_12*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,J4,12,Pin_12*
+G04 #@! TO.N,/vddio_fsm*
 X165760000Y-139915000D03*
-%TO.P,J3,13,Pin_13*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,J4,13,Pin_13*
+G04 #@! TO.N,/io_pwr*
 X168300000Y-142455000D03*
-%TO.P,J3,14,Pin_14*%
-%TO.N,/vddio*%
+G04 #@! TO.P,J4,14,Pin_14*
+G04 #@! TO.N,/vddio*
 X168300000Y-139915000D03*
-%TO.P,J3,15,Pin_15*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,J4,15,Pin_15*
+G04 #@! TO.N,/io_pwr*
 X170840000Y-142455000D03*
-%TO.P,J3,16,Pin_16*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,J4,16,Pin_16*
+G04 #@! TO.N,/vddio_dac*
 X170840000Y-139915000D03*
-%TO.P,J3,17,Pin_17*%
-%TO.N,unconnected-(J3-Pad17)*%
+G04 #@! TO.P,J4,17,Pin_17*
+G04 #@! TO.N,unconnected-(J4-Pad17)*
 X173380000Y-142455000D03*
-%TO.P,J3,18,Pin_18*%
-%TO.N,unconnected-(J3-Pad18)*%
+G04 #@! TO.P,J4,18,Pin_18*
+G04 #@! TO.N,unconnected-(J4-Pad18)*
 X173380000Y-139915000D03*
-%TO.P,J3,19,Pin_19*%
-%TO.N,GND*%
+G04 #@! TO.P,J4,19,Pin_19*
+G04 #@! TO.N,GND*
 X175920000Y-142455000D03*
-%TO.P,J3,20,Pin_20*%
+G04 #@! TO.P,J4,20,Pin_20*
 X175920000Y-139915000D03*
-%TO.P,J3,21,Pin_21*%
+G04 #@! TO.P,J4,21,Pin_21*
 X178460000Y-142455000D03*
-%TO.P,J3,22,Pin_22*%
+G04 #@! TO.P,J4,22,Pin_22*
 X178460000Y-139915000D03*
-%TO.P,J3,23,Pin_23*%
+G04 #@! TO.P,J4,23,Pin_23*
 X181000000Y-142455000D03*
-%TO.P,J3,24,Pin_24*%
+G04 #@! TO.P,J4,24,Pin_24*
 X181000000Y-139915000D03*
-%TD*%
+G04 #@! TD*
+D14*
+G04 #@! TO.P,FID2,*
+G04 #@! TO.N,*
+X185450000Y-59265000D03*
+G04 #@! TD*
 D21*
-%TO.P,FB1,1*%
-%TO.N,Net-(C1-Pad1)*%
+G04 #@! TO.P,FB1,1*
+G04 #@! TO.N,Net-(C1-Pad1)*
 X137165000Y-132710000D03*
-%TO.P,FB1,2*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,FB1,2*
+G04 #@! TO.N,/core_pwr*
 X142245000Y-132710000D03*
-%TD*%
+G04 #@! TD*
 D19*
-%TO.P,J4,1,Pin_1*%
-%TO.N,/wl_source_pin*%
+G04 #@! TO.P,J5,1,Pin_1*
+G04 #@! TO.N,/wl_source_pin*
 X184180000Y-73865000D03*
 D20*
-%TO.P,J4,2,Pin_2*%
-%TO.N,/bl_source_pin*%
+G04 #@! TO.P,J5,2,Pin_2*
+G04 #@! TO.N,/bl_source_pin*
 X184180000Y-76405000D03*
-%TO.P,J4,3,Pin_3*%
-%TO.N,/sl_source_pin*%
+G04 #@! TO.P,J5,3,Pin_3*
+G04 #@! TO.N,/sl_source_pin*
 X184180000Y-78945000D03*
-%TO.P,J4,4,Pin_4*%
-%TO.N,/iref_test*%
+G04 #@! TO.P,J5,4,Pin_4*
+G04 #@! TO.N,/iref_test*
 X184180000Y-81485000D03*
-%TO.P,J4,5,Pin_5*%
-%TO.N,/vdd_test*%
+G04 #@! TO.P,J5,5,Pin_5*
+G04 #@! TO.N,/vdd_test*
 X184180000Y-84025000D03*
-%TO.P,J4,6,Pin_6*%
-%TO.N,unconnected-(J4-Pad6)*%
+G04 #@! TO.P,J5,6,Pin_6*
+G04 #@! TO.N,/vadj*
 X184180000Y-86565000D03*
-%TO.P,J4,7,Pin_7*%
-%TO.N,GND*%
+G04 #@! TO.P,J5,7,Pin_7*
+G04 #@! TO.N,GND*
 X184180000Y-89105000D03*
-%TD*%
+G04 #@! TD*
 D21*
-%TO.P,FB2,1*%
-%TO.N,Net-(C6-Pad1)*%
+G04 #@! TO.P,FB2,1*
+G04 #@! TO.N,Net-(C6-Pad1)*
 X137165000Y-141600000D03*
-%TO.P,FB2,2*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,FB2,2*
+G04 #@! TO.N,/io_pwr*
 X142245000Y-141600000D03*
-%TD*%
+G04 #@! TD*
 D22*
-%TO.P,C3,1*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,C3,1*
+G04 #@! TO.N,/core_pwr*
 X111940000Y-128612500D03*
-%TO.P,C3,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C3,2*
+G04 #@! TO.N,GND*
 X111940000Y-131687500D03*
-%TD*%
+G04 #@! TD*
 D23*
-%TO.P,J5,1,In*%
-%TO.N,GND*%
+G04 #@! TO.P,J6,1,In*
+G04 #@! TO.N,GND*
 X99065000Y-143720000D03*
-%TO.P,J5,2,Ext*%
-%TO.N,Net-(J5-Pad2)*%
+G04 #@! TO.P,J6,2,Ext*
+G04 #@! TO.N,Net-(J6-Pad2)*
 X101605000Y-146260000D03*
 X96525000Y-141180000D03*
 X96525000Y-146260000D03*
 X101605000Y-141180000D03*
-%TD*%
+G04 #@! TD*
 D22*
-%TO.P,C1,1*%
-%TO.N,Net-(C1-Pad1)*%
+G04 #@! TO.P,C1,1*
+G04 #@! TO.N,Net-(C1-Pad1)*
 X97970000Y-128437500D03*
-%TO.P,C1,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C1,2*
+G04 #@! TO.N,GND*
 X97970000Y-131512500D03*
-%TD*%
+G04 #@! TD*
 D24*
-%TO.P,R1,1*%
-%TO.N,Net-(D1-Pad2)*%
+G04 #@! TO.P,R1,1*
+G04 #@! TO.N,Net-(D1-Pad2)*
 X82532742Y-125305000D03*
-%TO.P,R1,2*%
-%TO.N,Net-(J1-PadD1)*%
+G04 #@! TO.P,R1,2*
+G04 #@! TO.N,Net-(J1-PadD1)*
 X84182742Y-125305000D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.P,C6,1*%
-%TO.N,Net-(C6-Pad1)*%
+G04 #@! TO.P,C6,1*
+G04 #@! TO.N,Net-(C6-Pad1)*
 X97965000Y-137632500D03*
-%TO.P,C6,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C6,2*
+G04 #@! TO.N,GND*
 X97965000Y-134557500D03*
-%TD*%
+G04 #@! TD*
 D25*
-%TO.P,C2,1*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,C2,1*
+G04 #@! TO.N,/core_pwr*
 X104955000Y-128675000D03*
-%TO.P,C2,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C2,2*
+G04 #@! TO.N,GND*
 X104955000Y-131625000D03*
-%TD*%
-%TO.P,C5,1*%
-%TO.N,/core_pwr*%
+G04 #@! TD*
+G04 #@! TO.P,C5,1*
+G04 #@! TO.N,/core_pwr*
 X126140000Y-128675000D03*
-%TO.P,C5,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C5,2*
+G04 #@! TO.N,GND*
 X126140000Y-131625000D03*
-%TD*%
+G04 #@! TD*
+D14*
+G04 #@! TO.P,FID3,*
+G04 #@! TO.N,*
+X72420000Y-138640000D03*
+G04 #@! TD*
 D22*
-%TO.P,C4,1*%
-%TO.N,/core_pwr*%
+G04 #@! TO.P,C4,1*
+G04 #@! TO.N,/core_pwr*
 X118925000Y-128612500D03*
-%TO.P,C4,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C4,2*
+G04 #@! TO.N,GND*
 X118925000Y-131687500D03*
-%TD*%
+G04 #@! TD*
 D18*
-%TO.P,C9,1*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,C9,1*
+G04 #@! TO.N,/io_pwr*
 X118925000Y-137632500D03*
-%TO.P,C9,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C9,2*
+G04 #@! TO.N,GND*
 X118925000Y-134557500D03*
-%TD*%
+G04 #@! TD*
 D26*
-%TO.P,U4,1,OUT*%
-%TO.N,Net-(SW2-Pad4)*%
+G04 #@! TO.P,U4,1,OUT*
+G04 #@! TO.N,Net-(SW3-Pad4)*
 X90587500Y-138635000D03*
-%TO.P,U4,2,NC*%
-%TO.N,unconnected-(U4-Pad2)*%
+G04 #@! TO.P,U4,2,NC*
+G04 #@! TO.N,unconnected-(U4-Pad2)*
 X90587500Y-139285000D03*
-%TO.P,U4,3,PG*%
-%TO.N,unconnected-(U4-Pad3)*%
+G04 #@! TO.P,U4,3,PG*
+G04 #@! TO.N,unconnected-(U4-Pad3)*
 X90587500Y-139935000D03*
-%TO.P,U4,4,EN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U4,4,EN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-139935000D03*
-%TO.P,U4,5,GND*%
-%TO.N,GND*%
+G04 #@! TO.P,U4,5,GND*
+G04 #@! TO.N,GND*
 X92362500Y-139285000D03*
-%TO.P,U4,6,IN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U4,6,IN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-138635000D03*
 D27*
-%TO.P,U4,7,EP*%
-%TO.N,GND*%
+G04 #@! TO.P,U4,7,EP*
+G04 #@! TO.N,GND*
 X91475000Y-139285000D03*
 D28*
 X91475000Y-139835000D03*
 X91475000Y-138735000D03*
-%TD*%
+G04 #@! TD*
 D29*
-%TO.P,C10,1*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,C10,1*
+G04 #@! TO.N,/io_pwr*
 X126140000Y-137570000D03*
-%TO.P,C10,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C10,2*
+G04 #@! TO.N,GND*
 X126140000Y-134620000D03*
-%TD*%
-D14*
-%TO.P,R3,1*%
-%TO.N,/byp*%
+G04 #@! TD*
+D19*
+G04 #@! TO.P,J2,1,Pin_1*
+G04 #@! TO.N,/sc*
+X178719000Y-63710000D03*
+D20*
+G04 #@! TO.P,J2,2,Pin_2*
+G04 #@! TO.N,/rst_n*
+X176179000Y-63710000D03*
+G04 #@! TO.P,J2,3,Pin_3*
+G04 #@! TO.N,/sclk*
+X178719000Y-61170000D03*
+G04 #@! TO.P,J2,4,Pin_4*
+G04 #@! TO.N,/rram_busy*
+X176179000Y-61170000D03*
+G04 #@! TO.P,J2,5,Pin_5*
+G04 #@! TO.N,/mosi*
+X178719000Y-58630000D03*
+G04 #@! TO.P,J2,6,Pin_6*
+G04 #@! TO.N,/mclk_pause*
+X176179000Y-58630000D03*
+G04 #@! TO.P,J2,7,Pin_7*
+G04 #@! TO.N,/miso*
+X178719000Y-56090000D03*
+G04 #@! TO.P,J2,8,Pin_8*
+G04 #@! TO.N,unconnected-(J2-Pad8)*
+X176179000Y-56090000D03*
+G04 #@! TO.P,J2,9,Pin_9*
+G04 #@! TO.N,GND*
+X178719000Y-53550000D03*
+G04 #@! TO.P,J2,10,Pin_10*
+X176179000Y-53550000D03*
+G04 #@! TO.P,J2,11,Pin_11*
+G04 #@! TO.N,unconnected-(J2-Pad11)*
+X178719000Y-51010000D03*
+G04 #@! TO.P,J2,12,Pin_12*
+G04 #@! TO.N,unconnected-(J2-Pad12)*
+X176179000Y-51010000D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,R3,1*
+G04 #@! TO.N,/byp*
 X175925000Y-117495000D03*
-%TO.P,R3,2*%
-%TO.N,GND*%
+G04 #@! TO.P,R3,2*
+G04 #@! TO.N,GND*
 X175925000Y-119145000D03*
-%TD*%
+G04 #@! TD*
 D15*
-%TO.P,SW1,*%
-%TO.N,*%
+G04 #@! TO.P,SW1,*
+G04 #@! TO.N,*
 X77435000Y-134985000D03*
 X77435000Y-132775000D03*
 X87735000Y-134985000D03*
 X87735000Y-132775000D03*
 D16*
-%TO.P,SW1,1,1*%
-%TO.N,Net-(J2-Pad2)*%
+G04 #@! TO.P,SW1,1,1*
+G04 #@! TO.N,Net-(J3-Pad2)*
 X79585000Y-132125000D03*
-%TO.P,SW1,2,2*%
-%TO.N,Net-(SW1-Pad2)*%
+G04 #@! TO.P,SW1,2,2*
+G04 #@! TO.N,Net-(SW1-Pad2)*
 X81085000Y-132125000D03*
-%TO.P,SW1,3,3*%
-%TO.N,Net-(C1-Pad1)*%
+G04 #@! TO.P,SW1,3,3*
+G04 #@! TO.N,Net-(C1-Pad1)*
 X84085000Y-132125000D03*
-%TO.P,SW1,4,4*%
-%TO.N,Net-(SW1-Pad4)*%
+G04 #@! TO.P,SW1,4,4*
+G04 #@! TO.N,Net-(SW1-Pad4)*
 X85585000Y-132125000D03*
-%TD*%
+G04 #@! TD*
 D23*
-%TO.P,J2,1,In*%
-%TO.N,GND*%
+G04 #@! TO.P,J3,1,In*
+G04 #@! TO.N,GND*
 X111765000Y-143720000D03*
-%TO.P,J2,2,Ext*%
-%TO.N,Net-(J2-Pad2)*%
+G04 #@! TO.P,J3,2,Ext*
+G04 #@! TO.N,Net-(J3-Pad2)*
 X114305000Y-141180000D03*
 X114305000Y-146260000D03*
 X109225000Y-141180000D03*
 X109225000Y-146260000D03*
-%TD*%
+G04 #@! TD*
 D30*
-%TO.P,D1,1,K*%
-%TO.N,GND*%
+G04 #@! TO.P,D1,1,K*
+G04 #@! TO.N,GND*
 X79205242Y-125305000D03*
-%TO.P,D1,2,A*%
-%TO.N,Net-(D1-Pad2)*%
+G04 #@! TO.P,D1,2,A*
+G04 #@! TO.N,Net-(D1-Pad2)*
 X80780242Y-125305000D03*
-%TD*%
+G04 #@! TD*
 D31*
-%TO.P,U1,A1,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,A1,vss*
+G04 #@! TO.N,GND*
 X111790000Y-118320000D03*
 D32*
-%TO.P,U1,A2,di_36*%
-%TO.N,/di_36*%
+G04 #@! TO.P,U1,A2,di_36*
+G04 #@! TO.N,/di_36*
 X114330000Y-118320000D03*
-%TO.P,U1,A3,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,A3,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X116870000Y-118320000D03*
-%TO.P,U1,A4,iref_test*%
-%TO.N,/iref_test*%
+G04 #@! TO.P,U1,A4,iref_test*
+G04 #@! TO.N,/iref_test*
 X119410000Y-118320000D03*
-%TO.P,U1,A5,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,A5,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X121950000Y-118320000D03*
-%TO.P,U1,A6,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,A6,vss*
+G04 #@! TO.N,GND*
 X124490000Y-118320000D03*
-%TO.P,U1,A7,di_47*%
-%TO.N,/di_47*%
+G04 #@! TO.P,U1,A7,di_47*
+G04 #@! TO.N,/di_47*
 X127030000Y-118320000D03*
-%TO.P,U1,A8,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,A8,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X129570000Y-118320000D03*
-%TO.P,U1,A9,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,A9,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X132110000Y-118320000D03*
-%TO.P,U1,A10,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,A10,vddio*
+G04 #@! TO.N,/vddio*
 X134650000Y-118320000D03*
-%TO.P,U1,A11,vsa*%
-%TO.N,/vsa*%
+G04 #@! TO.P,U1,A11,vsa*
+G04 #@! TO.N,/vsa*
 X137190000Y-118320000D03*
-%TO.P,U1,A12,read_ref_4*%
-%TO.N,/read_ref_4*%
+G04 #@! TO.P,U1,A12,read_ref_4*
+G04 #@! TO.N,/read_ref_4*
 X139730000Y-118320000D03*
-%TO.P,U1,A13,rram_addr_0*%
-%TO.N,/rram_addr_0*%
+G04 #@! TO.P,U1,A13,rram_addr_0*
+G04 #@! TO.N,/rram_addr_0*
 X142270000Y-118320000D03*
-%TO.P,U1,A14,rram_addr_2*%
-%TO.N,/rram_addr_2*%
+G04 #@! TO.P,U1,A14,rram_addr_2*
+G04 #@! TO.N,/rram_addr_2*
 X144810000Y-118320000D03*
-%TO.P,U1,A15,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,A15,vss*
+G04 #@! TO.N,GND*
 X147350000Y-118320000D03*
-%TO.P,U1,A16,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,A16,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X149890000Y-118320000D03*
-%TO.P,U1,A17,rram_addr_10*%
-%TO.N,/rram_addr_10*%
+G04 #@! TO.P,U1,A17,rram_addr_10*
+G04 #@! TO.N,/rram_addr_10*
 X152430000Y-118320000D03*
-%TO.P,U1,A18,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,A18,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X154970000Y-118320000D03*
-%TO.P,U1,A19,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,A19,rram_busy*
+G04 #@! TO.N,/rram_busy*
 X157510000Y-118320000D03*
-%TO.P,U1,A20,vss*%
+G04 #@! TO.P,U1,A20,vss*
+G04 #@! TO.N,GND*
 X160050000Y-118320000D03*
-%TO.P,U1,A21*%
-%TO.N,unconnected-(U1-PadA21)*%
+G04 #@! TO.P,U1,A21*
+G04 #@! TO.N,unconnected-(U1-PadA21)*
 X162590000Y-118320000D03*
-%TO.P,U1,B1,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,B1,vddio*
+G04 #@! TO.N,/vddio*
 X111790000Y-115780000D03*
-%TO.P,U1,B2,di_34*%
-%TO.N,/di_34*%
+G04 #@! TO.P,U1,B2,di_34*
+G04 #@! TO.N,/di_34*
 X114330000Y-115780000D03*
-%TO.P,U1,B3,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,B3,sl_source_pin*
+G04 #@! TO.N,/sl_source_pin*
 X116870000Y-115780000D03*
-%TO.P,U1,B4,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,B4,vddio*
+G04 #@! TO.N,/vddio*
 X119410000Y-115780000D03*
-%TO.P,U1,B5,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,B5,vdd*
+G04 #@! TO.N,/vdd*
 X121950000Y-115780000D03*
-%TO.P,U1,B6,vdd_test*%
-%TO.N,/vdd_test*%
+G04 #@! TO.P,U1,B6,vdd_test*
+G04 #@! TO.N,/vdd_test*
 X124490000Y-115780000D03*
-%TO.P,U1,B7,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,B7,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X127030000Y-115780000D03*
-%TO.P,U1,B8,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,B8,bl_source_pin*
+G04 #@! TO.N,/bl_source_pin*
 X129570000Y-115780000D03*
-%TO.P,U1,B9,sa_en*%
-%TO.N,/sa_en*%
+G04 #@! TO.P,U1,B9,sa_en*
+G04 #@! TO.N,/sa_en*
 X132110000Y-115780000D03*
-%TO.P,U1,B10,read_ref_1*%
-%TO.N,/read_ref_1*%
+G04 #@! TO.P,U1,B10,read_ref_1*
+G04 #@! TO.N,/read_ref_1*
 X134650000Y-115780000D03*
-%TO.P,U1,B11,read_ref_2*%
-%TO.N,/read_ref_2*%
+G04 #@! TO.P,U1,B11,read_ref_2*
+G04 #@! TO.N,/read_ref_2*
 X137190000Y-115780000D03*
-%TO.P,U1,B12,rram_addr_1*%
-%TO.N,/rram_addr_1*%
+G04 #@! TO.P,U1,B12,rram_addr_1*
+G04 #@! TO.N,/rram_addr_1*
 X139730000Y-115780000D03*
-%TO.P,U1,B13,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,B13,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X142270000Y-115780000D03*
-%TO.P,U1,B14,rram_addr_6*%
-%TO.N,/rram_addr_6*%
+G04 #@! TO.P,U1,B14,rram_addr_6*
+G04 #@! TO.N,/rram_addr_6*
 X144810000Y-115780000D03*
-%TO.P,U1,B15,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,B15,vdd*
+G04 #@! TO.N,/vdd*
 X147350000Y-115780000D03*
-%TO.P,U1,B16,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,B16,vddio*
+G04 #@! TO.N,/vddio*
 X149890000Y-115780000D03*
-%TO.P,U1,B17,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,B17,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X152430000Y-115780000D03*
-%TO.P,U1,B18,sl_en*%
-%TO.N,/sl_en*%
+G04 #@! TO.P,U1,B18,sl_en*
+G04 #@! TO.N,/sl_en*
 X154970000Y-115780000D03*
-%TO.P,U1,B19,read_dac_config_0*%
-%TO.N,/read_dac_config_0*%
+G04 #@! TO.P,U1,B19,read_dac_config_0*
+G04 #@! TO.N,/read_dac_config_0*
 X157510000Y-115780000D03*
-%TO.P,U1,B20,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,B20,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X160050000Y-115780000D03*
-%TO.P,U1,B21*%
-%TO.N,unconnected-(U1-PadB21)*%
+G04 #@! TO.P,U1,B21*
+G04 #@! TO.N,unconnected-(U1-PadB21)*
 X162590000Y-115780000D03*
-%TO.P,U1,C1,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,C1,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X111790000Y-113240000D03*
-%TO.P,U1,C2,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,C2,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X114330000Y-113240000D03*
-%TO.P,U1,C3,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,C3,vss*
+G04 #@! TO.N,GND*
 X116870000Y-113240000D03*
-%TO.P,U1,C4,di_37*%
-%TO.N,/di_37*%
+G04 #@! TO.P,U1,C4,di_37*
+G04 #@! TO.N,/di_37*
 X119410000Y-113240000D03*
-%TO.P,U1,C5,di_39*%
-%TO.N,/di_39*%
+G04 #@! TO.P,U1,C5,di_39*
+G04 #@! TO.N,/di_39*
 X121950000Y-113240000D03*
-%TO.P,U1,C6,di_41*%
-%TO.N,/di_41*%
+G04 #@! TO.P,U1,C6,di_41*
+G04 #@! TO.N,/di_41*
 X124490000Y-113240000D03*
-%TO.P,U1,C7,di_42*%
-%TO.N,/di_42*%
+G04 #@! TO.P,U1,C7,di_42*
+G04 #@! TO.N,/di_42*
 X127030000Y-113240000D03*
-%TO.P,U1,C8,di_44*%
-%TO.N,/di_44*%
+G04 #@! TO.P,U1,C8,di_44*
+G04 #@! TO.N,/di_44*
 X129570000Y-113240000D03*
-%TO.P,U1,C9,di_45*%
-%TO.N,/di_45*%
+G04 #@! TO.P,U1,C9,di_45*
+G04 #@! TO.N,/di_45*
 X132110000Y-113240000D03*
-%TO.P,U1,C10,set_rst*%
-%TO.N,/set_rst*%
+G04 #@! TO.P,U1,C10,set_rst*
+G04 #@! TO.N,/set_rst*
 X134650000Y-113240000D03*
-%TO.P,U1,C11,read_ref_5*%
-%TO.N,/read_ref_5*%
+G04 #@! TO.P,U1,C11,read_ref_5*
+G04 #@! TO.N,/read_ref_5*
 X137190000Y-113240000D03*
-%TO.P,U1,C12,rram_addr_4*%
-%TO.N,/rram_addr_4*%
+G04 #@! TO.P,U1,C12,rram_addr_4*
+G04 #@! TO.N,/rram_addr_4*
 X139730000Y-113240000D03*
-%TO.P,U1,C13,rram_addr_5*%
-%TO.N,/rram_addr_5*%
+G04 #@! TO.P,U1,C13,rram_addr_5*
+G04 #@! TO.N,/rram_addr_5*
 X142270000Y-113240000D03*
-%TO.P,U1,C14,rram_addr_8*%
-%TO.N,/rram_addr_8*%
+G04 #@! TO.P,U1,C14,rram_addr_8*
+G04 #@! TO.N,/rram_addr_8*
 X144810000Y-113240000D03*
-%TO.P,U1,C15,rram_addr_11*%
-%TO.N,/rram_addr_11*%
+G04 #@! TO.P,U1,C15,rram_addr_11*
+G04 #@! TO.N,/rram_addr_11*
 X147350000Y-113240000D03*
-%TO.P,U1,C16,rram_addr_13*%
-%TO.N,/rram_addr_13*%
+G04 #@! TO.P,U1,C16,rram_addr_13*
+G04 #@! TO.N,/rram_addr_13*
 X149890000Y-113240000D03*
-%TO.P,U1,C17,rram_addr_15*%
-%TO.N,/rram_addr_15*%
+G04 #@! TO.P,U1,C17,rram_addr_15*
+G04 #@! TO.N,/rram_addr_15*
 X152430000Y-113240000D03*
-%TO.P,U1,C18,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,C18,vss*
+G04 #@! TO.N,GND*
 X154970000Y-113240000D03*
-%TO.P,U1,C19,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,C19,vddio*
+G04 #@! TO.N,/vddio*
 X157510000Y-113240000D03*
-%TO.P,U1,C20,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,C20,vdd*
+G04 #@! TO.N,/vdd*
 X160050000Y-113240000D03*
-%TO.P,U1,C21*%
-%TO.N,unconnected-(U1-PadC21)*%
+G04 #@! TO.P,U1,C21*
+G04 #@! TO.N,unconnected-(U1-PadC21)*
 X162590000Y-113240000D03*
-%TO.P,U1,D1,di_27*%
-%TO.N,/di_27*%
+G04 #@! TO.P,U1,D1,di_27*
+G04 #@! TO.N,/di_27*
 X111790000Y-110700000D03*
-%TO.P,U1,D2,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,D2,vdd*
+G04 #@! TO.N,/vdd*
 X114330000Y-110700000D03*
-%TO.P,U1,D3,di_32*%
-%TO.N,/di_32*%
+G04 #@! TO.P,U1,D3,di_32*
+G04 #@! TO.N,/di_32*
 X116870000Y-110700000D03*
-%TO.P,U1,D4,di_33*%
-%TO.N,/di_33*%
+G04 #@! TO.P,U1,D4,di_33*
+G04 #@! TO.N,/di_33*
 X119410000Y-110700000D03*
-%TO.P,U1,D5,di_35*%
-%TO.N,/di_35*%
+G04 #@! TO.P,U1,D5,di_35*
+G04 #@! TO.N,/di_35*
 X121950000Y-110700000D03*
-%TO.P,U1,D6,di_38*%
-%TO.N,/di_38*%
+G04 #@! TO.P,U1,D6,di_38*
+G04 #@! TO.N,/di_38*
 X124490000Y-110700000D03*
-%TO.P,U1,D7,di_40*%
-%TO.N,/di_40*%
+G04 #@! TO.P,U1,D7,di_40*
+G04 #@! TO.N,/di_40*
 X127030000Y-110700000D03*
-%TO.P,U1,D8,di_43*%
-%TO.N,/di_43*%
+G04 #@! TO.P,U1,D8,di_43*
+G04 #@! TO.N,/di_43*
 X129570000Y-110700000D03*
-%TO.P,U1,D9,di_46*%
-%TO.N,/di_46*%
+G04 #@! TO.P,U1,D9,di_46*
+G04 #@! TO.N,/di_46*
 X132110000Y-110700000D03*
-%TO.P,U1,D10,read_ref_0*%
-%TO.N,/read_ref_0*%
+G04 #@! TO.P,U1,D10,read_ref_0*
+G04 #@! TO.N,/read_ref_0*
 X134650000Y-110700000D03*
-%TO.P,U1,D11,read_ref_3*%
-%TO.N,/read_ref_3*%
+G04 #@! TO.P,U1,D11,read_ref_3*
+G04 #@! TO.N,/read_ref_3*
 X137190000Y-110700000D03*
-%TO.P,U1,D12,rram_addr_3*%
-%TO.N,/rram_addr_3*%
+G04 #@! TO.P,U1,D12,rram_addr_3*
+G04 #@! TO.N,/rram_addr_3*
 X139730000Y-110700000D03*
-%TO.P,U1,D13,rram_addr_7*%
-%TO.N,/rram_addr_7*%
+G04 #@! TO.P,U1,D13,rram_addr_7*
+G04 #@! TO.N,/rram_addr_7*
 X142270000Y-110700000D03*
-%TO.P,U1,D14,rram_addr_9*%
-%TO.N,/rram_addr_9*%
+G04 #@! TO.P,U1,D14,rram_addr_9*
+G04 #@! TO.N,/rram_addr_9*
 X144810000Y-110700000D03*
-%TO.P,U1,D15,rram_addr_12*%
-%TO.N,/rram_addr_12*%
+G04 #@! TO.P,U1,D15,rram_addr_12*
+G04 #@! TO.N,/rram_addr_12*
 X147350000Y-110700000D03*
-%TO.P,U1,D16,rram_addr_14*%
-%TO.N,/rram_addr_14*%
+G04 #@! TO.P,U1,D16,rram_addr_14*
+G04 #@! TO.N,/rram_addr_14*
 X149890000Y-110700000D03*
-%TO.P,U1,D17,we*%
-%TO.N,/we*%
+G04 #@! TO.P,U1,D17,we*
+G04 #@! TO.N,/we*
 X152430000Y-110700000D03*
-%TO.P,U1,D18,read_dac_config_2*%
-%TO.N,/read_dac_config_2*%
+G04 #@! TO.P,U1,D18,read_dac_config_2*
+G04 #@! TO.N,/read_dac_config_2*
 X154970000Y-110700000D03*
-%TO.P,U1,D19,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,D19,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X157510000Y-110700000D03*
-%TO.P,U1,D20,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,D20,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X160050000Y-110700000D03*
-%TO.P,U1,D21*%
-%TO.N,unconnected-(U1-PadD21)*%
+G04 #@! TO.P,U1,D21*
+G04 #@! TO.N,unconnected-(U1-PadD21)*
 X162590000Y-110700000D03*
-%TO.P,U1,E1,di_23*%
-%TO.N,/di_23*%
+G04 #@! TO.P,U1,E1,di_23*
+G04 #@! TO.N,/di_23*
 X111790000Y-108160000D03*
-%TO.P,U1,E2,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,E2,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X114330000Y-108160000D03*
-%TO.P,U1,E3,di_30*%
-%TO.N,/di_30*%
+G04 #@! TO.P,U1,E3,di_30*
+G04 #@! TO.N,/di_30*
 X116870000Y-108160000D03*
-%TO.P,U1,E4,di_31*%
-%TO.N,/di_31*%
+G04 #@! TO.P,U1,E4,di_31*
+G04 #@! TO.N,/di_31*
 X119410000Y-108160000D03*
-%TO.P,U1,E5*%
-%TO.N,unconnected-(U1-PadE5)*%
+G04 #@! TO.P,U1,E5*
+G04 #@! TO.N,unconnected-(U1-PadE5)*
 X121950000Y-108160000D03*
-%TO.P,U1,E6*%
-%TO.N,unconnected-(U1-PadE6)*%
+G04 #@! TO.P,U1,E6*
+G04 #@! TO.N,unconnected-(U1-PadE6)*
 X124490000Y-108160000D03*
-%TO.P,U1,E7*%
-%TO.N,unconnected-(U1-PadE7)*%
+G04 #@! TO.P,U1,E7*
+G04 #@! TO.N,unconnected-(U1-PadE7)*
 X127030000Y-108160000D03*
-%TO.P,U1,E8*%
-%TO.N,unconnected-(U1-PadE8)*%
+G04 #@! TO.P,U1,E8*
+G04 #@! TO.N,unconnected-(U1-PadE8)*
 X129570000Y-108160000D03*
-%TO.P,U1,E9*%
-%TO.N,unconnected-(U1-PadE9)*%
+G04 #@! TO.P,U1,E9*
+G04 #@! TO.N,unconnected-(U1-PadE9)*
 X132110000Y-108160000D03*
-%TO.P,U1,E10*%
-%TO.N,unconnected-(U1-PadE10)*%
+G04 #@! TO.P,U1,E10*
+G04 #@! TO.N,unconnected-(U1-PadE10)*
 X134650000Y-108160000D03*
-%TO.P,U1,E11*%
-%TO.N,unconnected-(U1-PadE11)*%
+G04 #@! TO.P,U1,E11*
+G04 #@! TO.N,unconnected-(U1-PadE11)*
 X137190000Y-108160000D03*
-%TO.P,U1,E12*%
-%TO.N,unconnected-(U1-PadE12)*%
+G04 #@! TO.P,U1,E12*
+G04 #@! TO.N,unconnected-(U1-PadE12)*
 X139730000Y-108160000D03*
-%TO.P,U1,E13*%
-%TO.N,unconnected-(U1-PadE13)*%
+G04 #@! TO.P,U1,E13*
+G04 #@! TO.N,unconnected-(U1-PadE13)*
 X142270000Y-108160000D03*
-%TO.P,U1,E14*%
-%TO.N,unconnected-(U1-PadE14)*%
+G04 #@! TO.P,U1,E14*
+G04 #@! TO.N,unconnected-(U1-PadE14)*
 X144810000Y-108160000D03*
-%TO.P,U1,E15*%
-%TO.N,unconnected-(U1-PadE15)*%
+G04 #@! TO.P,U1,E15*
+G04 #@! TO.N,unconnected-(U1-PadE15)*
 X147350000Y-108160000D03*
-%TO.P,U1,E16*%
-%TO.N,unconnected-(U1-PadE16)*%
+G04 #@! TO.P,U1,E16*
+G04 #@! TO.N,unconnected-(U1-PadE16)*
 X149890000Y-108160000D03*
-%TO.P,U1,E17,read_dac_config_1*%
-%TO.N,/read_dac_config_1*%
+G04 #@! TO.P,U1,E17,read_dac_config_1*
+G04 #@! TO.N,/read_dac_config_1*
 X152430000Y-108160000D03*
-%TO.P,U1,E18,wl_dac_config_0*%
-%TO.N,/wl_dac_config_0*%
+G04 #@! TO.P,U1,E18,wl_dac_config_0*
+G04 #@! TO.N,/wl_dac_config_0*
 X154970000Y-108160000D03*
-%TO.P,U1,E19,wl_dac_config_3*%
-%TO.N,/wl_dac_config_3*%
+G04 #@! TO.P,U1,E19,wl_dac_config_3*
+G04 #@! TO.N,/wl_dac_config_3*
 X157510000Y-108160000D03*
-%TO.P,U1,E20,wl_dac_config_5*%
-%TO.N,/wl_dac_config_5*%
+G04 #@! TO.P,U1,E20,wl_dac_config_5*
+G04 #@! TO.N,/wl_dac_config_5*
 X160050000Y-108160000D03*
-%TO.P,U1,E21*%
-%TO.N,unconnected-(U1-PadE21)*%
+G04 #@! TO.P,U1,E21*
+G04 #@! TO.N,unconnected-(U1-PadE21)*
 X162590000Y-108160000D03*
-%TO.P,U1,F1,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,F1,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X111790000Y-105620000D03*
-%TO.P,U1,F2,di_25*%
-%TO.N,/di_25*%
+G04 #@! TO.P,U1,F2,di_25*
+G04 #@! TO.N,/di_25*
 X114330000Y-105620000D03*
-%TO.P,U1,F3,di_28*%
-%TO.N,/di_28*%
+G04 #@! TO.P,U1,F3,di_28*
+G04 #@! TO.N,/di_28*
 X116870000Y-105620000D03*
-%TO.P,U1,F4,di_29*%
-%TO.N,/di_29*%
+G04 #@! TO.P,U1,F4,di_29*
+G04 #@! TO.N,/di_29*
 X119410000Y-105620000D03*
-%TO.P,U1,F5*%
-%TO.N,unconnected-(U1-PadF5)*%
+G04 #@! TO.P,U1,F5*
+G04 #@! TO.N,unconnected-(U1-PadF5)*
 X121950000Y-105620000D03*
-%TO.P,U1,F6*%
-%TO.N,unconnected-(U1-PadF6)*%
+G04 #@! TO.P,U1,F6*
+G04 #@! TO.N,unconnected-(U1-PadF6)*
 X124490000Y-105620000D03*
-%TO.P,U1,F7*%
-%TO.N,unconnected-(U1-PadF7)*%
+G04 #@! TO.P,U1,F7*
+G04 #@! TO.N,unconnected-(U1-PadF7)*
 X127030000Y-105620000D03*
-%TO.P,U1,F8*%
-%TO.N,unconnected-(U1-PadF8)*%
+G04 #@! TO.P,U1,F8*
+G04 #@! TO.N,unconnected-(U1-PadF8)*
 X129570000Y-105620000D03*
-%TO.P,U1,F9*%
-%TO.N,unconnected-(U1-PadF9)*%
+G04 #@! TO.P,U1,F9*
+G04 #@! TO.N,unconnected-(U1-PadF9)*
 X132110000Y-105620000D03*
-%TO.P,U1,F10*%
-%TO.N,unconnected-(U1-PadF10)*%
+G04 #@! TO.P,U1,F10*
+G04 #@! TO.N,unconnected-(U1-PadF10)*
 X134650000Y-105620000D03*
-%TO.P,U1,F11*%
-%TO.N,unconnected-(U1-PadF11)*%
+G04 #@! TO.P,U1,F11*
+G04 #@! TO.N,unconnected-(U1-PadF11)*
 X137190000Y-105620000D03*
-%TO.P,U1,F12*%
-%TO.N,unconnected-(U1-PadF12)*%
+G04 #@! TO.P,U1,F12*
+G04 #@! TO.N,unconnected-(U1-PadF12)*
 X139730000Y-105620000D03*
-%TO.P,U1,F13*%
-%TO.N,unconnected-(U1-PadF13)*%
+G04 #@! TO.P,U1,F13*
+G04 #@! TO.N,unconnected-(U1-PadF13)*
 X142270000Y-105620000D03*
-%TO.P,U1,F14*%
-%TO.N,unconnected-(U1-PadF14)*%
+G04 #@! TO.P,U1,F14*
+G04 #@! TO.N,unconnected-(U1-PadF14)*
 X144810000Y-105620000D03*
-%TO.P,U1,F15*%
-%TO.N,unconnected-(U1-PadF15)*%
+G04 #@! TO.P,U1,F15*
+G04 #@! TO.N,unconnected-(U1-PadF15)*
 X147350000Y-105620000D03*
-%TO.P,U1,F16*%
-%TO.N,unconnected-(U1-PadF16)*%
+G04 #@! TO.P,U1,F16*
+G04 #@! TO.N,unconnected-(U1-PadF16)*
 X149890000Y-105620000D03*
-%TO.P,U1,F17,read_dac_config_3*%
-%TO.N,/read_dac_config_3*%
+G04 #@! TO.P,U1,F17,read_dac_config_3*
+G04 #@! TO.N,/read_dac_config_3*
 X152430000Y-105620000D03*
-%TO.P,U1,F18,wl_dac_config_2*%
-%TO.N,/wl_dac_config_2*%
+G04 #@! TO.P,U1,F18,wl_dac_config_2*
+G04 #@! TO.N,/wl_dac_config_2*
 X154970000Y-105620000D03*
-%TO.P,U1,F19,wl_dac_config_7*%
-%TO.N,/wl_dac_config_7*%
+G04 #@! TO.P,U1,F19,wl_dac_config_7*
+G04 #@! TO.N,/wl_dac_config_7*
 X157510000Y-105620000D03*
-%TO.P,U1,F20,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,F20,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X160050000Y-105620000D03*
-%TO.P,U1,F21*%
-%TO.N,unconnected-(U1-PadF21)*%
+G04 #@! TO.P,U1,F21*
+G04 #@! TO.N,unconnected-(U1-PadF21)*
 X162590000Y-105620000D03*
-%TO.P,U1,G1,di_18*%
-%TO.N,/di_18*%
+G04 #@! TO.P,U1,G1,di_18*
+G04 #@! TO.N,/di_18*
 X111790000Y-103080000D03*
-%TO.P,U1,G2,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,G2,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X114330000Y-103080000D03*
-%TO.P,U1,G3,di_24*%
-%TO.N,/di_24*%
+G04 #@! TO.P,U1,G3,di_24*
+G04 #@! TO.N,/di_24*
 X116870000Y-103080000D03*
-%TO.P,U1,G4,di_26*%
-%TO.N,/di_26*%
+G04 #@! TO.P,U1,G4,di_26*
+G04 #@! TO.N,/di_26*
 X119410000Y-103080000D03*
-%TO.P,U1,G5*%
-%TO.N,unconnected-(U1-PadG5)*%
+G04 #@! TO.P,U1,G5*
+G04 #@! TO.N,unconnected-(U1-PadG5)*
 X121950000Y-103080000D03*
-%TO.P,U1,G6*%
-%TO.N,unconnected-(U1-PadG6)*%
+G04 #@! TO.P,U1,G6*
+G04 #@! TO.N,unconnected-(U1-PadG6)*
 X124490000Y-103080000D03*
-%TO.P,U1,G7*%
-%TO.N,unconnected-(U1-PadG7)*%
+G04 #@! TO.P,U1,G7*
+G04 #@! TO.N,unconnected-(U1-PadG7)*
 X127030000Y-103080000D03*
-%TO.P,U1,G8*%
-%TO.N,unconnected-(U1-PadG8)*%
+G04 #@! TO.P,U1,G8*
+G04 #@! TO.N,unconnected-(U1-PadG8)*
 X129570000Y-103080000D03*
-%TO.P,U1,G9*%
-%TO.N,unconnected-(U1-PadG9)*%
+G04 #@! TO.P,U1,G9*
+G04 #@! TO.N,unconnected-(U1-PadG9)*
 X132110000Y-103080000D03*
-%TO.P,U1,G10*%
-%TO.N,unconnected-(U1-PadG10)*%
+G04 #@! TO.P,U1,G10*
+G04 #@! TO.N,unconnected-(U1-PadG10)*
 X134650000Y-103080000D03*
-%TO.P,U1,G11*%
-%TO.N,unconnected-(U1-PadG11)*%
+G04 #@! TO.P,U1,G11*
+G04 #@! TO.N,unconnected-(U1-PadG11)*
 X137190000Y-103080000D03*
-%TO.P,U1,G12*%
-%TO.N,unconnected-(U1-PadG12)*%
+G04 #@! TO.P,U1,G12*
+G04 #@! TO.N,unconnected-(U1-PadG12)*
 X139730000Y-103080000D03*
-%TO.P,U1,G13*%
-%TO.N,unconnected-(U1-PadG13)*%
+G04 #@! TO.P,U1,G13*
+G04 #@! TO.N,unconnected-(U1-PadG13)*
 X142270000Y-103080000D03*
-%TO.P,U1,G14*%
-%TO.N,unconnected-(U1-PadG14)*%
+G04 #@! TO.P,U1,G14*
+G04 #@! TO.N,unconnected-(U1-PadG14)*
 X144810000Y-103080000D03*
-%TO.P,U1,G15*%
-%TO.N,unconnected-(U1-PadG15)*%
+G04 #@! TO.P,U1,G15*
+G04 #@! TO.N,unconnected-(U1-PadG15)*
 X147350000Y-103080000D03*
-%TO.P,U1,G16*%
-%TO.N,unconnected-(U1-PadG16)*%
+G04 #@! TO.P,U1,G16*
+G04 #@! TO.N,unconnected-(U1-PadG16)*
 X149890000Y-103080000D03*
-%TO.P,U1,G17,wl_dac_config_1*%
-%TO.N,/wl_dac_config_1*%
+G04 #@! TO.P,U1,G17,wl_dac_config_1*
+G04 #@! TO.N,/wl_dac_config_1*
 X152430000Y-103080000D03*
-%TO.P,U1,G18,wl_dac_config_4*%
-%TO.N,/wl_dac_config_4*%
+G04 #@! TO.P,U1,G18,wl_dac_config_4*
+G04 #@! TO.N,/wl_dac_config_4*
 X154970000Y-103080000D03*
-%TO.P,U1,G19,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,G19,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X157510000Y-103080000D03*
-%TO.P,U1,G20,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,G20,vss*
+G04 #@! TO.N,GND*
 X160050000Y-103080000D03*
-%TO.P,U1,G21*%
-%TO.N,unconnected-(U1-PadG21)*%
+G04 #@! TO.P,U1,G21*
+G04 #@! TO.N,unconnected-(U1-PadG21)*
 X162590000Y-103080000D03*
-%TO.P,U1,H1,di_16*%
-%TO.N,/di_16*%
+G04 #@! TO.P,U1,H1,di_16*
+G04 #@! TO.N,/di_16*
 X111790000Y-100540000D03*
-%TO.P,U1,H2,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,H2,vss*
+G04 #@! TO.N,GND*
 X114330000Y-100540000D03*
-%TO.P,U1,H3,di_21*%
-%TO.N,/di_21*%
+G04 #@! TO.P,U1,H3,di_21*
+G04 #@! TO.N,/di_21*
 X116870000Y-100540000D03*
-%TO.P,U1,H4,di_22*%
-%TO.N,/di_22*%
+G04 #@! TO.P,U1,H4,di_22*
+G04 #@! TO.N,/di_22*
 X119410000Y-100540000D03*
-%TO.P,U1,H5*%
-%TO.N,unconnected-(U1-PadH5)*%
+G04 #@! TO.P,U1,H5*
+G04 #@! TO.N,unconnected-(U1-PadH5)*
 X121950000Y-100540000D03*
-%TO.P,U1,H6*%
-%TO.N,unconnected-(U1-PadH6)*%
+G04 #@! TO.P,U1,H6*
+G04 #@! TO.N,unconnected-(U1-PadH6)*
 X124490000Y-100540000D03*
-%TO.P,U1,H7*%
-%TO.N,unconnected-(U1-PadH7)*%
+G04 #@! TO.P,U1,H7*
+G04 #@! TO.N,unconnected-(U1-PadH7)*
 X127030000Y-100540000D03*
-%TO.P,U1,H8*%
-%TO.N,unconnected-(U1-PadH8)*%
+G04 #@! TO.P,U1,H8*
+G04 #@! TO.N,unconnected-(U1-PadH8)*
 X129570000Y-100540000D03*
-%TO.P,U1,H9*%
-%TO.N,unconnected-(U1-PadH9)*%
+G04 #@! TO.P,U1,H9*
+G04 #@! TO.N,unconnected-(U1-PadH9)*
 X132110000Y-100540000D03*
-%TO.P,U1,H10*%
-%TO.N,unconnected-(U1-PadH10)*%
+G04 #@! TO.P,U1,H10*
+G04 #@! TO.N,unconnected-(U1-PadH10)*
 X134650000Y-100540000D03*
-%TO.P,U1,H11*%
-%TO.N,unconnected-(U1-PadH11)*%
+G04 #@! TO.P,U1,H11*
+G04 #@! TO.N,unconnected-(U1-PadH11)*
 X137190000Y-100540000D03*
-%TO.P,U1,H12*%
-%TO.N,unconnected-(U1-PadH12)*%
+G04 #@! TO.P,U1,H12*
+G04 #@! TO.N,unconnected-(U1-PadH12)*
 X139730000Y-100540000D03*
-%TO.P,U1,H13*%
-%TO.N,unconnected-(U1-PadH13)*%
+G04 #@! TO.P,U1,H13*
+G04 #@! TO.N,unconnected-(U1-PadH13)*
 X142270000Y-100540000D03*
-%TO.P,U1,H14*%
-%TO.N,unconnected-(U1-PadH14)*%
+G04 #@! TO.P,U1,H14*
+G04 #@! TO.N,unconnected-(U1-PadH14)*
 X144810000Y-100540000D03*
-%TO.P,U1,H15*%
-%TO.N,unconnected-(U1-PadH15)*%
+G04 #@! TO.P,U1,H15*
+G04 #@! TO.N,unconnected-(U1-PadH15)*
 X147350000Y-100540000D03*
-%TO.P,U1,H16*%
-%TO.N,unconnected-(U1-PadH16)*%
+G04 #@! TO.P,U1,H16*
+G04 #@! TO.N,unconnected-(U1-PadH16)*
 X149890000Y-100540000D03*
-%TO.P,U1,H17,wl_dac_config_6*%
-%TO.N,/wl_dac_config_6*%
+G04 #@! TO.P,U1,H17,wl_dac_config_6*
+G04 #@! TO.N,/wl_dac_config_6*
 X152430000Y-100540000D03*
-%TO.P,U1,H18,wl_dac_en*%
-%TO.N,/wl_dac_en*%
+G04 #@! TO.P,U1,H18,wl_dac_en*
+G04 #@! TO.N,/wl_dac_en*
 X154970000Y-100540000D03*
-%TO.P,U1,H19,wl_source_pin*%
-%TO.N,/wl_source_pin*%
+G04 #@! TO.P,U1,H19,wl_source_pin*
+G04 #@! TO.N,/wl_source_pin*
 X157510000Y-100540000D03*
-%TO.P,U1,H20,sa_do_2*%
-%TO.N,/sa_do_2*%
+G04 #@! TO.P,U1,H20,sa_do_2*
+G04 #@! TO.N,/sa_do_2*
 X160050000Y-100540000D03*
-%TO.P,U1,H21*%
-%TO.N,unconnected-(U1-PadH21)*%
+G04 #@! TO.P,U1,H21*
+G04 #@! TO.N,unconnected-(U1-PadH21)*
 X162590000Y-100540000D03*
-%TO.P,U1,J1,di_14*%
-%TO.N,/di_14*%
+G04 #@! TO.P,U1,J1,di_14*
+G04 #@! TO.N,/di_14*
 X111790000Y-98000000D03*
-%TO.P,U1,J2,di_17*%
-%TO.N,/di_17*%
+G04 #@! TO.P,U1,J2,di_17*
+G04 #@! TO.N,/di_17*
 X114330000Y-98000000D03*
-%TO.P,U1,J3,di_20*%
-%TO.N,/di_20*%
+G04 #@! TO.P,U1,J3,di_20*
+G04 #@! TO.N,/di_20*
 X116870000Y-98000000D03*
-%TO.P,U1,J4,di_19*%
-%TO.N,/di_19*%
+G04 #@! TO.P,U1,J4,di_19*
+G04 #@! TO.N,/di_19*
 X119410000Y-98000000D03*
-%TO.P,U1,J5*%
-%TO.N,unconnected-(U1-PadJ5)*%
+G04 #@! TO.P,U1,J5*
+G04 #@! TO.N,unconnected-(U1-PadJ5)*
 X121950000Y-98000000D03*
-%TO.P,U1,J6*%
-%TO.N,unconnected-(U1-PadJ6)*%
+G04 #@! TO.P,U1,J6*
+G04 #@! TO.N,unconnected-(U1-PadJ6)*
 X124490000Y-98000000D03*
-%TO.P,U1,J7*%
-%TO.N,unconnected-(U1-PadJ7)*%
+G04 #@! TO.P,U1,J7*
+G04 #@! TO.N,unconnected-(U1-PadJ7)*
 X127030000Y-98000000D03*
-%TO.P,U1,J8*%
-%TO.N,unconnected-(U1-PadJ8)*%
+G04 #@! TO.P,U1,J8*
+G04 #@! TO.N,unconnected-(U1-PadJ8)*
 X129570000Y-98000000D03*
-%TO.P,U1,J9*%
-%TO.N,unconnected-(U1-PadJ9)*%
+G04 #@! TO.P,U1,J9*
+G04 #@! TO.N,unconnected-(U1-PadJ9)*
 X132110000Y-98000000D03*
-%TO.P,U1,J10*%
-%TO.N,unconnected-(U1-PadJ10)*%
+G04 #@! TO.P,U1,J10*
+G04 #@! TO.N,unconnected-(U1-PadJ10)*
 X134650000Y-98000000D03*
-%TO.P,U1,J11*%
-%TO.N,unconnected-(U1-PadJ11)*%
+G04 #@! TO.P,U1,J11*
+G04 #@! TO.N,unconnected-(U1-PadJ11)*
 X137190000Y-98000000D03*
-%TO.P,U1,J12*%
-%TO.N,unconnected-(U1-PadJ12)*%
+G04 #@! TO.P,U1,J12*
+G04 #@! TO.N,unconnected-(U1-PadJ12)*
 X139730000Y-98000000D03*
-%TO.P,U1,J13*%
-%TO.N,unconnected-(U1-PadJ13)*%
+G04 #@! TO.P,U1,J13*
+G04 #@! TO.N,unconnected-(U1-PadJ13)*
 X142270000Y-98000000D03*
-%TO.P,U1,J14*%
-%TO.N,unconnected-(U1-PadJ14)*%
+G04 #@! TO.P,U1,J14*
+G04 #@! TO.N,unconnected-(U1-PadJ14)*
 X144810000Y-98000000D03*
-%TO.P,U1,J15*%
-%TO.N,unconnected-(U1-PadJ15)*%
+G04 #@! TO.P,U1,J15*
+G04 #@! TO.N,unconnected-(U1-PadJ15)*
 X147350000Y-98000000D03*
-%TO.P,U1,J16*%
-%TO.N,unconnected-(U1-PadJ16)*%
+G04 #@! TO.P,U1,J16*
+G04 #@! TO.N,unconnected-(U1-PadJ16)*
 X149890000Y-98000000D03*
-%TO.P,U1,J17,bleed_en*%
-%TO.N,/bleed_en*%
+G04 #@! TO.P,U1,J17,bleed_en*
+G04 #@! TO.N,/bleed_en*
 X152430000Y-98000000D03*
-%TO.P,U1,J18,wl_en*%
-%TO.N,/wl_en*%
+G04 #@! TO.P,U1,J18,wl_en*
+G04 #@! TO.N,/wl_en*
 X154970000Y-98000000D03*
-%TO.P,U1,J19,sa_do_0*%
-%TO.N,/sa_do_0*%
+G04 #@! TO.P,U1,J19,sa_do_0*
+G04 #@! TO.N,/sa_do_0*
 X157510000Y-98000000D03*
-%TO.P,U1,J20,sa_do_4*%
-%TO.N,/sa_do_4*%
+G04 #@! TO.P,U1,J20,sa_do_4*
+G04 #@! TO.N,/sa_do_4*
 X160050000Y-98000000D03*
-%TO.P,U1,J21*%
-%TO.N,unconnected-(U1-PadJ21)*%
+G04 #@! TO.P,U1,J21*
+G04 #@! TO.N,unconnected-(U1-PadJ21)*
 X162590000Y-98000000D03*
-%TO.P,U1,K1,vsa*%
-%TO.N,/vsa*%
+G04 #@! TO.P,U1,K1,vsa*
+G04 #@! TO.N,/vsa*
 X111790000Y-95460000D03*
-%TO.P,U1,K2,di_12*%
-%TO.N,/di_12*%
+G04 #@! TO.P,U1,K2,di_12*
+G04 #@! TO.N,/di_12*
 X114330000Y-95460000D03*
-%TO.P,U1,K3,di_15*%
-%TO.N,/di_15*%
+G04 #@! TO.P,U1,K3,di_15*
+G04 #@! TO.N,/di_15*
 X116870000Y-95460000D03*
-%TO.P,U1,K4,di_13*%
-%TO.N,/di_13*%
+G04 #@! TO.P,U1,K4,di_13*
+G04 #@! TO.N,/di_13*
 X119410000Y-95460000D03*
-%TO.P,U1,K5*%
-%TO.N,unconnected-(U1-PadK5)*%
+G04 #@! TO.P,U1,K5*
+G04 #@! TO.N,unconnected-(U1-PadK5)*
 X121950000Y-95460000D03*
-%TO.P,U1,K6*%
-%TO.N,unconnected-(U1-PadK6)*%
+G04 #@! TO.P,U1,K6*
+G04 #@! TO.N,unconnected-(U1-PadK6)*
 X124490000Y-95460000D03*
-%TO.P,U1,K7*%
-%TO.N,unconnected-(U1-PadK7)*%
+G04 #@! TO.P,U1,K7*
+G04 #@! TO.N,unconnected-(U1-PadK7)*
 X127030000Y-95460000D03*
-%TO.P,U1,K8*%
-%TO.N,unconnected-(U1-PadK8)*%
+G04 #@! TO.P,U1,K8*
+G04 #@! TO.N,unconnected-(U1-PadK8)*
 X129570000Y-95460000D03*
-%TO.P,U1,K9*%
-%TO.N,unconnected-(U1-PadK9)*%
+G04 #@! TO.P,U1,K9*
+G04 #@! TO.N,unconnected-(U1-PadK9)*
 X132110000Y-95460000D03*
-%TO.P,U1,K10*%
-%TO.N,unconnected-(U1-PadK10)*%
+G04 #@! TO.P,U1,K10*
+G04 #@! TO.N,unconnected-(U1-PadK10)*
 X134650000Y-95460000D03*
-%TO.P,U1,K11*%
-%TO.N,unconnected-(U1-PadK11)*%
+G04 #@! TO.P,U1,K11*
+G04 #@! TO.N,unconnected-(U1-PadK11)*
 X137190000Y-95460000D03*
-%TO.P,U1,K12*%
-%TO.N,unconnected-(U1-PadK12)*%
+G04 #@! TO.P,U1,K12*
+G04 #@! TO.N,unconnected-(U1-PadK12)*
 X139730000Y-95460000D03*
-%TO.P,U1,K13*%
-%TO.N,unconnected-(U1-PadK13)*%
+G04 #@! TO.P,U1,K13*
+G04 #@! TO.N,unconnected-(U1-PadK13)*
 X142270000Y-95460000D03*
-%TO.P,U1,K14*%
-%TO.N,unconnected-(U1-PadK14)*%
+G04 #@! TO.P,U1,K14*
+G04 #@! TO.N,unconnected-(U1-PadK14)*
 X144810000Y-95460000D03*
-%TO.P,U1,K15*%
-%TO.N,unconnected-(U1-PadK15)*%
+G04 #@! TO.P,U1,K15*
+G04 #@! TO.N,unconnected-(U1-PadK15)*
 X147350000Y-95460000D03*
-%TO.P,U1,K16*%
-%TO.N,unconnected-(U1-PadK16)*%
+G04 #@! TO.P,U1,K16*
+G04 #@! TO.N,unconnected-(U1-PadK16)*
 X149890000Y-95460000D03*
-%TO.P,U1,K17,sa_do_3*%
-%TO.N,/sa_do_3*%
+G04 #@! TO.P,U1,K17,sa_do_3*
+G04 #@! TO.N,/sa_do_3*
 X152430000Y-95460000D03*
-%TO.P,U1,K18,sa_do_1*%
-%TO.N,/sa_do_1*%
+G04 #@! TO.P,U1,K18,sa_do_1*
+G04 #@! TO.N,/sa_do_1*
 X154970000Y-95460000D03*
-%TO.P,U1,K19,sa_do_5*%
-%TO.N,/sa_do_5*%
+G04 #@! TO.P,U1,K19,sa_do_5*
+G04 #@! TO.N,/sa_do_5*
 X157510000Y-95460000D03*
-%TO.P,U1,K20,vsa*%
-%TO.N,/vsa*%
+G04 #@! TO.P,U1,K20,vsa*
+G04 #@! TO.N,/vsa*
 X160050000Y-95460000D03*
-%TO.P,U1,K21*%
-%TO.N,unconnected-(U1-PadK21)*%
+G04 #@! TO.P,U1,K21*
+G04 #@! TO.N,unconnected-(U1-PadK21)*
 X162590000Y-95460000D03*
-%TO.P,U1,L1,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,L1,vdd*
+G04 #@! TO.N,/vdd*
 X111790000Y-92920000D03*
-%TO.P,U1,L2,di_11*%
-%TO.N,/di_11*%
+G04 #@! TO.P,U1,L2,di_11*
+G04 #@! TO.N,/di_11*
 X114330000Y-92920000D03*
-%TO.P,U1,L3,di_9*%
-%TO.N,/di_9*%
+G04 #@! TO.P,U1,L3,di_9*
+G04 #@! TO.N,/di_9*
 X116870000Y-92920000D03*
-%TO.P,U1,L4,di_10*%
-%TO.N,/di_10*%
+G04 #@! TO.P,U1,L4,di_10*
+G04 #@! TO.N,/di_10*
 X119410000Y-92920000D03*
-%TO.P,U1,L5*%
-%TO.N,unconnected-(U1-PadL5)*%
+G04 #@! TO.P,U1,L5*
+G04 #@! TO.N,unconnected-(U1-PadL5)*
 X121950000Y-92920000D03*
-%TO.P,U1,L6*%
-%TO.N,unconnected-(U1-PadL6)*%
+G04 #@! TO.P,U1,L6*
+G04 #@! TO.N,unconnected-(U1-PadL6)*
 X124490000Y-92920000D03*
-%TO.P,U1,L7*%
-%TO.N,unconnected-(U1-PadL7)*%
+G04 #@! TO.P,U1,L7*
+G04 #@! TO.N,unconnected-(U1-PadL7)*
 X127030000Y-92920000D03*
-%TO.P,U1,L8*%
-%TO.N,unconnected-(U1-PadL8)*%
+G04 #@! TO.P,U1,L8*
+G04 #@! TO.N,unconnected-(U1-PadL8)*
 X129570000Y-92920000D03*
-%TO.P,U1,L9*%
-%TO.N,unconnected-(U1-PadL9)*%
+G04 #@! TO.P,U1,L9*
+G04 #@! TO.N,unconnected-(U1-PadL9)*
 X132110000Y-92920000D03*
-%TO.P,U1,L10*%
-%TO.N,unconnected-(U1-PadL10)*%
+G04 #@! TO.P,U1,L10*
+G04 #@! TO.N,unconnected-(U1-PadL10)*
 X134650000Y-92920000D03*
-%TO.P,U1,L11*%
-%TO.N,unconnected-(U1-PadL11)*%
+G04 #@! TO.P,U1,L11*
+G04 #@! TO.N,unconnected-(U1-PadL11)*
 X137190000Y-92920000D03*
-%TO.P,U1,L12*%
-%TO.N,unconnected-(U1-PadL12)*%
+G04 #@! TO.P,U1,L12*
+G04 #@! TO.N,unconnected-(U1-PadL12)*
 X139730000Y-92920000D03*
-%TO.P,U1,L13*%
-%TO.N,unconnected-(U1-PadL13)*%
+G04 #@! TO.P,U1,L13*
+G04 #@! TO.N,unconnected-(U1-PadL13)*
 X142270000Y-92920000D03*
-%TO.P,U1,L14*%
-%TO.N,unconnected-(U1-PadL14)*%
+G04 #@! TO.P,U1,L14*
+G04 #@! TO.N,unconnected-(U1-PadL14)*
 X144810000Y-92920000D03*
-%TO.P,U1,L15*%
-%TO.N,unconnected-(U1-PadL15)*%
+G04 #@! TO.P,U1,L15*
+G04 #@! TO.N,unconnected-(U1-PadL15)*
 X147350000Y-92920000D03*
-%TO.P,U1,L16*%
-%TO.N,unconnected-(U1-PadL16)*%
+G04 #@! TO.P,U1,L16*
+G04 #@! TO.N,unconnected-(U1-PadL16)*
 X149890000Y-92920000D03*
-%TO.P,U1,L17,sa_do_7*%
-%TO.N,/sa_do_7*%
+G04 #@! TO.P,U1,L17,sa_do_7*
+G04 #@! TO.N,/sa_do_7*
 X152430000Y-92920000D03*
-%TO.P,U1,L18,sa_do_8*%
-%TO.N,/sa_do_8*%
+G04 #@! TO.P,U1,L18,sa_do_8*
+G04 #@! TO.N,/sa_do_8*
 X154970000Y-92920000D03*
-%TO.P,U1,L19,sa_do_6*%
-%TO.N,/sa_do_6*%
+G04 #@! TO.P,U1,L19,sa_do_6*
+G04 #@! TO.N,/sa_do_6*
 X157510000Y-92920000D03*
-%TO.P,U1,L20,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,L20,vdd*
+G04 #@! TO.N,/vdd*
 X160050000Y-92920000D03*
-%TO.P,U1,L21*%
-%TO.N,unconnected-(U1-PadL21)*%
+G04 #@! TO.P,U1,L21*
+G04 #@! TO.N,unconnected-(U1-PadL21)*
 X162590000Y-92920000D03*
-%TO.P,U1,M1,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,M1,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X111790000Y-90380000D03*
-%TO.P,U1,M2,di_7*%
-%TO.N,/di_7*%
+G04 #@! TO.P,U1,M2,di_7*
+G04 #@! TO.N,/di_7*
 X114330000Y-90380000D03*
-%TO.P,U1,M3,di_5*%
-%TO.N,/di_5*%
+G04 #@! TO.P,U1,M3,di_5*
+G04 #@! TO.N,/di_5*
 X116870000Y-90380000D03*
-%TO.P,U1,M4,di_6*%
-%TO.N,/di_6*%
+G04 #@! TO.P,U1,M4,di_6*
+G04 #@! TO.N,/di_6*
 X119410000Y-90380000D03*
-%TO.P,U1,M5*%
-%TO.N,unconnected-(U1-PadM5)*%
+G04 #@! TO.P,U1,M5*
+G04 #@! TO.N,unconnected-(U1-PadM5)*
 X121950000Y-90380000D03*
-%TO.P,U1,M6*%
-%TO.N,unconnected-(U1-PadM6)*%
+G04 #@! TO.P,U1,M6*
+G04 #@! TO.N,unconnected-(U1-PadM6)*
 X124490000Y-90380000D03*
-%TO.P,U1,M7*%
-%TO.N,unconnected-(U1-PadM7)*%
+G04 #@! TO.P,U1,M7*
+G04 #@! TO.N,unconnected-(U1-PadM7)*
 X127030000Y-90380000D03*
-%TO.P,U1,M8*%
-%TO.N,unconnected-(U1-PadM8)*%
+G04 #@! TO.P,U1,M8*
+G04 #@! TO.N,unconnected-(U1-PadM8)*
 X129570000Y-90380000D03*
-%TO.P,U1,M9*%
-%TO.N,unconnected-(U1-PadM9)*%
+G04 #@! TO.P,U1,M9*
+G04 #@! TO.N,unconnected-(U1-PadM9)*
 X132110000Y-90380000D03*
-%TO.P,U1,M10*%
-%TO.N,unconnected-(U1-PadM10)*%
+G04 #@! TO.P,U1,M10*
+G04 #@! TO.N,unconnected-(U1-PadM10)*
 X134650000Y-90380000D03*
-%TO.P,U1,M11*%
-%TO.N,unconnected-(U1-PadM11)*%
+G04 #@! TO.P,U1,M11*
+G04 #@! TO.N,unconnected-(U1-PadM11)*
 X137190000Y-90380000D03*
-%TO.P,U1,M12*%
-%TO.N,unconnected-(U1-PadM12)*%
+G04 #@! TO.P,U1,M12*
+G04 #@! TO.N,unconnected-(U1-PadM12)*
 X139730000Y-90380000D03*
-%TO.P,U1,M13*%
-%TO.N,unconnected-(U1-PadM13)*%
+G04 #@! TO.P,U1,M13*
+G04 #@! TO.N,unconnected-(U1-PadM13)*
 X142270000Y-90380000D03*
-%TO.P,U1,M14*%
-%TO.N,unconnected-(U1-PadM14)*%
+G04 #@! TO.P,U1,M14*
+G04 #@! TO.N,unconnected-(U1-PadM14)*
 X144810000Y-90380000D03*
-%TO.P,U1,M15*%
-%TO.N,unconnected-(U1-PadM15)*%
+G04 #@! TO.P,U1,M15*
+G04 #@! TO.N,unconnected-(U1-PadM15)*
 X147350000Y-90380000D03*
-%TO.P,U1,M16*%
-%TO.N,unconnected-(U1-PadM16)*%
+G04 #@! TO.P,U1,M16*
+G04 #@! TO.N,unconnected-(U1-PadM16)*
 X149890000Y-90380000D03*
-%TO.P,U1,M17,sa_do_11*%
-%TO.N,/sa_do_11*%
+G04 #@! TO.P,U1,M17,sa_do_11*
+G04 #@! TO.N,/sa_do_11*
 X152430000Y-90380000D03*
-%TO.P,U1,M18,sa_do_12*%
-%TO.N,/sa_do_12*%
+G04 #@! TO.P,U1,M18,sa_do_12*
+G04 #@! TO.N,/sa_do_12*
 X154970000Y-90380000D03*
-%TO.P,U1,M19,sa_do_9*%
-%TO.N,/sa_do_9*%
+G04 #@! TO.P,U1,M19,sa_do_9*
+G04 #@! TO.N,/sa_do_9*
 X157510000Y-90380000D03*
-%TO.P,U1,M20,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,M20,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X160050000Y-90380000D03*
-%TO.P,U1,M21*%
-%TO.N,unconnected-(U1-PadM21)*%
+G04 #@! TO.P,U1,M21*
+G04 #@! TO.N,unconnected-(U1-PadM21)*
 X162590000Y-90380000D03*
-%TO.P,U1,N1,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,N1,vddio*
+G04 #@! TO.N,/vddio*
 X111790000Y-87840000D03*
-%TO.P,U1,N2,di_8*%
-%TO.N,/di_8*%
+G04 #@! TO.P,U1,N2,di_8*
+G04 #@! TO.N,/di_8*
 X114330000Y-87840000D03*
-%TO.P,U1,N3,di_4*%
-%TO.N,/di_4*%
+G04 #@! TO.P,U1,N3,di_4*
+G04 #@! TO.N,/di_4*
 X116870000Y-87840000D03*
-%TO.P,U1,N4,di_2*%
-%TO.N,/di_2*%
+G04 #@! TO.P,U1,N4,di_2*
+G04 #@! TO.N,/di_2*
 X119410000Y-87840000D03*
-%TO.P,U1,N5*%
-%TO.N,unconnected-(U1-PadN5)*%
+G04 #@! TO.P,U1,N5*
+G04 #@! TO.N,unconnected-(U1-PadN5)*
 X121950000Y-87840000D03*
-%TO.P,U1,N6*%
-%TO.N,unconnected-(U1-PadN6)*%
+G04 #@! TO.P,U1,N6*
+G04 #@! TO.N,unconnected-(U1-PadN6)*
 X124490000Y-87840000D03*
-%TO.P,U1,N7*%
-%TO.N,unconnected-(U1-PadN7)*%
+G04 #@! TO.P,U1,N7*
+G04 #@! TO.N,unconnected-(U1-PadN7)*
 X127030000Y-87840000D03*
-%TO.P,U1,N8*%
-%TO.N,unconnected-(U1-PadN8)*%
+G04 #@! TO.P,U1,N8*
+G04 #@! TO.N,unconnected-(U1-PadN8)*
 X129570000Y-87840000D03*
-%TO.P,U1,N9*%
-%TO.N,unconnected-(U1-PadN9)*%
+G04 #@! TO.P,U1,N9*
+G04 #@! TO.N,unconnected-(U1-PadN9)*
 X132110000Y-87840000D03*
-%TO.P,U1,N10*%
-%TO.N,unconnected-(U1-PadN10)*%
+G04 #@! TO.P,U1,N10*
+G04 #@! TO.N,unconnected-(U1-PadN10)*
 X134650000Y-87840000D03*
-%TO.P,U1,N11*%
-%TO.N,unconnected-(U1-PadN11)*%
+G04 #@! TO.P,U1,N11*
+G04 #@! TO.N,unconnected-(U1-PadN11)*
 X137190000Y-87840000D03*
-%TO.P,U1,N12*%
-%TO.N,unconnected-(U1-PadN12)*%
+G04 #@! TO.P,U1,N12*
+G04 #@! TO.N,unconnected-(U1-PadN12)*
 X139730000Y-87840000D03*
-%TO.P,U1,N13*%
-%TO.N,unconnected-(U1-PadN13)*%
+G04 #@! TO.P,U1,N13*
+G04 #@! TO.N,unconnected-(U1-PadN13)*
 X142270000Y-87840000D03*
-%TO.P,U1,N14*%
-%TO.N,unconnected-(U1-PadN14)*%
+G04 #@! TO.P,U1,N14*
+G04 #@! TO.N,unconnected-(U1-PadN14)*
 X144810000Y-87840000D03*
-%TO.P,U1,N15*%
-%TO.N,unconnected-(U1-PadN15)*%
+G04 #@! TO.P,U1,N15*
+G04 #@! TO.N,unconnected-(U1-PadN15)*
 X147350000Y-87840000D03*
-%TO.P,U1,N16*%
-%TO.N,unconnected-(U1-PadN16)*%
+G04 #@! TO.P,U1,N16*
+G04 #@! TO.N,unconnected-(U1-PadN16)*
 X149890000Y-87840000D03*
-%TO.P,U1,N17,sa_do_14*%
-%TO.N,/sa_do_14*%
+G04 #@! TO.P,U1,N17,sa_do_14*
+G04 #@! TO.N,/sa_do_14*
 X152430000Y-87840000D03*
-%TO.P,U1,N18,sa_do_13*%
-%TO.N,/sa_do_13*%
+G04 #@! TO.P,U1,N18,sa_do_13*
+G04 #@! TO.N,/sa_do_13*
 X154970000Y-87840000D03*
-%TO.P,U1,N19,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,N19,vss*
+G04 #@! TO.N,GND*
 X157510000Y-87840000D03*
-%TO.P,U1,N20,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,N20,vddio*
+G04 #@! TO.N,/vddio*
 X160050000Y-87840000D03*
-%TO.P,U1,N21*%
-%TO.N,unconnected-(U1-PadN21)*%
+G04 #@! TO.P,U1,N21*
+G04 #@! TO.N,unconnected-(U1-PadN21)*
 X162590000Y-87840000D03*
-%TO.P,U1,P1,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,P1,vss*
+G04 #@! TO.N,GND*
 X111790000Y-85300000D03*
-%TO.P,U1,P2,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,P2,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X114330000Y-85300000D03*
-%TO.P,U1,P3,di_0*%
-%TO.N,/di_0*%
+G04 #@! TO.P,U1,P3,di_0*
+G04 #@! TO.N,/di_0*
 X116870000Y-85300000D03*
-%TO.P,U1,P4,clamp_ref_5*%
-%TO.N,/clamp_ref_5*%
+G04 #@! TO.P,U1,P4,clamp_ref_5*
+G04 #@! TO.N,/clamp_ref_5*
 X119410000Y-85300000D03*
-%TO.P,U1,P5*%
-%TO.N,unconnected-(U1-PadP5)*%
+G04 #@! TO.P,U1,P5*
+G04 #@! TO.N,unconnected-(U1-PadP5)*
 X121950000Y-85300000D03*
-%TO.P,U1,P6*%
-%TO.N,unconnected-(U1-PadP6)*%
+G04 #@! TO.P,U1,P6*
+G04 #@! TO.N,unconnected-(U1-PadP6)*
 X124490000Y-85300000D03*
-%TO.P,U1,P7*%
-%TO.N,unconnected-(U1-PadP7)*%
+G04 #@! TO.P,U1,P7*
+G04 #@! TO.N,unconnected-(U1-PadP7)*
 X127030000Y-85300000D03*
-%TO.P,U1,P8*%
-%TO.N,unconnected-(U1-PadP8)*%
+G04 #@! TO.P,U1,P8*
+G04 #@! TO.N,unconnected-(U1-PadP8)*
 X129570000Y-85300000D03*
-%TO.P,U1,P9*%
-%TO.N,unconnected-(U1-PadP9)*%
+G04 #@! TO.P,U1,P9*
+G04 #@! TO.N,unconnected-(U1-PadP9)*
 X132110000Y-85300000D03*
-%TO.P,U1,P10*%
-%TO.N,unconnected-(U1-PadP10)*%
+G04 #@! TO.P,U1,P10*
+G04 #@! TO.N,unconnected-(U1-PadP10)*
 X134650000Y-85300000D03*
-%TO.P,U1,P11*%
-%TO.N,unconnected-(U1-PadP11)*%
+G04 #@! TO.P,U1,P11*
+G04 #@! TO.N,unconnected-(U1-PadP11)*
 X137190000Y-85300000D03*
-%TO.P,U1,P12*%
-%TO.N,unconnected-(U1-PadP12)*%
+G04 #@! TO.P,U1,P12*
+G04 #@! TO.N,unconnected-(U1-PadP12)*
 X139730000Y-85300000D03*
-%TO.P,U1,P13*%
-%TO.N,unconnected-(U1-PadP13)*%
+G04 #@! TO.P,U1,P13*
+G04 #@! TO.N,unconnected-(U1-PadP13)*
 X142270000Y-85300000D03*
-%TO.P,U1,P14*%
-%TO.N,unconnected-(U1-PadP14)*%
+G04 #@! TO.P,U1,P14*
+G04 #@! TO.N,unconnected-(U1-PadP14)*
 X144810000Y-85300000D03*
-%TO.P,U1,P15*%
-%TO.N,unconnected-(U1-PadP15)*%
+G04 #@! TO.P,U1,P15*
+G04 #@! TO.N,unconnected-(U1-PadP15)*
 X147350000Y-85300000D03*
-%TO.P,U1,P16*%
-%TO.N,unconnected-(U1-PadP16)*%
+G04 #@! TO.P,U1,P16*
+G04 #@! TO.N,unconnected-(U1-PadP16)*
 X149890000Y-85300000D03*
-%TO.P,U1,P17,sa_do_18*%
-%TO.N,/sa_do_18*%
+G04 #@! TO.P,U1,P17,sa_do_18*
+G04 #@! TO.N,/sa_do_18*
 X152430000Y-85300000D03*
-%TO.P,U1,P18,sa_do_16*%
-%TO.N,/sa_do_16*%
+G04 #@! TO.P,U1,P18,sa_do_16*
+G04 #@! TO.N,/sa_do_16*
 X154970000Y-85300000D03*
-%TO.P,U1,P19,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,P19,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X157510000Y-85300000D03*
-%TO.P,U1,P20,sa_do_10*%
-%TO.N,/sa_do_10*%
+G04 #@! TO.P,U1,P20,sa_do_10*
+G04 #@! TO.N,/sa_do_10*
 X160050000Y-85300000D03*
-%TO.P,U1,P21*%
-%TO.N,unconnected-(U1-PadP21)*%
+G04 #@! TO.P,U1,P21*
+G04 #@! TO.N,unconnected-(U1-PadP21)*
 X162590000Y-85300000D03*
-%TO.P,U1,R1,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,R1,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X111790000Y-82760000D03*
-%TO.P,U1,R2,di_3*%
-%TO.N,/di_3*%
+G04 #@! TO.P,U1,R2,di_3*
+G04 #@! TO.N,/di_3*
 X114330000Y-82760000D03*
-%TO.P,U1,R3,rst_n*%
-%TO.N,/rst_n*%
+G04 #@! TO.P,U1,R3,rst_n*
+G04 #@! TO.N,/rst_n*
 X116870000Y-82760000D03*
-%TO.P,U1,R4,clamp_ref_3*%
-%TO.N,/clamp_ref_3*%
+G04 #@! TO.P,U1,R4,clamp_ref_3*
+G04 #@! TO.N,/clamp_ref_3*
 X119410000Y-82760000D03*
-%TO.P,U1,R5*%
-%TO.N,unconnected-(U1-PadR5)*%
+G04 #@! TO.P,U1,R5*
+G04 #@! TO.N,unconnected-(U1-PadR5)*
 X121950000Y-82760000D03*
-%TO.P,U1,R6*%
-%TO.N,unconnected-(U1-PadR6)*%
+G04 #@! TO.P,U1,R6*
+G04 #@! TO.N,unconnected-(U1-PadR6)*
 X124490000Y-82760000D03*
-%TO.P,U1,R7*%
-%TO.N,unconnected-(U1-PadR7)*%
+G04 #@! TO.P,U1,R7*
+G04 #@! TO.N,unconnected-(U1-PadR7)*
 X127030000Y-82760000D03*
-%TO.P,U1,R8*%
-%TO.N,unconnected-(U1-PadR8)*%
+G04 #@! TO.P,U1,R8*
+G04 #@! TO.N,unconnected-(U1-PadR8)*
 X129570000Y-82760000D03*
-%TO.P,U1,R9*%
-%TO.N,unconnected-(U1-PadR9)*%
+G04 #@! TO.P,U1,R9*
+G04 #@! TO.N,unconnected-(U1-PadR9)*
 X132110000Y-82760000D03*
-%TO.P,U1,R10*%
-%TO.N,unconnected-(U1-PadR10)*%
+G04 #@! TO.P,U1,R10*
+G04 #@! TO.N,unconnected-(U1-PadR10)*
 X134650000Y-82760000D03*
-%TO.P,U1,R11*%
-%TO.N,unconnected-(U1-PadR11)*%
+G04 #@! TO.P,U1,R11*
+G04 #@! TO.N,unconnected-(U1-PadR11)*
 X137190000Y-82760000D03*
-%TO.P,U1,R12*%
-%TO.N,unconnected-(U1-PadR12)*%
+G04 #@! TO.P,U1,R12*
+G04 #@! TO.N,unconnected-(U1-PadR12)*
 X139730000Y-82760000D03*
-%TO.P,U1,R13*%
-%TO.N,unconnected-(U1-PadR13)*%
+G04 #@! TO.P,U1,R13*
+G04 #@! TO.N,unconnected-(U1-PadR13)*
 X142270000Y-82760000D03*
-%TO.P,U1,R14*%
-%TO.N,unconnected-(U1-PadR14)*%
+G04 #@! TO.P,U1,R14*
+G04 #@! TO.N,unconnected-(U1-PadR14)*
 X144810000Y-82760000D03*
-%TO.P,U1,R15*%
-%TO.N,unconnected-(U1-PadR15)*%
+G04 #@! TO.P,U1,R15*
+G04 #@! TO.N,unconnected-(U1-PadR15)*
 X147350000Y-82760000D03*
-%TO.P,U1,R16*%
-%TO.N,unconnected-(U1-PadR16)*%
+G04 #@! TO.P,U1,R16*
+G04 #@! TO.N,unconnected-(U1-PadR16)*
 X149890000Y-82760000D03*
-%TO.P,U1,R17,sa_do_21*%
-%TO.N,/sa_do_21*%
+G04 #@! TO.P,U1,R17,sa_do_21*
+G04 #@! TO.N,/sa_do_21*
 X152430000Y-82760000D03*
-%TO.P,U1,R18,sa_do_20*%
-%TO.N,/sa_do_20*%
+G04 #@! TO.P,U1,R18,sa_do_20*
+G04 #@! TO.N,/sa_do_20*
 X154970000Y-82760000D03*
-%TO.P,U1,R19,sa_do_17*%
-%TO.N,/sa_do_17*%
+G04 #@! TO.P,U1,R19,sa_do_17*
+G04 #@! TO.N,/sa_do_17*
 X157510000Y-82760000D03*
-%TO.P,U1,R20,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,R20,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X160050000Y-82760000D03*
-%TO.P,U1,R21*%
-%TO.N,unconnected-(U1-PadR21)*%
+G04 #@! TO.P,U1,R21*
+G04 #@! TO.N,unconnected-(U1-PadR21)*
 X162590000Y-82760000D03*
-%TO.P,U1,S1,di_1*%
-%TO.N,/di_1*%
+G04 #@! TO.P,U1,S1,di_1*
+G04 #@! TO.N,/di_1*
 X111790000Y-80220000D03*
-%TO.P,U1,S2,bl_en*%
-%TO.N,/bl_en*%
+G04 #@! TO.P,U1,S2,bl_en*
+G04 #@! TO.N,/bl_en*
 X114330000Y-80220000D03*
-%TO.P,U1,S3,clamp_ref_4*%
-%TO.N,/clamp_ref_4*%
+G04 #@! TO.P,U1,S3,clamp_ref_4*
+G04 #@! TO.N,/clamp_ref_4*
 X116870000Y-80220000D03*
-%TO.P,U1,S4,clamp_ref_1*%
-%TO.N,/clamp_ref_1*%
+G04 #@! TO.P,U1,S4,clamp_ref_1*
+G04 #@! TO.N,/clamp_ref_1*
 X119410000Y-80220000D03*
-%TO.P,U1,S5*%
-%TO.N,unconnected-(U1-PadS5)*%
+G04 #@! TO.P,U1,S5*
+G04 #@! TO.N,unconnected-(U1-PadS5)*
 X121950000Y-80220000D03*
-%TO.P,U1,S6*%
-%TO.N,unconnected-(U1-PadS6)*%
+G04 #@! TO.P,U1,S6*
+G04 #@! TO.N,unconnected-(U1-PadS6)*
 X124490000Y-80220000D03*
-%TO.P,U1,S7*%
-%TO.N,unconnected-(U1-PadS7)*%
+G04 #@! TO.P,U1,S7*
+G04 #@! TO.N,unconnected-(U1-PadS7)*
 X127030000Y-80220000D03*
-%TO.P,U1,S8*%
-%TO.N,unconnected-(U1-PadS8)*%
+G04 #@! TO.P,U1,S8*
+G04 #@! TO.N,unconnected-(U1-PadS8)*
 X129570000Y-80220000D03*
-%TO.P,U1,S9*%
-%TO.N,unconnected-(U1-PadS9)*%
+G04 #@! TO.P,U1,S9*
+G04 #@! TO.N,unconnected-(U1-PadS9)*
 X132110000Y-80220000D03*
-%TO.P,U1,S10*%
-%TO.N,unconnected-(U1-PadS10)*%
+G04 #@! TO.P,U1,S10*
+G04 #@! TO.N,unconnected-(U1-PadS10)*
 X134650000Y-80220000D03*
-%TO.P,U1,S11*%
-%TO.N,unconnected-(U1-PadS11)*%
+G04 #@! TO.P,U1,S11*
+G04 #@! TO.N,unconnected-(U1-PadS11)*
 X137190000Y-80220000D03*
-%TO.P,U1,S12*%
-%TO.N,unconnected-(U1-PadS12)*%
+G04 #@! TO.P,U1,S12*
+G04 #@! TO.N,unconnected-(U1-PadS12)*
 X139730000Y-80220000D03*
-%TO.P,U1,S13*%
-%TO.N,unconnected-(U1-PadS13)*%
+G04 #@! TO.P,U1,S13*
+G04 #@! TO.N,unconnected-(U1-PadS13)*
 X142270000Y-80220000D03*
-%TO.P,U1,S14*%
-%TO.N,unconnected-(U1-PadS14)*%
+G04 #@! TO.P,U1,S14*
+G04 #@! TO.N,unconnected-(U1-PadS14)*
 X144810000Y-80220000D03*
-%TO.P,U1,S15*%
-%TO.N,unconnected-(U1-PadS15)*%
+G04 #@! TO.P,U1,S15*
+G04 #@! TO.N,unconnected-(U1-PadS15)*
 X147350000Y-80220000D03*
-%TO.P,U1,S16*%
-%TO.N,unconnected-(U1-PadS16)*%
+G04 #@! TO.P,U1,S16*
+G04 #@! TO.N,unconnected-(U1-PadS16)*
 X149890000Y-80220000D03*
-%TO.P,U1,S17,sa_do_23*%
-%TO.N,/sa_do_23*%
+G04 #@! TO.P,U1,S17,sa_do_23*
+G04 #@! TO.N,/sa_do_23*
 X152430000Y-80220000D03*
-%TO.P,U1,S18,sa_do_22*%
-%TO.N,/sa_do_22*%
+G04 #@! TO.P,U1,S18,sa_do_22*
+G04 #@! TO.N,/sa_do_22*
 X154970000Y-80220000D03*
-%TO.P,U1,S19,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,S19,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X157510000Y-80220000D03*
-%TO.P,U1,S20,sa_do_15*%
-%TO.N,/sa_do_15*%
+G04 #@! TO.P,U1,S20,sa_do_15*
+G04 #@! TO.N,/sa_do_15*
 X160050000Y-80220000D03*
-%TO.P,U1,S21*%
-%TO.N,unconnected-(U1-PadS21)*%
+G04 #@! TO.P,U1,S21*
+G04 #@! TO.N,unconnected-(U1-PadS21)*
 X162590000Y-80220000D03*
-%TO.P,U1,T1,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,T1,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X111790000Y-77680000D03*
-%TO.P,U1,T2,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,T2,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X114330000Y-77680000D03*
-%TO.P,U1,T3,clamp_ref_2*%
-%TO.N,/clamp_ref_2*%
+G04 #@! TO.P,U1,T3,clamp_ref_2*
+G04 #@! TO.N,/clamp_ref_2*
 X116870000Y-77680000D03*
-%TO.P,U1,T4,bsl_dac_en*%
-%TO.N,/bsl_dac_en*%
+G04 #@! TO.P,U1,T4,bsl_dac_en*
+G04 #@! TO.N,/bsl_dac_en*
 X119410000Y-77680000D03*
-%TO.P,U1,T5,bsl_dac_config_4*%
-%TO.N,/bsl_dac_config_4*%
+G04 #@! TO.P,U1,T5,bsl_dac_config_4*
+G04 #@! TO.N,/bsl_dac_config_4*
 X121950000Y-77680000D03*
-%TO.P,U1,T6,bsl_dac_config_2*%
-%TO.N,/bsl_dac_config_2*%
+G04 #@! TO.P,U1,T6,bsl_dac_config_2*
+G04 #@! TO.N,/bsl_dac_config_2*
 X124490000Y-77680000D03*
-%TO.P,U1,T7,bsl_dac_config_0*%
-%TO.N,/bsl_dac_config_0*%
+G04 #@! TO.P,U1,T7,bsl_dac_config_0*
+G04 #@! TO.N,/bsl_dac_config_0*
 X127030000Y-77680000D03*
-%TO.P,U1,T8,mclk_pause*%
-%TO.N,/mclk_pause*%
+G04 #@! TO.P,U1,T8,mclk_pause*
+G04 #@! TO.N,/mclk_pause*
 X129570000Y-77680000D03*
-%TO.P,U1,T9,mosi*%
-%TO.N,/mosi*%
+G04 #@! TO.P,U1,T9,mosi*
+G04 #@! TO.N,/mosi*
 X132110000Y-77680000D03*
-%TO.P,U1,T10,heartbeat*%
-%TO.N,/heartbeat*%
+G04 #@! TO.P,U1,T10,heartbeat*
+G04 #@! TO.N,/heartbeat*
 X134650000Y-77680000D03*
-%TO.P,U1,T11,sa_do_45*%
-%TO.N,/sa_do_45*%
+G04 #@! TO.P,U1,T11,sa_do_45*
+G04 #@! TO.N,/sa_do_45*
 X137190000Y-77680000D03*
-%TO.P,U1,T12,sa_do_39*%
-%TO.N,/sa_do_39*%
+G04 #@! TO.P,U1,T12,sa_do_39*
+G04 #@! TO.N,/sa_do_39*
 X139730000Y-77680000D03*
-%TO.P,U1,T13,sa_do_36*%
-%TO.N,/sa_do_36*%
+G04 #@! TO.P,U1,T13,sa_do_36*
+G04 #@! TO.N,/sa_do_36*
 X142270000Y-77680000D03*
-%TO.P,U1,T14,sa_do_32*%
-%TO.N,/sa_do_32*%
+G04 #@! TO.P,U1,T14,sa_do_32*
+G04 #@! TO.N,/sa_do_32*
 X144810000Y-77680000D03*
-%TO.P,U1,T15,sa_do_29*%
-%TO.N,/sa_do_29*%
+G04 #@! TO.P,U1,T15,sa_do_29*
+G04 #@! TO.N,/sa_do_29*
 X147350000Y-77680000D03*
-%TO.P,U1,T16,sa_do_27*%
-%TO.N,/sa_do_27*%
+G04 #@! TO.P,U1,T16,sa_do_27*
+G04 #@! TO.N,/sa_do_27*
 X149890000Y-77680000D03*
-%TO.P,U1,T17,sa_do_25*%
-%TO.N,/sa_do_25*%
+G04 #@! TO.P,U1,T17,sa_do_25*
+G04 #@! TO.N,/sa_do_25*
 X152430000Y-77680000D03*
-%TO.P,U1,T18,sa_do_24*%
-%TO.N,/sa_do_24*%
+G04 #@! TO.P,U1,T18,sa_do_24*
+G04 #@! TO.N,/sa_do_24*
 X154970000Y-77680000D03*
-%TO.P,U1,T19,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,T19,vdd*
+G04 #@! TO.N,/vdd*
 X157510000Y-77680000D03*
-%TO.P,U1,T20,sa_do_19*%
-%TO.N,/sa_do_19*%
+G04 #@! TO.P,U1,T20,sa_do_19*
+G04 #@! TO.N,/sa_do_19*
 X160050000Y-77680000D03*
-%TO.P,U1,T21*%
-%TO.N,unconnected-(U1-PadT21)*%
+G04 #@! TO.P,U1,T21*
+G04 #@! TO.N,unconnected-(U1-PadT21)*
 X162590000Y-77680000D03*
-%TO.P,U1,U1,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,U1,vdd*
+G04 #@! TO.N,/vdd*
 X111790000Y-75140000D03*
-%TO.P,U1,U2,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,U2,vddio*
+G04 #@! TO.N,/vddio*
 X114330000Y-75140000D03*
-%TO.P,U1,U3,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,U3,vss*
+G04 #@! TO.N,GND*
 X116870000Y-75140000D03*
-%TO.P,U1,U4,read_dac_en*%
-%TO.N,/read_dac_en*%
+G04 #@! TO.P,U1,U4,read_dac_en*
+G04 #@! TO.N,/read_dac_en*
 X119410000Y-75140000D03*
-%TO.P,U1,U5,bsl_dac_config_3*%
-%TO.N,/bsl_dac_config_3*%
+G04 #@! TO.P,U1,U5,bsl_dac_config_3*
+G04 #@! TO.N,/bsl_dac_config_3*
 X121950000Y-75140000D03*
-%TO.P,U1,U6,bsl_dac_config_1*%
-%TO.N,/bsl_dac_config_1*%
+G04 #@! TO.P,U1,U6,bsl_dac_config_1*
+G04 #@! TO.N,/bsl_dac_config_1*
 X124490000Y-75140000D03*
-%TO.P,U1,U7,aclk*%
-%TO.N,/aclk*%
+G04 #@! TO.P,U1,U7,aclk*
+G04 #@! TO.N,/aclk*
 X127030000Y-75140000D03*
-%TO.P,U1,U8,sclk*%
-%TO.N,/sclk*%
+G04 #@! TO.P,U1,U8,sclk*
+G04 #@! TO.N,/sclk*
 X129570000Y-75140000D03*
-%TO.P,U1,U9,sc*%
-%TO.N,/sc*%
+G04 #@! TO.P,U1,U9,sc*
+G04 #@! TO.N,/sc*
 X132110000Y-75140000D03*
-%TO.P,U1,U10,man*%
-%TO.N,/man*%
+G04 #@! TO.P,U1,U10,man*
+G04 #@! TO.N,/man*
 X134650000Y-75140000D03*
-%TO.P,U1,U11,sa_do_43*%
-%TO.N,/sa_do_43*%
+G04 #@! TO.P,U1,U11,sa_do_43*
+G04 #@! TO.N,/sa_do_43*
 X137190000Y-75140000D03*
-%TO.P,U1,U12,sa_do_38*%
-%TO.N,/sa_do_38*%
+G04 #@! TO.P,U1,U12,sa_do_38*
+G04 #@! TO.N,/sa_do_38*
 X139730000Y-75140000D03*
-%TO.P,U1,U13,sa_do_37*%
-%TO.N,/sa_do_37*%
+G04 #@! TO.P,U1,U13,sa_do_37*
+G04 #@! TO.N,/sa_do_37*
 X142270000Y-75140000D03*
-%TO.P,U1,U14,sa_do_34*%
-%TO.N,/sa_do_34*%
+G04 #@! TO.P,U1,U14,sa_do_34*
+G04 #@! TO.N,/sa_do_34*
 X144810000Y-75140000D03*
-%TO.P,U1,U15,sa_do_33*%
-%TO.N,/sa_do_33*%
+G04 #@! TO.P,U1,U15,sa_do_33*
+G04 #@! TO.N,/sa_do_33*
 X147350000Y-75140000D03*
-%TO.P,U1,U16,sa_do_30*%
-%TO.N,/sa_do_30*%
+G04 #@! TO.P,U1,U16,sa_do_30*
+G04 #@! TO.N,/sa_do_30*
 X149890000Y-75140000D03*
-%TO.P,U1,U17,sa_do_28*%
-%TO.N,/sa_do_28*%
+G04 #@! TO.P,U1,U17,sa_do_28*
+G04 #@! TO.N,/sa_do_28*
 X152430000Y-75140000D03*
-%TO.P,U1,U18,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,U18,vss*
+G04 #@! TO.N,GND*
 X154970000Y-75140000D03*
-%TO.P,U1,U19,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,U19,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X157510000Y-75140000D03*
-%TO.P,U1,U20,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,U20,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X160050000Y-75140000D03*
-%TO.P,U1,U21*%
-%TO.N,unconnected-(U1-PadU21)*%
+G04 #@! TO.P,U1,U21*
+G04 #@! TO.N,unconnected-(U1-PadU21)*
 X162590000Y-75140000D03*
-%TO.P,U1,V1,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,V1,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X111790000Y-72600000D03*
-%TO.P,U1,V2,clamp_ref_0*%
-%TO.N,/clamp_ref_0*%
+G04 #@! TO.P,U1,V2,clamp_ref_0*
+G04 #@! TO.N,/clamp_ref_0*
 X114330000Y-72600000D03*
-%TO.P,U1,V3,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,V3,vddio*
+G04 #@! TO.N,/vddio*
 X116870000Y-72600000D03*
-%TO.P,U1,V4,vsa*%
-%TO.N,/vsa*%
+G04 #@! TO.P,U1,V4,vsa*
+G04 #@! TO.N,/vsa*
 X119410000Y-72600000D03*
-%TO.P,U1,V5,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,V5,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X121950000Y-72600000D03*
-%TO.P,U1,V6,sl_source_pin*%
-%TO.N,/sl_source_pin*%
+G04 #@! TO.P,U1,V6,sl_source_pin*
+G04 #@! TO.N,/sl_source_pin*
 X124490000Y-72600000D03*
-%TO.P,U1,V7,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,V7,vss*
+G04 #@! TO.N,GND*
 X127030000Y-72600000D03*
-%TO.P,U1,V8,poc*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,V8,poc*
+G04 #@! TO.N,/vddio_fsm*
 X129570000Y-72600000D03*
-%TO.P,U1,V9,miso*%
-%TO.N,/miso*%
+G04 #@! TO.P,U1,V9,miso*
+G04 #@! TO.N,/miso*
 X132110000Y-72600000D03*
-%TO.P,U1,V10,sa_rdy*%
-%TO.N,/sa_rdy*%
+G04 #@! TO.P,U1,V10,sa_rdy*
+G04 #@! TO.N,/sa_rdy*
 X134650000Y-72600000D03*
-%TO.P,U1,V11,sa_do_47*%
-%TO.N,/sa_do_47*%
+G04 #@! TO.P,U1,V11,sa_do_47*
+G04 #@! TO.N,/sa_do_47*
 X137190000Y-72600000D03*
-%TO.P,U1,V12,sa_do_41*%
-%TO.N,/sa_do_41*%
+G04 #@! TO.P,U1,V12,sa_do_41*
+G04 #@! TO.N,/sa_do_41*
 X139730000Y-72600000D03*
-%TO.P,U1,V13,sa_do_42*%
-%TO.N,/sa_do_42*%
+G04 #@! TO.P,U1,V13,sa_do_42*
+G04 #@! TO.N,/sa_do_42*
 X142270000Y-72600000D03*
-%TO.P,U1,V14,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,V14,vdd*
+G04 #@! TO.N,/vdd*
 X144810000Y-72600000D03*
-%TO.P,U1,V15,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,V15,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X147350000Y-72600000D03*
-%TO.P,U1,V16,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,V16,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X149890000Y-72600000D03*
-%TO.P,U1,V17,sa_do_31*%
-%TO.N,/sa_do_31*%
+G04 #@! TO.P,U1,V17,sa_do_31*
+G04 #@! TO.N,/sa_do_31*
 X152430000Y-72600000D03*
-%TO.P,U1,V18,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,V18,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X154970000Y-72600000D03*
-%TO.P,U1,V19,sa_do_26*%
-%TO.N,/sa_do_26*%
+G04 #@! TO.P,U1,V19,sa_do_26*
+G04 #@! TO.N,/sa_do_26*
 X157510000Y-72600000D03*
-%TO.P,U1,V20,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,V20,vddio*
+G04 #@! TO.N,/vddio*
 X160050000Y-72600000D03*
-%TO.P,U1,V21*%
-%TO.N,unconnected-(U1-PadV21)*%
+G04 #@! TO.P,U1,V21*
+G04 #@! TO.N,unconnected-(U1-PadV21)*
 X162590000Y-72600000D03*
-%TO.P,U1,W1,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,W1,vss*
+G04 #@! TO.N,GND*
 X111790000Y-70060000D03*
-%TO.P,U1,W2,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,W2,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X114330000Y-70060000D03*
-%TO.P,U1,W3,bl_source_pin*%
-%TO.N,/bl_source_pin*%
+G04 #@! TO.P,U1,W3,bl_source_pin*
+G04 #@! TO.N,/bl_source_pin*
 X116870000Y-70060000D03*
-%TO.P,U1,W4,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,W4,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X119410000Y-70060000D03*
-%TO.P,U1,W5,vddio_fsm*%
-%TO.N,/vddio_fsm*%
+G04 #@! TO.P,U1,W5,vddio_fsm*
+G04 #@! TO.N,/vddio_fsm*
 X121950000Y-70060000D03*
-%TO.P,U1,W6,vdd*%
-%TO.N,/vdd*%
+G04 #@! TO.P,U1,W6,vdd*
+G04 #@! TO.N,/vdd*
 X124490000Y-70060000D03*
-%TO.P,U1,W7,sa_clk*%
-%TO.N,/sa_clk*%
+G04 #@! TO.P,U1,W7,sa_clk*
+G04 #@! TO.N,/sa_clk*
 X127030000Y-70060000D03*
-%TO.P,U1,W8,byp*%
-%TO.N,/byp*%
+G04 #@! TO.P,U1,W8,byp*
+G04 #@! TO.N,/byp*
 X129570000Y-70060000D03*
-%TO.P,U1,W9,vdd_dac*%
-%TO.N,/vdd_dac*%
+G04 #@! TO.P,U1,W9,vdd_dac*
+G04 #@! TO.N,/vdd_dac*
 X132110000Y-70060000D03*
-%TO.P,U1,W10,vddio_dac*%
-%TO.N,/vddio_dac*%
+G04 #@! TO.P,U1,W10,vddio_dac*
+G04 #@! TO.N,/vddio_dac*
 X134650000Y-70060000D03*
-%TO.P,U1,W11,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,W11,vddio*
+G04 #@! TO.N,/vddio*
 X137190000Y-70060000D03*
-%TO.P,U1,W12,sa_do_46*%
-%TO.N,/sa_do_46*%
+G04 #@! TO.P,U1,W12,sa_do_46*
+G04 #@! TO.N,/sa_do_46*
 X139730000Y-70060000D03*
-%TO.P,U1,W13,sa_do_44*%
-%TO.N,/sa_do_44*%
+G04 #@! TO.P,U1,W13,sa_do_44*
+G04 #@! TO.N,/sa_do_44*
 X142270000Y-70060000D03*
-%TO.P,U1,W14,sa_do_40*%
-%TO.N,/sa_do_40*%
+G04 #@! TO.P,U1,W14,sa_do_40*
+G04 #@! TO.N,/sa_do_40*
 X144810000Y-70060000D03*
-%TO.P,U1,W15,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,W15,vss*
+G04 #@! TO.N,GND*
 X147350000Y-70060000D03*
-%TO.P,U1,W16,sa_do_35*%
-%TO.N,/sa_do_35*%
+G04 #@! TO.P,U1,W16,sa_do_35*
+G04 #@! TO.N,/sa_do_35*
 X149890000Y-70060000D03*
-%TO.P,U1,W17,vdd_fsm*%
-%TO.N,/vdd_fsm*%
+G04 #@! TO.P,U1,W17,vdd_fsm*
+G04 #@! TO.N,/vdd_fsm*
 X152430000Y-70060000D03*
-%TO.P,U1,W18,vsa*%
-%TO.N,/vsa*%
+G04 #@! TO.P,U1,W18,vsa*
+G04 #@! TO.N,/vsa*
 X154970000Y-70060000D03*
-%TO.P,U1,W19,vddio*%
-%TO.N,/vddio*%
+G04 #@! TO.P,U1,W19,vddio*
+G04 #@! TO.N,/vddio*
 X157510000Y-70060000D03*
-%TO.P,U1,W20,vss*%
-%TO.N,GND*%
+G04 #@! TO.P,U1,W20,vss*
+G04 #@! TO.N,GND*
 X160050000Y-70060000D03*
-%TO.P,U1,W21*%
-%TO.N,unconnected-(U1-PadW21)*%
+G04 #@! TO.P,U1,W21*
+G04 #@! TO.N,unconnected-(U1-PadW21)*
 X162590000Y-70060000D03*
-%TO.P,U1,X1*%
-%TO.N,unconnected-(U1-PadX1)*%
+G04 #@! TO.P,U1,X1*
+G04 #@! TO.N,unconnected-(U1-PadX1)*
 X111790000Y-67520000D03*
-%TO.P,U1,X2*%
-%TO.N,unconnected-(U1-PadX2)*%
+G04 #@! TO.P,U1,X2*
+G04 #@! TO.N,unconnected-(U1-PadX2)*
 X114330000Y-67520000D03*
-%TO.P,U1,X3*%
-%TO.N,unconnected-(U1-PadX3)*%
+G04 #@! TO.P,U1,X3*
+G04 #@! TO.N,unconnected-(U1-PadX3)*
 X116870000Y-67520000D03*
-%TO.P,U1,X4*%
-%TO.N,unconnected-(U1-PadX4)*%
+G04 #@! TO.P,U1,X4*
+G04 #@! TO.N,unconnected-(U1-PadX4)*
 X119410000Y-67520000D03*
-%TO.P,U1,X5*%
-%TO.N,unconnected-(U1-PadX5)*%
+G04 #@! TO.P,U1,X5*
+G04 #@! TO.N,unconnected-(U1-PadX5)*
 X121950000Y-67520000D03*
-%TO.P,U1,X6*%
-%TO.N,unconnected-(U1-PadX6)*%
+G04 #@! TO.P,U1,X6*
+G04 #@! TO.N,unconnected-(U1-PadX6)*
 X124490000Y-67520000D03*
-%TO.P,U1,X7*%
-%TO.N,unconnected-(U1-PadX7)*%
+G04 #@! TO.P,U1,X7*
+G04 #@! TO.N,unconnected-(U1-PadX7)*
 X127030000Y-67520000D03*
-%TO.P,U1,X8*%
-%TO.N,unconnected-(U1-PadX8)*%
+G04 #@! TO.P,U1,X8*
+G04 #@! TO.N,unconnected-(U1-PadX8)*
 X129570000Y-67520000D03*
-%TO.P,U1,X9*%
-%TO.N,unconnected-(U1-PadX9)*%
+G04 #@! TO.P,U1,X9*
+G04 #@! TO.N,unconnected-(U1-PadX9)*
 X132110000Y-67520000D03*
-%TO.P,U1,X10*%
-%TO.N,unconnected-(U1-PadX10)*%
+G04 #@! TO.P,U1,X10*
+G04 #@! TO.N,unconnected-(U1-PadX10)*
 X134650000Y-67520000D03*
-%TO.P,U1,X11*%
-%TO.N,unconnected-(U1-PadX11)*%
+G04 #@! TO.P,U1,X11*
+G04 #@! TO.N,unconnected-(U1-PadX11)*
 X137190000Y-67520000D03*
-%TO.P,U1,X12*%
-%TO.N,unconnected-(U1-PadX12)*%
+G04 #@! TO.P,U1,X12*
+G04 #@! TO.N,unconnected-(U1-PadX12)*
 X139730000Y-67520000D03*
-%TO.P,U1,X13*%
-%TO.N,unconnected-(U1-PadX13)*%
+G04 #@! TO.P,U1,X13*
+G04 #@! TO.N,unconnected-(U1-PadX13)*
 X142270000Y-67520000D03*
-%TO.P,U1,X14*%
-%TO.N,unconnected-(U1-PadX14)*%
+G04 #@! TO.P,U1,X14*
+G04 #@! TO.N,unconnected-(U1-PadX14)*
 X144810000Y-67520000D03*
-%TO.P,U1,X15*%
-%TO.N,unconnected-(U1-PadX15)*%
+G04 #@! TO.P,U1,X15*
+G04 #@! TO.N,unconnected-(U1-PadX15)*
 X147350000Y-67520000D03*
-%TO.P,U1,X16*%
-%TO.N,unconnected-(U1-PadX16)*%
+G04 #@! TO.P,U1,X16*
+G04 #@! TO.N,unconnected-(U1-PadX16)*
 X149890000Y-67520000D03*
-%TO.P,U1,X17*%
-%TO.N,unconnected-(U1-PadX17)*%
+G04 #@! TO.P,U1,X17*
+G04 #@! TO.N,unconnected-(U1-PadX17)*
 X152430000Y-67520000D03*
-%TO.P,U1,X18*%
-%TO.N,unconnected-(U1-PadX18)*%
+G04 #@! TO.P,U1,X18*
+G04 #@! TO.N,unconnected-(U1-PadX18)*
 X154970000Y-67520000D03*
-%TO.P,U1,X19*%
-%TO.N,unconnected-(U1-PadX19)*%
+G04 #@! TO.P,U1,X19*
+G04 #@! TO.N,unconnected-(U1-PadX19)*
 X157510000Y-67520000D03*
-%TO.P,U1,X20*%
-%TO.N,unconnected-(U1-PadX20)*%
+G04 #@! TO.P,U1,X20*
+G04 #@! TO.N,unconnected-(U1-PadX20)*
 X160050000Y-67520000D03*
-%TO.P,U1,X21*%
-%TO.N,unconnected-(U1-PadX21)*%
+G04 #@! TO.P,U1,X21*
+G04 #@! TO.N,unconnected-(U1-PadX21)*
 X162590000Y-67520000D03*
-%TD*%
+G04 #@! TD*
 D26*
-%TO.P,U2,1,OUT*%
-%TO.N,Net-(SW1-Pad4)*%
+G04 #@! TO.P,U2,1,OUT*
+G04 #@! TO.N,Net-(SW1-Pad4)*
 X90587500Y-129745000D03*
-%TO.P,U2,2,NC*%
-%TO.N,unconnected-(U2-Pad2)*%
+G04 #@! TO.P,U2,2,NC*
+G04 #@! TO.N,unconnected-(U2-Pad2)*
 X90587500Y-130395000D03*
-%TO.P,U2,3,PG*%
-%TO.N,unconnected-(U2-Pad3)*%
+G04 #@! TO.P,U2,3,PG*
+G04 #@! TO.N,unconnected-(U2-Pad3)*
 X90587500Y-131045000D03*
-%TO.P,U2,4,EN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U2,4,EN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-131045000D03*
-%TO.P,U2,5,GND*%
-%TO.N,GND*%
+G04 #@! TO.P,U2,5,GND*
+G04 #@! TO.N,GND*
 X92362500Y-130395000D03*
-%TO.P,U2,6,IN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U2,6,IN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-129745000D03*
 D28*
-%TO.P,U2,7,EP*%
-%TO.N,GND*%
+G04 #@! TO.P,U2,7,EP*
+G04 #@! TO.N,GND*
 X91475000Y-129845000D03*
 X91475000Y-130945000D03*
 D27*
 X91475000Y-130395000D03*
-%TD*%
+G04 #@! TD*
 D33*
-%TO.P,SW3,1*%
-%TO.N,/man*%
+G04 #@! TO.P,SW2,1*
+G04 #@! TO.N,/man*
 X175285000Y-109430000D03*
-%TO.P,SW3,2*%
-%TO.N,/byp*%
+G04 #@! TO.P,SW2,2*
+G04 #@! TO.N,/byp*
 X175285000Y-111970000D03*
-%TO.P,SW3,3*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,SW2,3*
+G04 #@! TO.N,/vadj*
 X184185000Y-111970000D03*
-%TO.P,SW3,4*%
+G04 #@! TO.P,SW2,4*
 X184185000Y-109430000D03*
-%TD*%
+G04 #@! TD*
 D29*
-%TO.P,C7,1*%
-%TO.N,/io_pwr*%
+G04 #@! TO.P,C7,1*
+G04 #@! TO.N,/io_pwr*
 X104955000Y-137570000D03*
-%TO.P,C7,2*%
-%TO.N,GND*%
+G04 #@! TO.P,C7,2*
+G04 #@! TO.N,GND*
 X104955000Y-134620000D03*
-%TD*%
+G04 #@! TD*
 D17*
-%TO.P,H2,1,1*%
-%TO.N,GND*%
+G04 #@! TO.P,H2,1,1*
+G04 #@! TO.N,GND*
 X185450000Y-51010000D03*
-%TD*%
+G04 #@! TD*
 D26*
-%TO.P,U3,1,OUT*%
-%TO.N,Net-(SW1-Pad2)*%
+G04 #@! TO.P,U3,1,OUT*
+G04 #@! TO.N,Net-(SW1-Pad2)*
 X90587500Y-134190000D03*
-%TO.P,U3,2,NC*%
-%TO.N,unconnected-(U3-Pad2)*%
+G04 #@! TO.P,U3,2,NC*
+G04 #@! TO.N,unconnected-(U3-Pad2)*
 X90587500Y-134840000D03*
-%TO.P,U3,3,PG*%
-%TO.N,unconnected-(U3-Pad3)*%
+G04 #@! TO.P,U3,3,PG*
+G04 #@! TO.N,unconnected-(U3-Pad3)*
 X90587500Y-135490000D03*
-%TO.P,U3,4,EN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U3,4,EN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-135490000D03*
-%TO.P,U3,5,GND*%
-%TO.N,GND*%
+G04 #@! TO.P,U3,5,GND*
+G04 #@! TO.N,GND*
 X92362500Y-134840000D03*
-%TO.P,U3,6,IN*%
-%TO.N,+3.3V*%
+G04 #@! TO.P,U3,6,IN*
+G04 #@! TO.N,+3.3V*
 X92362500Y-134190000D03*
 D27*
-%TO.P,U3,7,EP*%
-%TO.N,GND*%
+G04 #@! TO.P,U3,7,EP*
+G04 #@! TO.N,GND*
 X91475000Y-134840000D03*
 D28*
 X91475000Y-134290000D03*
 X91475000Y-135390000D03*
-%TD*%
+G04 #@! TD*
 D34*
-%TO.N,Net-(J1-PadD1)*%
+G04 #@! TO.N,Net-(J1-PadD1)*
 X85755000Y-125305000D03*
-%TO.N,Net-(J2-Pad2)*%
+G04 #@! TO.N,Net-(J3-Pad2)*
 X76235000Y-135460000D03*
 D35*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X87025000Y-94825000D03*
 X76865000Y-110065000D03*
 X83215000Y-82125000D03*
@@ -2084,7 +2119,7 @@ X81945000Y-110065000D03*
 X83215000Y-93555000D03*
 X84485000Y-118955000D03*
 D34*
-%TO.N,+3.3V*%
+G04 #@! TO.N,+3.3V*
 X93380000Y-141557500D03*
 D35*
 X80675000Y-71965000D03*
@@ -2097,379 +2132,373 @@ X80675000Y-74505000D03*
 D34*
 X81950000Y-138000000D03*
 D35*
-%TO.N,/sclk*%
-X101122000Y-68917000D03*
-X88295000Y-84665000D03*
-%TO.N,/sc*%
-X81945000Y-77045000D03*
-D36*
-%TO.N,/mosi*%
-X151160000Y-79839000D03*
-X151160000Y-77723575D03*
-D35*
-X81945000Y-82125000D03*
-%TO.N,/read_dac_config_1*%
+G04 #@! TO.N,/mosi*
+X153700000Y-75140000D03*
+X153700000Y-77680000D03*
+G04 #@! TO.N,/read_dac_config_1*
 X79405000Y-101175000D03*
-%TO.N,/rst_n*%
-X80675000Y-87205000D03*
-%TO.N,/read_dac_config_0*%
+G04 #@! TO.N,/read_dac_config_0*
 X80675000Y-110065000D03*
 D34*
-%TO.N,/byp*%
+G04 #@! TO.N,/byp*
 X179100000Y-104350000D03*
-%TO.N,/man*%
+G04 #@! TO.N,/man*
 X177830000Y-104350000D03*
 D35*
-%TO.N,/di_42*%
+G04 #@! TO.N,/di_42*
 X80675000Y-108795000D03*
-%TO.N,/clamp_ref_1*%
+G04 #@! TO.N,/clamp_ref_1*
 X87025000Y-85935000D03*
-%TO.N,/clamp_ref_2*%
+G04 #@! TO.N,/clamp_ref_2*
 X85755000Y-84665000D03*
-%TO.N,/clamp_ref_3*%
+G04 #@! TO.N,/clamp_ref_3*
 X83215000Y-87205000D03*
-%TO.N,/clamp_ref_4*%
+G04 #@! TO.N,/clamp_ref_4*
 X84485000Y-85935000D03*
-%TO.N,/wl_dac_config_0*%
+G04 #@! TO.N,/wl_dac_config_0*
 X80675000Y-101175000D03*
 D34*
-%TO.N,/core_pwr*%
+G04 #@! TO.N,/core_pwr*
 X108445000Y-128650000D03*
 X122415000Y-128650000D03*
 X132575000Y-128650000D03*
 X115430000Y-128650000D03*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X132520000Y-137595000D03*
 X122360000Y-137595000D03*
 X108390000Y-137595000D03*
-X184180000Y-117685000D03*
 X115375000Y-137595000D03*
 D35*
-%TO.N,/di_47*%
+G04 #@! TO.N,/di_47*
 X81945000Y-116415000D03*
-%TO.N,/di_21*%
+G04 #@! TO.N,/di_21*
 X80675000Y-97365000D03*
-%TO.N,/rram_addr_0*%
+G04 #@! TO.N,/rram_addr_0*
 X83215000Y-113875000D03*
-%TO.N,/di_8*%
+G04 #@! TO.N,/di_8*
 X80675000Y-89745000D03*
-%TO.N,/di_36*%
+G04 #@! TO.N,/di_36*
 X81945000Y-117685000D03*
-%TO.N,/rram_addr_2*%
+G04 #@! TO.N,/rram_addr_2*
 X81945000Y-112605000D03*
-%TO.N,/sa_en*%
+G04 #@! TO.N,/sa_en*
 X81945000Y-111335000D03*
-%TO.N,/di_44*%
+G04 #@! TO.N,/di_44*
 X81945000Y-108795000D03*
-%TO.N,/di_43*%
+G04 #@! TO.N,/di_43*
 X81945000Y-104985000D03*
-%TO.N,/di_22*%
+G04 #@! TO.N,/di_22*
 X81945000Y-97365000D03*
-%TO.N,/rram_addr_6*%
+G04 #@! TO.N,/rram_addr_6*
 X87025000Y-111335000D03*
-%TO.N,/di_14*%
+G04 #@! TO.N,/di_14*
 X81945000Y-96095000D03*
-%TO.N,/di_4*%
+G04 #@! TO.N,/di_4*
 X81945000Y-89745000D03*
-%TO.N,/di_37*%
+G04 #@! TO.N,/di_37*
 X83215000Y-110065000D03*
-%TO.N,/di_39*%
+G04 #@! TO.N,/di_39*
 X85755000Y-110065000D03*
-%TO.N,/sa_do_13*%
+G04 #@! TO.N,/sa_do_13*
 X81945000Y-88475000D03*
-%TO.N,/sa_do_36*%
+G04 #@! TO.N,/sa_do_36*
 X81945000Y-80855000D03*
-%TO.N,/miso*%
-X81945000Y-74505000D03*
-%TO.N,/sa_do_41*%
+G04 #@! TO.N,/sa_do_41*
 X81945000Y-73235000D03*
-%TO.N,/set_rst*%
+G04 #@! TO.N,/set_rst*
 X87025000Y-108795000D03*
-%TO.N,/read_ref_5*%
+G04 #@! TO.N,/read_ref_5*
 X79405000Y-107525000D03*
-%TO.N,/rram_addr_4*%
+G04 #@! TO.N,/rram_addr_4*
 X81945000Y-107525000D03*
-%TO.N,/rram_addr_5*%
+G04 #@! TO.N,/rram_addr_5*
 X83215000Y-107525000D03*
-%TO.N,/read_ref_4*%
+G04 #@! TO.N,/read_ref_4*
 X83215000Y-115145000D03*
-%TO.N,/rram_addr_11*%
+G04 #@! TO.N,/rram_addr_11*
 X85755000Y-107525000D03*
-%TO.N,/read_ref_1*%
+G04 #@! TO.N,/read_ref_1*
 X83215000Y-111335000D03*
-%TO.N,/rram_addr_15*%
+G04 #@! TO.N,/rram_addr_15*
 X88295000Y-107525000D03*
-%TO.N,/di_27*%
+G04 #@! TO.N,/di_27*
 X79405000Y-106255000D03*
-%TO.N,/di_32*%
+G04 #@! TO.N,/di_32*
 X80675000Y-106255000D03*
-%TO.N,/di_33*%
+G04 #@! TO.N,/di_33*
 X83215000Y-106255000D03*
-%TO.N,/di_35*%
+G04 #@! TO.N,/di_35*
 X85755000Y-106255000D03*
 X117908985Y-111103985D03*
-%TO.N,/di_38*%
+G04 #@! TO.N,/di_38*
 X118140000Y-106001000D03*
 X90835000Y-106128000D03*
-%TO.N,/di_40*%
+G04 #@! TO.N,/di_40*
 X80675000Y-104985000D03*
 X125760000Y-108287000D03*
-%TO.N,/rram_addr_3*%
+G04 #@! TO.N,/rram_addr_3*
 X83215000Y-103715000D03*
-%TO.N,/di_46*%
+G04 #@! TO.N,/di_46*
 X130840000Y-108287000D03*
 X84485000Y-104985000D03*
-%TO.N,/read_ref_0*%
+G04 #@! TO.N,/read_ref_0*
 X87025000Y-104985000D03*
-%TO.N,/read_ref_3*%
+G04 #@! TO.N,/read_ref_3*
 X81945000Y-103715000D03*
 X135920000Y-108287000D03*
-%TO.N,/di_23*%
+G04 #@! TO.N,/di_23*
 X113060000Y-105620000D03*
 X83215000Y-102445000D03*
-%TO.N,/rram_addr_7*%
+G04 #@! TO.N,/rram_addr_7*
 X84485000Y-103715000D03*
-%TO.N,/rram_addr_9*%
+G04 #@! TO.N,/rram_addr_9*
 X85755000Y-103715000D03*
-%TO.N,/di_26*%
+G04 #@! TO.N,/di_26*
 X83215000Y-98635000D03*
-%TO.N,/di_0*%
+G04 #@! TO.N,/di_0*
 X83215000Y-88475000D03*
-%TO.N,/we*%
+G04 #@! TO.N,/we*
 X79405000Y-102445000D03*
-%TO.N,/read_dac_config_2*%
+G04 #@! TO.N,/read_dac_config_2*
 X80675000Y-102445000D03*
-%TO.N,/bsl_dac_config_2*%
+G04 #@! TO.N,/bsl_dac_config_2*
 X110266000Y-77934000D03*
 X108869000Y-81109000D03*
 X83215000Y-83395000D03*
-%TO.N,/sa_do_32*%
+G04 #@! TO.N,/sa_do_32*
 X83215000Y-80855000D03*
-%TO.N,/sa_do_19*%
+G04 #@! TO.N,/sa_do_19*
 X83215000Y-79585000D03*
-%TO.N,/sa_do_43*%
+G04 #@! TO.N,/sa_do_43*
 X83215000Y-77045000D03*
-%TO.N,/sa_do_30*%
+G04 #@! TO.N,/sa_do_30*
 X83215000Y-75775000D03*
-%TO.N,/wl_dac_config_3*%
+G04 #@! TO.N,/wl_dac_config_3*
 X81945000Y-101175000D03*
-%TO.N,/wl_dac_config_5*%
+G04 #@! TO.N,/wl_dac_config_5*
 X84485000Y-101175000D03*
-%TO.N,/di_25*%
+G04 #@! TO.N,/di_25*
 X112806000Y-103461000D03*
 X87025000Y-101175000D03*
 X90835000Y-102953000D03*
-%TO.N,/di_28*%
+G04 #@! TO.N,/di_28*
 X118140000Y-103080000D03*
 X81945000Y-99905000D03*
-%TO.N,/di_29*%
+G04 #@! TO.N,/di_29*
 X115600000Y-103080000D03*
 X83215000Y-99905000D03*
-%TO.N,/sa_do_42*%
+G04 #@! TO.N,/sa_do_42*
 X83215000Y-73235000D03*
-%TO.N,/wl_dac_config_2*%
+G04 #@! TO.N,/wl_dac_config_2*
 X85755000Y-99905000D03*
-%TO.N,/sa_do_44*%
+G04 #@! TO.N,/sa_do_44*
 X83215000Y-71965000D03*
-%TO.N,/di_18*%
+G04 #@! TO.N,/di_18*
 X88295000Y-99905000D03*
-%TO.N,/di_24*%
+G04 #@! TO.N,/di_24*
 X80675000Y-98635000D03*
-%TO.N,/rram_addr_10*%
+G04 #@! TO.N,/rram_addr_10*
 X84485000Y-112605000D03*
-%TO.N,/read_ref_2*%
+G04 #@! TO.N,/read_ref_2*
 X84485000Y-111335000D03*
-%TO.N,/di_45*%
+G04 #@! TO.N,/di_45*
 X84485000Y-108795000D03*
-%TO.N,/di_16*%
+G04 #@! TO.N,/di_16*
 X79405000Y-97365000D03*
-%TO.N,/rram_addr_8*%
+G04 #@! TO.N,/rram_addr_8*
 X84485000Y-107525000D03*
-%TO.N,/read_dac_config_3*%
+G04 #@! TO.N,/read_dac_config_3*
 X84485000Y-99905000D03*
-%TO.N,/wl_dac_config_6*%
+G04 #@! TO.N,/wl_dac_config_6*
 X84485000Y-97365000D03*
-%TO.N,/wl_dac_en*%
+G04 #@! TO.N,/wl_dac_en*
 X87025000Y-97365000D03*
-%TO.N,/sa_do_2*%
+G04 #@! TO.N,/sa_do_2*
 X79405000Y-96095000D03*
-%TO.N,/di_2*%
+G04 #@! TO.N,/di_2*
 X84485000Y-89745000D03*
-%TO.N,/di_17*%
+G04 #@! TO.N,/di_17*
 X83215000Y-96095000D03*
-%TO.N,/di_20*%
+G04 #@! TO.N,/di_20*
 X84485000Y-96095000D03*
-%TO.N,/di_19*%
+G04 #@! TO.N,/di_19*
 X85755000Y-96095000D03*
-%TO.N,/bleed_en*%
+G04 #@! TO.N,/bleed_en*
 X87025000Y-96095000D03*
 X90835000Y-97873000D03*
-%TO.N,/wl_en*%
+G04 #@! TO.N,/wl_en*
 X90835000Y-95968000D03*
-%TO.N,/sa_do_0*%
+G04 #@! TO.N,/sa_do_0*
 X80675000Y-94825000D03*
-%TO.N,/sa_do_4*%
+G04 #@! TO.N,/sa_do_4*
 X83215000Y-94825000D03*
-%TO.N,/di_12*%
+G04 #@! TO.N,/di_12*
 X85755000Y-94825000D03*
-%TO.N,/di_15*%
+G04 #@! TO.N,/di_15*
 X88295000Y-94825000D03*
-%TO.N,/di_13*%
+G04 #@! TO.N,/di_13*
 X123220000Y-92832849D03*
 X80675000Y-93555000D03*
-%TO.N,/sa_do_3*%
+G04 #@! TO.N,/sa_do_3*
 X81945000Y-93555000D03*
-%TO.N,/sa_do_1*%
+G04 #@! TO.N,/sa_do_1*
 X84485000Y-93555000D03*
-%TO.N,/clamp_ref_5*%
+G04 #@! TO.N,/clamp_ref_5*
 X84485000Y-88475000D03*
-%TO.N,/di_11*%
+G04 #@! TO.N,/di_11*
 X79405000Y-92285000D03*
 X112985600Y-88676400D03*
-%TO.N,/di_9*%
+G04 #@! TO.N,/di_9*
 X81945000Y-92285000D03*
-%TO.N,/di_10*%
+G04 #@! TO.N,/di_10*
 X83215000Y-92285000D03*
-%TO.N,/sa_do_7*%
+G04 #@! TO.N,/sa_do_7*
 X84485000Y-92285000D03*
-%TO.N,/sa_do_10*%
+G04 #@! TO.N,/sa_do_10*
 X84485000Y-78315000D03*
-%TO.N,/sa_do_6*%
+G04 #@! TO.N,/sa_do_6*
 X87025000Y-92285000D03*
-%TO.N,/di_7*%
+G04 #@! TO.N,/di_7*
 X90835000Y-92158000D03*
-%TO.N,/di_5*%
+G04 #@! TO.N,/di_5*
 X120680000Y-87840000D03*
 X79405000Y-91015000D03*
-%TO.N,/di_6*%
+G04 #@! TO.N,/di_6*
 X80675000Y-91015000D03*
-%TO.N,/sa_do_11*%
+G04 #@! TO.N,/sa_do_11*
 X83215000Y-91015000D03*
-%TO.N,/sa_do_12*%
+G04 #@! TO.N,/sa_do_12*
 X85755000Y-91015000D03*
-%TO.N,/sa_do_9*%
+G04 #@! TO.N,/sa_do_9*
 X88295000Y-91015000D03*
-%TO.N,/sa_do_38*%
+G04 #@! TO.N,/sa_do_38*
 X84485000Y-77045000D03*
-%TO.N,/sa_rdy*%
+G04 #@! TO.N,/sa_rdy*
 X84485000Y-74505000D03*
-%TO.N,/sa_do_31*%
+G04 #@! TO.N,/sa_do_31*
 X84485000Y-73235000D03*
-%TO.N,/rram_addr_1*%
+G04 #@! TO.N,/rram_addr_1*
 X85755000Y-111335000D03*
-%TO.N,/di_30*%
+G04 #@! TO.N,/di_30*
 X85755000Y-102445000D03*
 X120680000Y-105707151D03*
-%TO.N,/wl_dac_config_1*%
+G04 #@! TO.N,/wl_dac_config_1*
 X85755000Y-98635000D03*
-%TO.N,/sa_do_18*%
+G04 #@! TO.N,/sa_do_18*
 X85755000Y-88475000D03*
-%TO.N,/sa_do_16*%
+G04 #@! TO.N,/sa_do_16*
 X90835000Y-88983000D03*
 X87025000Y-88475000D03*
-%TO.N,/sa_do_8*%
+G04 #@! TO.N,/sa_do_8*
 X85755000Y-92285000D03*
-%TO.N,/di_3*%
+G04 #@! TO.N,/di_3*
 X79405000Y-87205000D03*
-%TO.N,/sa_do_21*%
+G04 #@! TO.N,/sa_do_21*
 X85755000Y-87205000D03*
-%TO.N,/sa_do_20*%
+G04 #@! TO.N,/sa_do_20*
 X90835000Y-87078000D03*
-%TO.N,/sa_do_17*%
+G04 #@! TO.N,/sa_do_17*
 X79405000Y-85935000D03*
-%TO.N,/di_1*%
+G04 #@! TO.N,/di_1*
 X80675000Y-85935000D03*
-%TO.N,/bl_en*%
+G04 #@! TO.N,/bl_en*
 X81945000Y-85935000D03*
-%TO.N,/sa_do_23*%
+G04 #@! TO.N,/sa_do_23*
 X81945000Y-84665000D03*
 X156367000Y-81236000D03*
-%TO.N,/sa_do_22*%
+G04 #@! TO.N,/sa_do_22*
 X83215000Y-84665000D03*
-%TO.N,/sa_do_15*%
+G04 #@! TO.N,/sa_do_15*
 X84485000Y-84665000D03*
-%TO.N,/bsl_dac_en*%
+G04 #@! TO.N,/bsl_dac_en*
 X87025000Y-84665000D03*
 X109758000Y-83014000D03*
-%TO.N,/bsl_dac_config_4*%
+G04 #@! TO.N,/bsl_dac_config_4*
 X120680000Y-75140000D03*
 X87025000Y-78315000D03*
-%TO.N,/sa_do_27*%
+G04 #@! TO.N,/sa_do_27*
 X85755000Y-80855000D03*
-%TO.N,/bsl_dac_config_0*%
+G04 #@! TO.N,/bsl_dac_config_0*
 X85755000Y-83395000D03*
-%TO.N,/sa_do_45*%
+G04 #@! TO.N,/sa_do_45*
 X84485000Y-82125000D03*
-%TO.N,/sa_do_39*%
+G04 #@! TO.N,/sa_do_39*
 X87025000Y-82125000D03*
-%TO.N,/read_dac_en*%
+G04 #@! TO.N,/read_dac_en*
 X85755000Y-79585000D03*
-%TO.N,/sa_do_37*%
+G04 #@! TO.N,/sa_do_37*
 X85755000Y-77045000D03*
-%TO.N,/sa_do_29*%
+G04 #@! TO.N,/sa_do_29*
 X84485000Y-80855000D03*
-%TO.N,/sa_do_28*%
+G04 #@! TO.N,/sa_do_28*
 X85755000Y-75775000D03*
-%TO.N,/sa_do_26*%
+G04 #@! TO.N,/sa_do_26*
 X85755000Y-73235000D03*
-%TO.N,/sa_do_24*%
+G04 #@! TO.N,/sa_do_24*
 X90835000Y-80601000D03*
-%TO.N,/sa_do_40*%
+G04 #@! TO.N,/sa_do_40*
 X85755000Y-71965000D03*
-%TO.N,/di_34*%
+G04 #@! TO.N,/di_34*
 X87025000Y-112605000D03*
-%TO.N,/bsl_dac_config_3*%
+G04 #@! TO.N,/bsl_dac_config_3*
 X88295000Y-79585000D03*
-%TO.N,/bsl_dac_config_1*%
+G04 #@! TO.N,/bsl_dac_config_1*
 X81945000Y-78315000D03*
-%TO.N,/aclk*%
+G04 #@! TO.N,/aclk*
 X96101182Y-70381818D03*
-%TO.N,/rram_addr_13*%
+G04 #@! TO.N,/rram_addr_13*
 X87025000Y-107525000D03*
-%TO.N,/rram_addr_12*%
+G04 #@! TO.N,/rram_addr_12*
 X87025000Y-103715000D03*
-%TO.N,/wl_dac_config_7*%
+G04 #@! TO.N,/wl_dac_config_7*
 X87025000Y-99905000D03*
-%TO.N,/sa_do_5*%
+G04 #@! TO.N,/sa_do_5*
 X87025000Y-93555000D03*
-%TO.N,/sa_do_14*%
+G04 #@! TO.N,/sa_do_14*
 X87025000Y-89745000D03*
-%TO.N,/sa_do_25*%
+G04 #@! TO.N,/sa_do_25*
 X87025000Y-80855000D03*
-%TO.N,/sa_do_34*%
+G04 #@! TO.N,/sa_do_34*
 X87025000Y-77045000D03*
-%TO.N,/sa_do_47*%
+G04 #@! TO.N,/sa_do_47*
 X87025000Y-74505000D03*
-%TO.N,/sa_do_46*%
+G04 #@! TO.N,/sa_do_46*
 X87025000Y-73235000D03*
-%TO.N,/sl_en*%
+G04 #@! TO.N,/sl_en*
 X88295000Y-111335000D03*
-%TO.N,/di_41*%
+G04 #@! TO.N,/di_41*
 X88295000Y-110065000D03*
-%TO.N,/rram_addr_14*%
+G04 #@! TO.N,/rram_addr_14*
 X88295000Y-103715000D03*
-%TO.N,/di_31*%
+G04 #@! TO.N,/di_31*
 X88295000Y-102445000D03*
 X123220000Y-105620000D03*
-%TO.N,/wl_dac_config_4*%
+G04 #@! TO.N,/wl_dac_config_4*
 X90835000Y-99778000D03*
-%TO.N,/mclk_pause*%
-X88295000Y-83395000D03*
-%TO.N,/sa_do_33*%
+G04 #@! TO.N,/mclk_pause*
+X130840000Y-83649000D03*
+G04 #@! TO.N,/sa_do_33*
 X88295000Y-77045000D03*
-%TO.N,/clamp_ref_0*%
+G04 #@! TO.N,/clamp_ref_0*
 X88295000Y-75775000D03*
-%TO.N,/sa_do_35*%
+G04 #@! TO.N,/sa_do_35*
 X88295000Y-71965000D03*
 D34*
-%TO.N,/heartbeat*%
+G04 #@! TO.N,/heartbeat*
 X172750000Y-85935000D03*
 D35*
-%TO.N,/sa_clk*%
+G04 #@! TO.N,/sa_clk*
 X88295000Y-73235000D03*
-%TD*%
-D37*
-%TO.N,Net-(C6-Pad1)*%
+G04 #@! TO.N,/vadj*
+X84485000Y-70695000D03*
+X81945000Y-70695000D03*
+X87025000Y-70695000D03*
+X85755000Y-69425000D03*
+X88295000Y-69425000D03*
+X83215000Y-69425000D03*
+G04 #@! TD*
+D36*
+G04 #@! TO.N,Net-(C6-Pad1)*
 X99640000Y-139270000D02*
 X134835000Y-139270000D01*
 X85530000Y-137595000D02*
@@ -2482,38 +2511,11 @@ X84085000Y-139040000D02*
 X85530000Y-137595000D01*
 X134835000Y-139270000D02*
 X137165000Y-141600000D01*
-D38*
-%TO.N,Net-(J1-PadD1)*%
+D37*
+G04 #@! TO.N,Net-(J1-PadD1)*
 X84182742Y-125305000D02*
 X85755000Y-125305000D01*
-D39*
-%TO.N,Net-(J2-Pad2)*%
-X109225000Y-141180000D02*
-X109225000Y-146260000D01*
-D40*
-X78701000Y-133629000D02*
-X79585000Y-132745000D01*
-X79585000Y-132745000D02*
-X79585000Y-132125000D01*
-D39*
-X109225000Y-146260000D02*
-X114305000Y-146260000D01*
-D40*
-X76235000Y-135460000D02*
-X76235000Y-134190000D01*
-D39*
-X114305000Y-146260000D02*
-X114305000Y-141180000D01*
-D40*
-X76235000Y-134190000D02*
-X76796000Y-133629000D01*
-X76796000Y-133629000D02*
-X78701000Y-133629000D01*
-D39*
-X109225000Y-141180000D02*
-X114305000Y-141180000D01*
-D38*
-%TO.N,Net-(SW1-Pad2)*%
+G04 #@! TO.N,Net-(SW1-Pad2)*
 X86395000Y-134825000D02*
 X87030000Y-134190000D01*
 X83785000Y-134825000D02*
@@ -2522,13 +2524,39 @@ X81085000Y-132125000D02*
 X83785000Y-134825000D01*
 X87030000Y-134190000D02*
 X90587500Y-134190000D01*
-%TO.N,Net-(SW1-Pad4)*%
+G04 #@! TO.N,Net-(SW1-Pad4)*
 X90587500Y-129745000D02*
 X87965000Y-129745000D01*
 X87965000Y-129745000D02*
 X85585000Y-132125000D01*
-D37*
-%TO.N,Net-(C1-Pad1)*%
+D38*
+G04 #@! TO.N,Net-(J3-Pad2)*
+X109225000Y-141180000D02*
+X109225000Y-146260000D01*
+D39*
+X78701000Y-133629000D02*
+X79585000Y-132745000D01*
+X79585000Y-132745000D02*
+X79585000Y-132125000D01*
+D38*
+X109225000Y-146260000D02*
+X114305000Y-146260000D01*
+D39*
+X76235000Y-135460000D02*
+X76235000Y-134190000D01*
+D38*
+X114305000Y-146260000D02*
+X114305000Y-141180000D01*
+D39*
+X76235000Y-134190000D02*
+X76796000Y-133629000D01*
+X76796000Y-133629000D02*
+X78701000Y-133629000D01*
+D38*
+X109225000Y-141180000D02*
+X114305000Y-141180000D01*
+D36*
+G04 #@! TO.N,Net-(C1-Pad1)*
 X97795000Y-128475000D02*
 X99395000Y-130075000D01*
 X99460500Y-130140500D02*
@@ -2537,81 +2565,81 @@ X84085000Y-131875000D02*
 X84085000Y-130785000D01*
 X86395000Y-128475000D02*
 X97795000Y-128475000D01*
-D41*
+D40*
 X99395000Y-130075000D02*
 X99460500Y-130140500D01*
-D37*
+D36*
 X84085000Y-130785000D02*
 X86395000Y-128475000D01*
 X134595500Y-130140500D02*
 X137165000Y-132710000D01*
-%TO.N,GND*%
+G04 #@! TO.N,GND*
 X126140000Y-134595000D02*
 X122820000Y-134595000D01*
 X104955000Y-131650000D02*
 X104955000Y-134595000D01*
-D38*
+D37*
 X92362500Y-139285000D02*
 X93365000Y-139285000D01*
-D37*
+D36*
 X101000000Y-131650000D02*
 X108620000Y-131650000D01*
-D38*
+D37*
 X174020000Y-119145000D02*
 X175925000Y-119145000D01*
 X92362500Y-134840000D02*
 X93365000Y-134840000D01*
-D37*
+D36*
 X97970000Y-131650000D02*
 X101000000Y-131650000D01*
 X122820000Y-134595000D02*
 X115200000Y-134595000D01*
-D38*
+D37*
 X92362500Y-130395000D02*
 X93380000Y-130395000D01*
-D37*
+D36*
 X101865000Y-134595000D02*
 X97965000Y-134595000D01*
 X108215000Y-134595000D02*
 X101865000Y-134595000D01*
 X111940000Y-131650000D02*
 X111940000Y-134595000D01*
-D39*
+D38*
 X97965000Y-134595000D02*
 X97965000Y-131655000D01*
-D38*
+D37*
 X177005000Y-119145000D02*
 X177830000Y-118320000D01*
-D37*
+D36*
 X123225000Y-131650000D02*
 X126140000Y-131650000D01*
 X108620000Y-131650000D02*
 X114970000Y-131650000D01*
-D38*
+D37*
 X79205242Y-125305000D02*
 X77500000Y-125305000D01*
-D37*
+D36*
 X126140000Y-131650000D02*
 X126140000Y-134595000D01*
-D38*
+D37*
 X93365000Y-134840000D02*
 X93380000Y-134825000D01*
-D37*
+D36*
 X118925000Y-131650000D02*
 X118925000Y-134595000D01*
 X115200000Y-134595000D02*
 X108215000Y-134595000D01*
 X114970000Y-131650000D02*
 X123225000Y-131650000D01*
-D38*
+D37*
 X175925000Y-119145000D02*
 X177005000Y-119145000D01*
 X93365000Y-139285000D02*
 X93380000Y-139270000D01*
-%TO.N,Net-(D1-Pad2)*%
+G04 #@! TO.N,Net-(D1-Pad2)*
 X80780242Y-125305000D02*
 X82532742Y-125305000D01*
-%TO.N,+3.3V*%
+G04 #@! TO.N,+3.3V*
 X94650000Y-140287500D02*
 X93380000Y-141557500D01*
 X93680305Y-129670000D02*
@@ -2628,10 +2656,10 @@ X93680305Y-135550000D02*
 X94650000Y-134580305D01*
 X92362500Y-133685000D02*
 X92362500Y-134190000D01*
-D41*
+D40*
 X81085000Y-138865000D02*
 X81950000Y-138000000D01*
-D38*
+D37*
 X94650000Y-133937500D02*
 X93380000Y-132667500D01*
 X92437500Y-129670000D02*
@@ -2642,10 +2670,10 @@ X92362500Y-140540000D02*
 X93380000Y-141557500D01*
 X94650000Y-134580305D02*
 X94650000Y-133937500D01*
-D41*
+D40*
 X81085000Y-140170000D02*
 X81085000Y-138865000D01*
-D38*
+D37*
 X94650000Y-131397500D02*
 X93380000Y-132667500D01*
 X93380000Y-132667500D02*
@@ -2660,21 +2688,12 @@ X94650000Y-130639695D02*
 X94650000Y-131397500D01*
 X92362500Y-138635000D02*
 X92696500Y-138301000D01*
-D42*
-%TO.N,/sclk*%
-X91262800Y-73315200D02*
-X95661000Y-68917000D01*
-X95661000Y-68917000D02*
-X101122000Y-68917000D01*
-X91262800Y-81697200D02*
-X91262800Y-73315200D01*
-X88295000Y-84665000D02*
-X91262800Y-81697200D01*
-%TO.N,/mosi*%
-X151160000Y-77723575D02*
-X151160000Y-79839000D01*
-D38*
-%TO.N,/byp*%
+D41*
+G04 #@! TO.N,/mosi*
+X153700000Y-77680000D02*
+X153700000Y-75140000D01*
+D37*
+G04 #@! TO.N,/byp*
 X174020000Y-115590000D02*
 X175925000Y-117495000D01*
 X175285000Y-111970000D02*
@@ -2687,7 +2706,7 @@ X179100000Y-108155000D02*
 X175285000Y-111970000D01*
 X179100000Y-104350000D02*
 X179100000Y-108155000D01*
-%TO.N,/man*%
+G04 #@! TO.N,/man*
 X172745000Y-110705000D02*
 X172745000Y-116220000D01*
 X175285000Y-109430000D02*
@@ -2700,8 +2719,8 @@ X172745000Y-116220000D02*
 X174020000Y-117495000D01*
 X174020000Y-109430000D02*
 X172745000Y-110705000D01*
-D37*
-%TO.N,/core_pwr*%
+D36*
+G04 #@! TO.N,/core_pwr*
 X104955000Y-128650000D02*
 X108445000Y-128650000D01*
 X122415000Y-128650000D02*
@@ -2722,21 +2741,13 @@ X138185000Y-128650000D02*
 X142245000Y-132710000D01*
 X142245000Y-132710000D02*
 X151990000Y-142455000D01*
-%TO.N,/io_pwr*%
+G04 #@! TO.N,/io_pwr*
 X115375000Y-137595000D02*
 X122360000Y-137595000D01*
-D43*
-X184185000Y-117680000D02*
-X184180000Y-117685000D01*
-D37*
 X142245000Y-141600000D02*
 X145630000Y-144985000D01*
 X122360000Y-137595000D02*
 X126140000Y-137595000D01*
-X184185000Y-111970000D02*
-X184185000Y-117680000D01*
-X184185000Y-109430000D02*
-X184185000Y-111970000D01*
 X126140000Y-137595000D02*
 X132520000Y-137595000D01*
 X132520000Y-137595000D02*
@@ -2753,44 +2764,44 @@ X145630000Y-144985000D02*
 X163230000Y-144985000D01*
 X138240000Y-137595000D02*
 X142245000Y-141600000D01*
-D42*
-%TO.N,/di_35*%
+D41*
+G04 #@! TO.N,/di_35*
 X118341400Y-111536400D02*
 X121113600Y-111536400D01*
 X121113600Y-111536400D02*
 X121950000Y-110700000D01*
 X117908985Y-111103985D02*
 X118341400Y-111536400D01*
-%TO.N,/di_40*%
+G04 #@! TO.N,/di_40*
 X127030000Y-109430000D02*
 X127030000Y-110700000D01*
 X125887000Y-108287000D02*
 X127030000Y-109430000D01*
 X125760000Y-108287000D02*
 X125887000Y-108287000D01*
-%TO.N,/di_46*%
+G04 #@! TO.N,/di_46*
 X130840000Y-108287000D02*
 X130840000Y-109430000D01*
 X130840000Y-109430000D02*
 X132110000Y-110700000D01*
-%TO.N,/read_ref_3*%
+G04 #@! TO.N,/read_ref_3*
 X135920000Y-108287000D02*
 X135920000Y-109430000D01*
 X135920000Y-109430000D02*
 X137190000Y-110700000D01*
-%TO.N,/di_23*%
+G04 #@! TO.N,/di_23*
 X111790000Y-108160000D02*
 X113060000Y-106890000D01*
 X113060000Y-106890000D02*
 X113060000Y-105620000D01*
-%TO.N,/bsl_dac_config_2*%
+G04 #@! TO.N,/bsl_dac_config_2*
 X109504000Y-81109000D02*
 X108869000Y-81109000D01*
 X110266000Y-80347000D02*
 X109504000Y-81109000D01*
 X110266000Y-77934000D02*
 X110266000Y-80347000D01*
-%TO.N,/di_25*%
+G04 #@! TO.N,/di_25*
 X114330000Y-104604000D02*
 X113187000Y-103461000D01*
 X114330000Y-105620000D02*
@@ -2803,21 +2814,21 @@ X90835000Y-102953000D02*
 X89436285Y-102953000D01*
 X87658285Y-101175000D02*
 X87025000Y-101175000D01*
-%TO.N,/di_29*%
+G04 #@! TO.N,/di_29*
 X117456000Y-104936000D02*
 X118726000Y-104936000D01*
 X115600000Y-103080000D02*
 X117456000Y-104936000D01*
 X118726000Y-104936000D02*
 X119410000Y-105620000D01*
-%TO.N,/bleed_en*%
+G04 #@! TO.N,/bleed_en*
 X89819000Y-97873000D02*
 X88041000Y-96095000D01*
 X88041000Y-96095000D02*
 X87025000Y-96095000D01*
 X90835000Y-97873000D02*
 X89819000Y-97873000D01*
-%TO.N,/di_13*%
+G04 #@! TO.N,/di_13*
 X122532400Y-94623600D02*
 X123601000Y-93555000D01*
 X123601000Y-93047000D02*
@@ -2830,7 +2841,7 @@ X123601000Y-93555000D02*
 X123601000Y-93047000D01*
 X119410000Y-95460000D02*
 X120246400Y-94623600D01*
-%TO.N,/di_11*%
+G04 #@! TO.N,/di_11*
 X115346000Y-89999000D02*
 X115346000Y-91904000D01*
 X115346000Y-91904000D02*
@@ -2839,7 +2850,7 @@ X112985600Y-88676400D02*
 X114023400Y-88676400D01*
 X114023400Y-88676400D02*
 X115346000Y-89999000D01*
-%TO.N,/di_5*%
+G04 #@! TO.N,/di_5*
 X120680000Y-88856000D02*
 X120680000Y-87840000D01*
 X119992400Y-89543600D02*
@@ -2848,17 +2859,17 @@ X117706400Y-89543600D02*
 X119992400Y-89543600D01*
 X116870000Y-90380000D02*
 X117706400Y-89543600D01*
-%TO.N,/di_30*%
+G04 #@! TO.N,/di_30*
 X118227151Y-108160000D02*
 X116870000Y-108160000D01*
 X120680000Y-105707151D02*
 X118227151Y-108160000D01*
-%TO.N,/sa_do_16*%
+G04 #@! TO.N,/sa_do_16*
 X87025000Y-88475000D02*
 X87533000Y-88983000D01*
 X87533000Y-88983000D02*
 X90835000Y-88983000D01*
-%TO.N,/sa_do_23*%
+G04 #@! TO.N,/sa_do_23*
 X153319000Y-79331000D02*
 X155263849Y-79331000D01*
 X152430000Y-80220000D02*
@@ -2867,7 +2878,7 @@ X155263849Y-79331000D02*
 X156367000Y-80434151D01*
 X156367000Y-80434151D02*
 X156367000Y-81236000D01*
-%TO.N,/bsl_dac_en*%
+G04 #@! TO.N,/bsl_dac_en*
 X114676449Y-78516400D02*
 X110559849Y-82633000D01*
 X110559849Y-82633000D02*
@@ -2878,49 +2889,79 @@ X118573600Y-78516400D02*
 X114676449Y-78516400D01*
 X110139000Y-82633000D02*
 X109758000Y-83014000D01*
-%TO.N,/bsl_dac_config_4*%
+G04 #@! TO.N,/bsl_dac_config_4*
 X120680000Y-75140000D02*
 X120680000Y-76410000D01*
 X120680000Y-76410000D02*
 X121950000Y-77680000D01*
-%TO.N,/di_31*%
+G04 #@! TO.N,/di_31*
 X123220000Y-105707151D02*
 X123220000Y-105620000D01*
 X119410000Y-108160000D02*
 X120767151Y-108160000D01*
 X120767151Y-108160000D02*
 X123220000Y-105707151D01*
-D38*
-%TO.N,Net-(SW2-Pad4)*%
-X87120000Y-138635000D02*
-X85585000Y-140170000D01*
-X90587500Y-138635000D02*
-X87120000Y-138635000D01*
-%TO.N,/heartbeat*%
+G04 #@! TO.N,/mclk_pause*
+X130840000Y-83649000D02*
+X130840000Y-78950000D01*
+X130840000Y-78950000D02*
+X129570000Y-77680000D01*
+D37*
+G04 #@! TO.N,/heartbeat*
 X172750000Y-85935000D02*
 X175290000Y-88475000D01*
-D39*
-%TO.N,Net-(J5-Pad2)*%
+D38*
+G04 #@! TO.N,Net-(J6-Pad2)*
 X101605000Y-146260000D02*
 X101605000Y-141180000D01*
 X96525000Y-141180000D02*
 X96525000Y-146260000D01*
-D40*
+D39*
 X82925000Y-146260000D02*
 X96525000Y-146260000D01*
-D39*
+D38*
 X96525000Y-146260000D02*
 X101605000Y-146260000D01*
-D40*
+D39*
 X79033653Y-140721347D02*
 X79033653Y-142368653D01*
-D39*
+D38*
 X101605000Y-141180000D02*
 X96525000Y-141180000D01*
-D40*
+D39*
 X79033653Y-142368653D02*
 X82925000Y-146260000D01*
 X79585000Y-140170000D02*
 X79033653Y-140721347D01*
-%TD*%
+D37*
+G04 #@! TO.N,Net-(SW3-Pad4)*
+X87120000Y-138635000D02*
+X85585000Y-140170000D01*
+X90587500Y-138635000D02*
+X87120000Y-138635000D01*
+D39*
+G04 #@! TO.N,/vadj*
+X81945000Y-70695000D02*
+X83215000Y-69425000D01*
+X88295000Y-69425000D02*
+X96550000Y-61170000D01*
+X158780000Y-61170000D02*
+X186720000Y-89110000D01*
+X186720000Y-96095000D02*
+X184185000Y-98630000D01*
+X85755000Y-69425000D02*
+X87025000Y-70695000D01*
+X184185000Y-98630000D02*
+X184185000Y-111970000D01*
+X83215000Y-69425000D02*
+X84485000Y-70695000D01*
+X87025000Y-70695000D02*
+X88295000Y-69425000D01*
+X96550000Y-61170000D02*
+X158780000Y-61170000D01*
+X186720000Y-89110000D02*
+X186720000Y-96095000D01*
+X84485000Y-70695000D02*
+X85755000Y-69425000D01*
+G04 #@! TD*
 M02*
