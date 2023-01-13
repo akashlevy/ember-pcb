@@ -28,13 +28,13 @@
 
 ## Footprints
 
-* [ ] Confirm components are available in the selected package
-* [ ] Confirm components (especially connectors and power regulators) are capable of desired current in the selected package
-* [ ] Verify schematic symbol matches the selected package
-* [ ] Confirm pinout diagram is from top vs bottom of package
-* [ ] (recommended) PCB printed 1:1 on paper and checked against physical parts
-* [ ] 3D models obtained (if available) and checked against footprints
-* [ ] Soldermask apertures on all SMT lands and PTH pads
+* [x] Confirm components are available in the selected package
+* [x] Confirm components (especially connectors and power regulators) are capable of desired current in the selected package
+* [x] Verify schematic symbol matches the selected package
+* [x] Confirm pinout diagram is from top vs bottom of package
+* [x] (recommended) PCB printed 1:1 on paper and checked against physical parts
+* [x] 3D models obtained (if available) and checked against footprints
+* [x] Soldermask apertures on all SMT lands and PTH pads
 
 ## Differential pairs
 * [x] Routed differentially

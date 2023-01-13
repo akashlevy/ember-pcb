@@ -33,6 +33,7 @@ off as invalid.
   * [x] FPGA should take care of this
 * [x] Check total input capacitance and add inrush limiter if needed
   * [x] Probably ok for test board...
+* [x] Check SMA/coaxial connections (ground shielding on outside, signal on inside)
 
 ### Regulators
 
