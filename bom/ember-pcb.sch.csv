@@ -1,26 +1,37 @@
-Source:,/Users/akashlevy/Documents/ember-pcb/ember-pcb.kicad_sch,,,,,
-Date:,"Friday, December 16, 2022 at 06:05:37 PM",,,,,
-Tool:,Eeschema (6.0.9-0),,,,,
-Generator:,/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py,,,,,
-Component Count:,33,,,,,
-Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
-"C1, C3, C6, C8, ",4,22uF,C_Polarized,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B,Polarized capacitor,
-"C2, C5, C7, C10, ",4,100nF,C,Capacitor_SMD:C_1210_3225Metric,Unpolarized capacitor,
-"C4, C9, ",2,10uF,C_Polarized,Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T,Polarized capacitor,
-"D1, ",1,LED,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,
-"FB1, FB2, ",2,FerriteBead,FerriteBead,Ferrite_THT:LairdTech_28C0236-0JW-10,Ferrite bead,
-"H1, H2, ",2,MountingHole,MountingHole_Pad,MountingHole:MountingHole_2.5mm_Pad,Mounting Hole with connection,
-"H3, H4, ",2,MountingHole,MountingHole,MountingHole:MountingHole_2.5mm,Mounting Hole without connection,
-"J1, ",1,Samtec_ASP-134602-01,Samtec_ASP-134602-01,Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical,"Connector array, 10x40, 1.27mm pitch, male pins, gold finish, VITA 57.1 FMC, SMD",
-"J2, J5, ",2,Conn_Coaxial_Power,Conn_Coaxial_Power,Connector_Coaxial:SMA_Molex_73251-2200_Horizontal,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",
-"J3, ",1,Conn_02x12_Odd_Even,Conn_02x12_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical,"Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",
-"J4, ",1,Conn_01x07,Conn_01x07,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",
-"R1, ",1,1k,R,Resistor_SMD:R_0603_1608Metric,Resistor,
-"R2, R3, ",2,100k,R,Resistor_SMD:R_0603_1608Metric,Resistor,
-"SW1, SW2, ",2,SW_SP3T,SW_SP3T,Button_Switch_SMD:SW_SP3T_PCM13,"Switch, three position, single pole triple throw, 3 position switch, SP3T",
-"SW3, ",1,SW_DIP_x02,SW_DIP_x02,Button_Switch_SMD:SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm,"2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",
-"TP1, ",1,TestPointHeartbeat,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,
-"U1, ",1,EMBER Macro,EMBER_Macro,ZIF:ARIES_441-PRS21001-12,,
-"U2, ",1,LP5912-0.9DRV,LP5912-0.9DRV,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias,"500-mA Ultra-Low-Noise Low-IQ LDO, 0.9V, WSON-6",
-"U3, ",1,LP5912-1.1DRV,LP5912-1.1DRV,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias,"500-mA Ultra-Low-Noise Low-IQ LDO, 1.1V, WSON-6",
-"U4, ",1,LP5912-2.5DRV,LP5912-2.5DRV,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias,"500-mA Ultra-Low-Noise Low-IQ LDO, 2.5V, WSON-6",
+"Source:","/Users/akashlevy/Documents/ember-pcb/ember-pcb.kicad_sch"
+"Date:","Tuesday, March 14, 2023 at 11:31:51 AM"
+"Tool:","Eeschema (6.0.9-0)"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","53"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, C3, C6, C8, ","4","22uF","C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B","Polarized capacitor",""
+"C2, C5, C7, C10, C14, ","5","100nF","C","Capacitor_SMD:C_1210_3225Metric","Unpolarized capacitor",""
+"C4, C9, ","2","10uF","C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T","Polarized capacitor",""
+"C11, C12, ","2","27pF","C","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor",""
+"C13, ","1","4.7u","C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T","Polarized capacitor",""
+"D1, D2, ","2","LED","LED","LED_SMD:LED_0603_1608Metric","Light emitting diode",""
+"FB1, FB2, ","2","FerriteBead","FerriteBead","Ferrite_THT:LairdTech_28C0236-0JW-10","Ferrite bead",""
+"FID1, FID2, FID3, ","3","Fiducial","Fiducial","Fiducial:Fiducial_1mm_Mask3mm","Fiducial Marker",""
+"H1, H2, ","2","MountingHole","MountingHole_Pad","MountingHole:MountingHole_2.5mm_Pad","Mounting Hole with connection",""
+"H3, H4, ","2","MountingHole","MountingHole","MountingHole:MountingHole_2.5mm","Mounting Hole without connection",""
+"H5, H6, ","2","MountingHole","MountingHole_Pad","MountingHole:MountingHole_3mm_Pad","Mounting Hole with connection",""
+"J1, ","1","Samtec_ASP-134602-01","Samtec_ASP-134602-01","Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical","Connector array, 10x40, 1.27mm pitch, male pins, gold finish, VITA 57.1 FMC, SMD",""
+"J2, ","1","Conn_02x06_Odd_Even","Conn_02x06_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical","Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J3, J6, J8, J9, ","4","Conn_Coaxial_Power","Conn_Coaxial_Power","Connector_Coaxial:SMA_Molex_73251-2200_Horizontal","coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",""
+"J4, ","1","Conn_02x12_Odd_Even","Conn_02x12_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical","Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J5, ","1","Conn_01x07","Conn_01x07","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J7, ","1","USB_B_Micro","USB_B_Micro","Connector_USB:USB_Micro-B_Molex-105017-0001","USB Micro Type B connector",""
+"R1, R5, ","2","1k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"R2, R3, ","2","100k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"R4, ","1","10k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"R6, ","1","1M","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"R7, ","1","12k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"R8, ","1","47k","R","Resistor_SMD:R_0603_1608Metric","Resistor",""
+"SW1, SW3, ","2","SW_SP3T","SW_SP3T","Button_Switch_SMD:SW_SP3T_PCM13","Switch, three position, single pole triple throw, 3 position switch, SP3T",""
+"SW2, ","1","SW_DIP_x03","SW_DIP_x03","Button_Switch_SMD:SW_DIP_SPSTx03_Slide_Omron_A6S-310x_W8.9mm_P2.54mm","3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",""
+"TP1, ","1","TestPointHeartbeat","TestPoint","TestPoint:TestPoint_Pad_D1.0mm","test point",""
+"U1, ","1","EMBER Macro","EMBER_Macro","ZIF:ARIES_441-PRS21001-12","",""
+"U2, ","1","TLV71209_SOT23-5","TLV71209_SOT23-5","Package_TO_SOT_SMD:SOT-23-5","300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5",""
+"U3, ","1","TLV71211_SOT23-5","TLV71211_SOT23-5","Package_TO_SOT_SMD:SOT-23-5","300mA Low Dropout Voltage Regulator, Fixed Output 1.1V, SOT-23-5",""
+"U4, ","1","FT4222HQ","FT4222HQ","Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm","USB 2.0 to Quad SPI or I2C Bridge, VQFN-32",""
+"Y1, ","1","12MHz","Crystal","Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm","Two pin crystal",""
